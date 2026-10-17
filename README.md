@@ -72,7 +72,7 @@ Section numbers below refer to the originally submitted manuscript.
 | §3.5 Otey physical model (released) | `piano.py`, `note_engine.py`, `hammer.py`, `string_model.py`, `soundboard*.py`, `params.py`, `calib/` |
 | §4 results reproduction | `quality/critic_eval.py` over `data/features/*.csv` |
 | §4.3 eGeMAPS external baseline | `quality/opensmile_baseline.py` |
-| §4.4 listening test | `listening_kit/` (form, answer key, anonymised responses), `quality/build_listening_kit.py`, `quality/score_listening.py` |
+| §4.4 listening test | `listening/test1/` (form, instructions, answer key, clips), anonymised answers in `supplementary/S3/S3_test1_answers.csv`, `quality/build_listening_kit.py`, `quality/score_listening.py` |
 | §5 quality axes (timbre / tuning / liveness) | `quality/axes.py`, `quality/timbre_quality.py`, `quality/aversiveness.py`, `quality/extract_liveness.py`, `detune/` |
 
 ## Released data (base tier)
