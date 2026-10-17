@@ -1,18 +1,64 @@
 # Synthetic-Piano Detector
 
-Code and released data for the paper:
+This repository accompanies the revised manuscript
 
-> **A Semi-Deterministic Detector of Synthetic Pianos**
+> **A Semi-Deterministic Detector of Synthetic Pianos: What a Single Note Reveals**
 > Viktor Rovinskyi and Olga Yevchuk
-> Submitted to the *Journal of the Audio Engineering Society* (JAES).
+> *Journal of the Audio Engineering Society* (JAES), under revision.
 
-The paper asks when a recording of a piano can be told apart from a synthetic
-one, and answers it with a two-branch detector: 47 channel-robust summary
-descriptors of timbre/sustain/tuning, and a phaseogram CNN that reads the
-within-cycle waveform shape. Detection succeeds wherever the synthesis is
-generative (algorithmic), and hits a structural limit on sample-based playback.
+## Supplementary material of the revised paper
 
-## Layout — paper section → code
+| | Content | Location |
+|---|---|---|
+| S1 | Sources and processing, video identifiers, excluded real files, SoundFont instruments | `supplementary/S1_*.md`, `supplementary/S1_*.csv`, `supplementary/soundfont_instruments.csv` |
+| S2 | CNN training details | `supplementary/S2_cnn.md` |
+| S3 | Listening tests: procedure, stimuli, anonymized answers | `supplementary/S3/`; clips, answer keys, test pages and scorers in `listening/` (`test1/`, `pilot/`, `test2/`) |
+| S4 | All result tables with intervals and per-source values | `supplementary/S4_*.md`, `supplementary/S4_*.csv` |
+
+Revised evaluation protocol (scripts, fold assignments, out-of-fold scores, result tables):
+
+| Folder | Content |
+|---|---|
+| `revision/analysis/` | protocol v3 (`final_v3.py`, `run_v3.py`, `v3_*.py`) on the v2 corpus code (`pv2_lib.py`, `protocol_v2.py`, ...); results in `out_v3/` (`FINAL_NUMBERS.md`, `folds.csv`, `fold_seed_sweep.csv`, `controls_scores.csv`, `checksums.txt`, ...) |
+| `revision/analysis/v4/` | enlarged recorded class (13 instruments incl. MAPS Disklavier) |
+| `revision/analysis/out/` | protocol v2 tables referenced by S4 (`oof_scores.csv`, `folds.csv`, `comparisons.csv`) |
+| `revision/cnn_iso/` | phaseogram CNN and fusion on isolated notes |
+| `revision/egemaps/` | eGeMAPS baseline |
+| `figures/` | Figs. 1 and 2 of the revised paper and the scripts that draw them |
+
+## Reproducing the revised protocol
+
+The scripts were run from a project root in which this repository's `revision/` was `Stattia/revision/`
+and the listening kits were `Stattia/listening_kit/` (`listening/test1`), `Stattia/listening_kit_v2/`
+(`listening/pilot`) and `Stattia/listening_kit_v3/` (`listening/test2`); paths of the form
+`Stattia/revision/X` in the scripts and supplementary files refer to `revision/X` here. To rerun,
+recreate that layout around the top-level code of this repository (`quality/`, `detune/`, `calib/`, `*.py`)
+and place the audio under `audio/` as listed in S1. Then:
+
+```
+pip install -r requirements.txt xgboost==3.2.0 pandas
+python Stattia/revision/analysis/final_v3.py    # = revision/analysis/final_v3.py: Tables and Sec. 5 numbers -> out_v3/
+python Stattia/revision/analysis/v4/run_v4.py   # = revision/analysis/v4/run_v4.py: enlarged recorded class
+python Stattia/revision/cnn_iso/run_all.py      # = revision/cnn_iso/run_all.py: CNN / fusion on isolated notes
+python Stattia/revision/egemaps/run_egemaps.py  # = revision/egemaps/run_egemaps.py: eGeMAPS baseline (needs opensmile)
+```
+
+Environment of the reported runs: Python 3.10, numpy 1.26.4, pandas 1.5.2, xgboost 3.2.0 (n_jobs=1,
+random_state=0), torch 2.0.1 (CPU). The repository holds no YouTube audio; recordings must be obtained
+from the sources listed in S1. `revision/**/checksums.txt` give the md5 of the output tables
+(in `out_v3/c5_loop_index.csv` the local path prefix was removed for publication and its checksum updated).
+`revision/audit/real_class_exclusions.csv` is the screen of the real class read by `v3_lib.py` (file, video id, decision,
+category, group id; the title and evidence columns are omitted for publication); `out_v3/excluded_real_v3.csv` lists the 105 removed files.
+
+## Note on the released models
+
+The trained models released here in July 2026 (`quality/cache/realness_xgb.json`, `quality/cache/realness_net.pt`)
+are later versions than the models of the original submission. The results of the revised paper are fully
+defined by the scripts, fold assignments and out-of-fold scores in `revision/`; they do not use those files.
+
+## Original submission (July 2026 release): paper section → code
+
+Section numbers below refer to the originally submitted manuscript.
 
 | Paper section | Code |
 |---|---|

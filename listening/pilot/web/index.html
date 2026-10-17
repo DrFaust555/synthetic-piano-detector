@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="uk"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Справжнє фортепіано чи синтетичне?</title>
+<style>
+ :root{--bg:#ffffff;--fg:#1a1a1a;--muted:#5a5a5a;--line:#d9d9d9;--card:#fafafa;--accent:#1f5fd6;--ok:#0a7a35;--warn:#b3261e;--note:#f1f5ff}
+ *{box-sizing:border-box}
+ body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:var(--fg);max-width:720px;margin:0 auto;padding:16px;line-height:1.45}
+ h1{font-size:22px;margin:4px 0 12px}
+ .note{background:var(--note);border-radius:10px;padding:12px 14px;font-size:15px}
+ .note p{margin:6px 0}
+ .fields{margin:16px 0}
+ .fields label{display:block;margin:10px 0 4px;font-weight:600}
+ input[type=text],select,textarea{width:100%;font-size:16px;padding:9px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--fg)}
+ .clip{border:1px solid var(--line);border-radius:12px;padding:12px;margin:12px 0;background:var(--card)}
+ .clip.done{border-color:var(--ok)}
+ .lbl{font-weight:700;margin-bottom:8px}
+ audio{width:100%;margin-bottom:6px}
+ .q{font-weight:600;margin:6px 0}
+ .opts{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+ .opts label{display:flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:8px;padding:9px;background:#fff;cursor:pointer;font-size:15px}
+ .opts input{width:18px;height:18px;margin:0;flex:none}
+ @media (min-width:640px){.opts{grid-template-columns:repeat(4,1fr)}}
+ .final{margin:18px 0}
+ .final label{font-weight:600;display:block;margin-bottom:6px}
+ .btnlink{display:inline-block;text-decoration:none;font-size:16px;padding:11px 14px;border-radius:8px;margin:6px 6px 0 0;background:#e8eef7;color:#123}
+ button{font-size:16px;padding:11px 14px;border:0;border-radius:8px;cursor:pointer;margin:6px 6px 0 0}
+ #fin,#dl{background:var(--accent);color:#fff}
+ #fin{width:100%;margin:8px 0}
+ .b2{background:#e8ecf7;color:var(--fg)}
+ #msg{font-weight:600;min-height:1.2em}
+ #msg.err{color:var(--warn)} #msg.good{color:var(--ok)}
+ #prog{color:var(--muted);font-size:14px}
+ #out{height:120px;font-family:ui-monospace,Consolas,monospace;font-size:12px;margin-top:8px}
+ .small{font-size:13px;color:var(--muted);margin-top:28px}
+ .link{background:none;color:var(--muted);text-decoration:underline;padding:0;font-size:13px}
+</style></head>
+<body>
+<h1>Справжнє фортепіано чи синтетичне?</h1>
+<div class="note">
+ <p>Дякуємо, що допомагаєте! Тест займає приблизно 5 хвилин.</p>
+ <p>Нижче <b>24 кліпи</b>. Кожен кліп &mdash; <b>одна нота</b> фортепіано. Усі кліпи <b>короткі й однакової
+ довжини</b> (приблизно 1,3&nbsp;с): кожен наприкінці плавно затихає, тож за тривалістю звуку нічого не визначиш.</p>
+ <p>Послухайте кожен кліп і виберіть: це <b>справжнє фортепіано</b> (запис акустичного інструмента) чи
+ <b>синтетичне</b> звучання (створене електронним інструментом або комп&rsquo;ютерною програмою).</p>
+ <p>Кожен кліп можна слухати скільки завгодно разів. Справжніх і синтетичних кліпів не обов&rsquo;язково
+ порівну &mdash; оцінюйте кожен кліп окремо, довіряйте першому враженню й ні з ким не радьтеся.</p>
+ <p><b>Найкраще слухати в навушниках</b>, у тиші.</p>
+</div>
+<div class="fields">
+ <label for="who">Ваше ім&rsquo;я або нік</label>
+ <input type="text" id="who" autocomplete="off" maxlength="60">
+ <label for="exp">Ваш музичний досвід</label>
+ <select id="exp"><option value="">&mdash; оберіть &mdash;</option><option value="none">Без музичної освіти</option><option value="amateur">Аматор</option><option value="music_school">Музична школа</option><option value="professional">Професійний музикант</option></select>
+</div>
+<div id="clips"></div>
+<div class="final">
+ <label for="free">На що ви звертали увагу, коли вирішували?</label>
+ <textarea id="free" rows="4" maxlength="2000"></textarea>
+</div>
+<p id="prog"></p>
+<button id="fin" type="button">Завершити</button>
+<p id="msg"></p>
+<div id="res" hidden>
+ <p class="note">Дякуємо! Надішліть відповіді автору тесту: натисніть <b>«Завантажити відповіді»</b> і
+ надішліть отриманий файл &mdash; або скопіюйте текст нижче й вставте його в повідомлення. На телефоні найпростіше натиснути <b>«Надіслати в Telegram»</b>. Якщо кнопки не працюють, утримуйте палець на тексті нижче, виберіть «Виділити все» і «Копіювати».</p>
+ <button id="dl" type="button">Завантажити відповіді</button>
+ <button id="cp" class="b2" type="button">Копіювати текст</button>
+ <button id="sh" class="b2" type="button" hidden>Поділитися</button>
+ <a id="tg" class="b2 btnlink" target="_blank" rel="noopener">Надіслати в Telegram</a>
+ <a id="ml" class="b2 btnlink">Надіслати e-mail</a>
+ <textarea id="out" readonly rows="8" style="width:100%;font-size:13px"></textarea>
+</div>
+<p class="small"><button id="reset" class="link" type="button">Почати заново (новий слухач на цьому пристрої)</button></p>
+<script>
+(function () {
+  'use strict';
+  var IDS = ["clip_01", "clip_02", "clip_03", "clip_04", "clip_05", "clip_06", "clip_07", "clip_08", "clip_09", "clip_10", "clip_11", "clip_12", "clip_13", "clip_14", "clip_15", "clip_16", "clip_17", "clip_18", "clip_19", "clip_20", "clip_21", "clip_22", "clip_23", "clip_24"];
+  var SRC = {"clip_01": "clip_01.wav", "clip_02": "clip_02.wav", "clip_03": "clip_03.wav", "clip_04": "clip_04.wav", "clip_05": "clip_05.wav", "clip_06": "clip_06.wav", "clip_07": "clip_07.wav", "clip_08": "clip_08.wav", "clip_09": "clip_09.wav", "clip_10": "clip_10.wav", "clip_11": "clip_11.wav", "clip_12": "clip_12.wav", "clip_13": "clip_13.wav", "clip_14": "clip_14.wav", "clip_15": "clip_15.wav", "clip_16": "clip_16.wav", "clip_17": "clip_17.wav", "clip_18": "clip_18.wav", "clip_19": "clip_19.wav", "clip_20": "clip_20.wav", "clip_21": "clip_21.wav", "clip_22": "clip_22.wav", "clip_23": "clip_23.wav", "clip_24": "clip_24.wav"};
+  var SCALE = [["1", "точно справжнє"], ["2", "скоріше справжнє"], ["3", "скоріше синтетичне"], ["4", "точно синтетичне"]];
+  var KEY = 'piano_listening_test_v2';
+  var state = null;
+
+  function el(id) { return document.getElementById(id); }
+  function randInt(n) {
+    try { var u = new Uint32Array(1); window.crypto.getRandomValues(u); return u[0] % n; }
+    catch (e) { return Math.floor(Math.random() * n); }
+  }
+  function shuffled(a) {
+    a = a.slice();
+    for (var i = a.length - 1; i > 0; i--) { var j = randInt(i + 1); var t = a[i]; a[i] = a[j]; a[j] = t; }
+    return a;
+  }
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {} }
+  function validOrder(o) {
+    if (!o || o.length !== IDS.length) return false;
+    var s = o.slice().sort().join(','); return s === IDS.slice().sort().join(',');
+  }
+  function fresh() { return { order: shuffled(IDS), ans: {}, who: '', exp: '', free: '', exported: false }; }
+  function loadState() {
+    var s = null;
+    try { s = JSON.parse(localStorage.getItem(KEY) || 'null'); } catch (e) { s = null; }
+    if (s && !s.exported && validOrder(s.order) && s.ans) return s;
+    return fresh();
+  }
+  function msg(t, cls) { var m = el('msg'); m.textContent = t; m.className = cls || ''; }
+  function progress() {
+    var n = 0; IDS.forEach(function (c) { if (state.ans[c]) n++; });
+    el('prog').textContent = 'Оцінено кліпів: ' + n + ' з ' + IDS.length;
+  }
+
+  function render() {
+    var box = el('clips'); box.innerHTML = '';
+    state.order.forEach(function (cid, i) {
+      var card = document.createElement('div'); card.className = 'clip'; card.id = 'card_' + cid;
+      var lbl = document.createElement('div'); lbl.className = 'lbl';
+      lbl.textContent = 'Кліп ' + (i + 1) + ' з ' + IDS.length; card.appendChild(lbl);
+      var au = document.createElement('audio'); au.controls = true; au.preload = 'none'; au.src = SRC[cid];
+      au.addEventListener('play', function () {
+        var all = document.getElementsByTagName('audio');
+        for (var k = 0; k < all.length; k++) { if (all[k] !== au) all[k].pause(); }
+      });
+      card.appendChild(au);
+      var q = document.createElement('div'); q.className = 'q';
+      q.textContent = 'Справжнє фортепіано чи синтетичне?'; card.appendChild(q);
+      var opts = document.createElement('div'); opts.className = 'opts';
+      SCALE.forEach(function (s) {
+        var lab = document.createElement('label');
+        var r = document.createElement('input'); r.type = 'radio'; r.name = cid; r.value = s[0];
+        if (state.ans[cid] === s[0]) { r.checked = true; card.className = 'clip done'; }
+        r.addEventListener('change', function () {
+          state.ans[cid] = s[0]; card.className = 'clip done'; save(); progress();
+        });
+        lab.appendChild(r); lab.appendChild(document.createTextNode(s[0] + ' — ' + s[1]));
+        opts.appendChild(lab);
+      });
+      card.appendChild(opts); box.appendChild(card);
+    });
+    el('who').value = state.who || ''; el('exp').value = state.exp || ''; el('free').value = state.free || '';
+    progress();
+  }
+
+  function field(v) {
+    var s = String(v == null ? '' : v).replace(/[\r\n\t]+/g, ' ').trim();
+    return '"' + s.replace(/"/g, '""') + '"';
+  }
+  function buildCsv() {
+    var head = ['listener', 'experience', 'order'].concat(IDS).concat(['free_text', 'timestamp']);
+    var order = state.order.map(function (c) { return c.replace('clip_', ''); }).join('-');
+    var row = [field(state.who), state.exp, order]
+      .concat(IDS.map(function (c) { return state.ans[c]; }))
+      .concat([field(state.free), new Date().toISOString()]);
+    return head.join(',') + '\n' + row.join(',') + '\n';
+  }
+  function finish() {
+    state.who = el('who').value.trim(); state.exp = el('exp').value; state.free = el('free').value; save();
+    if (!state.who) { msg('Вкажіть, будь ласка, ім’я або нік (угорі сторінки).', 'err'); el('who').focus(); return; }
+    if (!state.exp) { msg('Оберіть, будь ласка, ваш музичний досвід (угорі сторінки).', 'err'); el('exp').focus(); return; }
+    var miss = [];
+    state.order.forEach(function (c, i) { if (!state.ans[c]) miss.push(i + 1); });
+    if (miss.length) {
+      msg('Ще не оцінено кліпи: ' + miss.join(', '), 'err');
+      el('card_' + state.order[miss[0] - 1]).scrollIntoView({ behavior: 'smooth', block: 'center' });
+      return;
+    }
+    window.__csv = buildCsv();
+    el('out').value = window.__csv;
+    el('res').hidden = false;
+    if (navigator.share) el('sh').hidden = false;
+    var enc = encodeURIComponent(window.__csv);
+    el('tg').href = 'https://t.me/share/url?url=' + encodeURIComponent(' ') + '&text=' + enc;
+    el('ml').href = 'mailto:?subject=' + encodeURIComponent('Відповіді: тест фортепіано v2') + '&body=' + enc;
+    el('tg').onclick = exported; el('ml').onclick = exported;
+    msg('Готово! Надішліть відповіді (кнопки нижче).', 'good');
+    el('res').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+  function exported() { state.exported = true; save(); }
+  function download() {
+    try {
+      var name = 'responses_v2_' + (state.who || 'anon').replace(/[\\\/:*?"<>|\s,;]+/g, '_') + '.csv';
+      var blob = new Blob(['\ufeff' + window.__csv], { type: 'text/csv;charset=utf-8' });
+      var a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = name;
+      document.body.appendChild(a); a.click(); a.remove();
+      exported(); msg('Файл збережено. Надішліть його автору тесту.', 'good');
+    } catch (e) { copy(); }
+  }
+  function copy() {
+    var t = el('out'); t.focus(); t.select();
+    var done = function () { exported(); msg('Скопійовано — вставте текст у повідомлення автору тесту.', 'good'); };
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(window.__csv).then(done, function () {
+        try { document.execCommand('copy'); done(); } catch (e) { msg('Виділіть текст нижче і скопіюйте вручну.', 'err'); }
+      });
+    } else {
+      try { document.execCommand('copy'); done(); } catch (e) { msg('Виділіть текст нижче і скопіюйте вручну.', 'err'); }
+    }
+  }
+  function share() {
+    navigator.share({ title: 'Відповіді: тест фортепіано v2', text: window.__csv }).then(exported, function () {});
+  }
+
+  state = loadState(); save(); render();
+  el('who').addEventListener('input', function () { state.who = el('who').value; save(); });
+  el('exp').addEventListener('change', function () { state.exp = el('exp').value; save(); });
+  el('free').addEventListener('input', function () { state.free = el('free').value; save(); });
+  el('fin').addEventListener('click', finish);
+  el('dl').addEventListener('click', download);
+  el('cp').addEventListener('click', copy);
+  el('sh').addEventListener('click', share);
+  el('reset').addEventListener('click', function () {
+    if (window.confirm('Стерти відповіді на цьому пристрої й почати тест заново?')) {
+      try { localStorage.removeItem(KEY); } catch (e) {}
+      state = fresh(); save(); render(); el('res').hidden = true; msg('');
+      window.scrollTo(0, 0);
+    }
+  });
+})();
+</script>
+</body></html>

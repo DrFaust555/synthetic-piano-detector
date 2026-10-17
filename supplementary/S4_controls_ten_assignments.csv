@@ -1,0 +1,37 @@
+featset,source,condition,seed0,median10,min10,max10
+all47,SoundFont,orig,0.9372,0.9298,0.9190,0.9372
+all47,SoundFont,c1a,0.8190,0.8139,0.7835,0.8238
+all47,SoundFont,c1b,0.8398,0.8224,0.7883,0.8398
+all47,SoundFont,c3,0.9231,0.9133,0.9009,0.9231
+all47,SoundFont,c1a+c3,0.8611,0.8467,0.8343,0.8633
+all47,SoundFont,c1b+c3,0.9397,0.9238,0.9152,0.9397
+all47,"SoundFont, unaltered sample",orig,0.9312,0.9251,0.9110,0.9347
+all47,"SoundFont, unaltered sample",c1a,0.8181,0.7883,0.7303,0.8181
+all47,"SoundFont, unaltered sample",c1b,0.8263,0.8004,0.7708,0.8263
+all47,"SoundFont, unaltered sample",c3,0.9121,0.8949,0.8732,0.9121
+all47,"SoundFont, unaltered sample",c1a+c3,0.8501,0.8223,0.7984,0.8501
+all47,"SoundFont, unaltered sample",c1b+c3,0.9285,0.9067,0.8823,0.9285
+all47,Otey,orig,0.8206,0.8129,0.7833,0.8307
+all47,Otey,c1a,0.6452,0.6409,0.6151,0.6682
+all47,Otey,c1b,0.7796,0.7549,0.7370,0.7834
+all47,Otey,c3,0.6994,0.6714,0.6247,0.7016
+all47,Otey,c1a+c3,0.7588,0.7328,0.6999,0.7588
+all47,Otey,c1b+c3,0.8310,0.7964,0.7668,0.8310
+all47,"library notes, mf layer",orig,0.6205,0.5446,0.5193,0.6205
+all47,"library notes, mf layer",c1a,0.6575,0.5599,0.5467,0.6575
+all47,"library notes, mf layer",c1b,0.6210,0.5366,0.4753,0.6210
+all47,"library notes, mf layer",c3,0.5855,0.5482,0.5161,0.5888
+all47,"library notes, mf layer",c1a+c3,0.6241,0.5594,0.5481,0.6442
+all47,"library notes, mf layer",c1b+c3,0.6418,0.6070,0.5694,0.6418
+all47,"library notes, all layers",orig,0.6451,0.6142,0.5721,0.6451
+all47,"library notes, all layers",c1a,0.7097,0.6476,0.6121,0.7097
+all47,"library notes, all layers",c1b,0.6835,0.6529,0.6020,0.6835
+all47,"library notes, all layers",c3,0.5842,0.5621,0.5246,0.5845
+all47,"library notes, all layers",c1a+c3,0.6630,0.6351,0.6084,0.6654
+all47,"library notes, all layers",c1b+c3,0.6695,0.6517,0.6286,0.6695
+all47,CCMusic FA,orig,0.1153,0.1265,0.1033,0.1302
+all47,CCMusic FA,c1a,0.2174,0.2196,0.2069,0.2519
+all47,CCMusic FA,c1b,0.2289,0.2474,0.2132,0.2947
+all47,CCMusic FA,c3,0.2009,0.2031,0.1964,0.2339
+all47,CCMusic FA,c1a+c3,0.2508,0.2553,0.2342,0.2808
+all47,CCMusic FA,c1b+c3,0.2079,0.2355,0.2079,0.2605

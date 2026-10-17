@@ -1,0 +1,138 @@
+<!doctype html><html lang="uk"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Реальне піаніно чи синтетичне?</title><style>
+ body{font-family:system-ui,Arial,sans-serif;max-width:680px;margin:0 auto;padding:16px;color:#1a1a1a}
+ h1{font-size:20px}.clip{border:1px solid #ddd;border-radius:10px;padding:10px;margin:10px 0}
+ .lbl{font-weight:600;margin-bottom:6px}audio{width:100%}select{width:100%;padding:8px;margin-top:8px;font-size:15px}
+ input{font-size:15px;padding:8px}button{font-size:15px;padding:10px;border:0;border-radius:8px;margin:6px 4px 0 0;cursor:pointer}
+ #fin{background:#1769ff;color:#fff;width:100%;margin:14px 0}.b2{background:#eef}
+ #out{width:100%;height:80px}#res{display:none}#msg{color:#0a7a0a;font-weight:600}
+ .note{background:#f3f6ff;border-radius:8px;padding:10px;font-size:14px}
+</style></head><body>
+<h1>🎹 Реальне піаніно чи синтетичне?</h1>
+<p class="note">Послухай кожен кліп (одна нота, ~3 с) і виріши: <b>жива акустична піаніно</b> чи
+<b>синтетичний/цифровий</b> звук. Тут <b>немає</b> 50/50 — суди кожен окремо. Найкраще в навушниках.</p>
+<p><label>Твій нік: <input id="who" placeholder="ім'я або нік"></label></p>
+<p><label>Рівень: <select id="exp"><option value="lay">не музикант</option>
+ <option value="amateur">аматор</option><option value="musician">музикант</option>
+ <option value="technician">настройщик/майстер</option></select></label></p>
+
+  <div class="clip"><div class="lbl">clip_01</div>
+   <audio controls preload="none" src="clip_01.wav"></audio>
+   <select data-clip="clip_01"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_02</div>
+   <audio controls preload="none" src="clip_02.wav"></audio>
+   <select data-clip="clip_02"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_03</div>
+   <audio controls preload="none" src="clip_03.wav"></audio>
+   <select data-clip="clip_03"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_04</div>
+   <audio controls preload="none" src="clip_04.wav"></audio>
+   <select data-clip="clip_04"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_05</div>
+   <audio controls preload="none" src="clip_05.wav"></audio>
+   <select data-clip="clip_05"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_06</div>
+   <audio controls preload="none" src="clip_06.wav"></audio>
+   <select data-clip="clip_06"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_07</div>
+   <audio controls preload="none" src="clip_07.wav"></audio>
+   <select data-clip="clip_07"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_08</div>
+   <audio controls preload="none" src="clip_08.wav"></audio>
+   <select data-clip="clip_08"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_09</div>
+   <audio controls preload="none" src="clip_09.wav"></audio>
+   <select data-clip="clip_09"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_10</div>
+   <audio controls preload="none" src="clip_10.wav"></audio>
+   <select data-clip="clip_10"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_11</div>
+   <audio controls preload="none" src="clip_11.wav"></audio>
+   <select data-clip="clip_11"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_12</div>
+   <audio controls preload="none" src="clip_12.wav"></audio>
+   <select data-clip="clip_12"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_13</div>
+   <audio controls preload="none" src="clip_13.wav"></audio>
+   <select data-clip="clip_13"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_14</div>
+   <audio controls preload="none" src="clip_14.wav"></audio>
+   <select data-clip="clip_14"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_15</div>
+   <audio controls preload="none" src="clip_15.wav"></audio>
+   <select data-clip="clip_15"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_16</div>
+   <audio controls preload="none" src="clip_16.wav"></audio>
+   <select data-clip="clip_16"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_17</div>
+   <audio controls preload="none" src="clip_17.wav"></audio>
+   <select data-clip="clip_17"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_18</div>
+   <audio controls preload="none" src="clip_18.wav"></audio>
+   <select data-clip="clip_18"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_19</div>
+   <audio controls preload="none" src="clip_19.wav"></audio>
+   <select data-clip="clip_19"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_20</div>
+   <audio controls preload="none" src="clip_20.wav"></audio>
+   <select data-clip="clip_20"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_21</div>
+   <audio controls preload="none" src="clip_21.wav"></audio>
+   <select data-clip="clip_21"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_22</div>
+   <audio controls preload="none" src="clip_22.wav"></audio>
+   <select data-clip="clip_22"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_23</div>
+   <audio controls preload="none" src="clip_23.wav"></audio>
+   <select data-clip="clip_23"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_24</div>
+   <audio controls preload="none" src="clip_24.wav"></audio>
+   <select data-clip="clip_24"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_25</div>
+   <audio controls preload="none" src="clip_25.wav"></audio>
+   <select data-clip="clip_25"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_26</div>
+   <audio controls preload="none" src="clip_26.wav"></audio>
+   <select data-clip="clip_26"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_27</div>
+   <audio controls preload="none" src="clip_27.wav"></audio>
+   <select data-clip="clip_27"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_28</div>
+   <audio controls preload="none" src="clip_28.wav"></audio>
+   <select data-clip="clip_28"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_29</div>
+   <audio controls preload="none" src="clip_29.wav"></audio>
+   <select data-clip="clip_29"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+  <div class="clip"><div class="lbl">clip_30</div>
+   <audio controls preload="none" src="clip_30.wav"></audio>
+   <select data-clip="clip_30"><option value="">— обери —</option><option value="1">1 — точно реальне</option><option value="2">2 — скоріше реальне</option><option value="3">3 — скоріше синтетичне</option><option value="4">4 — точно синтетичне</option></select></div>
+<button id="fin" onclick="finish()">Завершити</button>
+<p id="msg"></p>
+<div id="res"><p class="note">Надішли мені відповіді — будь-яким способом:</p>
+ <button class="b2" onclick="sh()">📤 Поділитися</button>
+ <button class="b2" onclick="dl()">⬇️ Завантажити CSV</button>
+ <button class="b2" onclick="cp()">📋 Копіювати</button>
+ <textarea id="out" readonly></textarea></div>
+<script>
+ var IDS=['clip_01', 'clip_02', 'clip_03', 'clip_04', 'clip_05', 'clip_06', 'clip_07', 'clip_08', 'clip_09', 'clip_10', 'clip_11', 'clip_12', 'clip_13', 'clip_14', 'clip_15', 'clip_16', 'clip_17', 'clip_18', 'clip_19', 'clip_20', 'clip_21', 'clip_22', 'clip_23', 'clip_24', 'clip_25', 'clip_26', 'clip_27', 'clip_28', 'clip_29', 'clip_30'];
+ function finish(){
+   var who=(document.getElementById('who').value||'').trim()||'anon';
+   var exp=document.getElementById('exp').value, vals=[], miss=0;
+   IDS.forEach(function(c){var s=document.querySelector('select[data-clip="'+c+'"]');
+     if(!s.value)miss++; vals.push(s.value||'');});
+   if(miss){document.getElementById('msg').textContent='Залишилось оцінити кліпів: '+miss;return;}
+   document.getElementById('msg').textContent='Готово! Скопіюй рядок нижче або натисни «Поділитися» / «Завантажити».';
+   var csv='listener_id,experience,'+IDS.join(',')+'\n'+[who,exp].concat(vals).join(',')+'\n';
+   document.getElementById('out').value=csv;
+   document.getElementById('res').style.display='block';
+   window.__csv=csv; window.__who=who;
+ }
+ function cp(){navigator.clipboard&&navigator.clipboard.writeText(window.__csv);
+   document.getElementById('msg').textContent='Скопійовано — встав у відповідь мені.';}
+ function sh(){ if(navigator.share){navigator.share({title:'Мої відповіді',text:window.__csv});}
+   else{cp();} }
+ function dl(){ try{var b=new Blob([window.__csv],{type:'text/csv'}),a=document.createElement('a');
+   a.href=URL.createObjectURL(b);a.download='responses_'+window.__who.replace(/[^a-zA-Z0-9_-]/g,'_')+'.csv';
+   document.body.appendChild(a);a.click();a.remove();}catch(e){cp();} }
+</script></body></html>

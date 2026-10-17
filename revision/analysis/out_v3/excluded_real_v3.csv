@@ -1,0 +1,106 @@
+file,reason,source
+brands_extra/becker_PiNUjUzvoho.wav,digital piano (Becker HP 66 Digital),CODE_AUDIT B1
+brands_extra/bell_H_guQeAgQHo.wav,digital piano (Dexibell VIVO H10MG),CODE_AUDIT B1
+brands_extra/butler_Fw9OxOghZVo.wav,probable Synthesia video,CODE_AUDIT B1
+brands_extra/chase_dZI2xPuaxCo.wav,digital piano (Chase P-55),CODE_AUDIT B1
+brands_extra/clementi_g__pcziWU2A.wav,digital piano (Kurzweil CUP2),CODE_AUDIT B1
+brands_extra/kawai_KrK2nRrbxQQ.wav,digital piano (Kawai DG30 Digital Grand),CODE_AUDIT B1
+brands_extra/parsons_4d1ZFfnUwDY.wav,sample library (IK SampleTank Alan Parsons Imperial Grand),CODE_AUDIT B1
+brands_extra/parsons_LoLX5RLFTlk.wav,sample library (IK SampleTank Alan Parsons Imperial Grand),CODE_AUDIT B1
+brands_extra/parsons_M5efrI6CbvY.wav,sample library (IK SampleTank Alan Parsons Imperial Grand),CODE_AUDIT B1
+brands_extra/parsons_qU9Fi1aqPl4.wav,sample library (IK SampleTank Alan Parsons Imperial Grand),CODE_AUDIT B1
+brands_extra/parsons_vQNTtbrMZAQ.wav,probable Synthesia video,CODE_AUDIT B1
+brands_extra/parsons_zjN9w6jmEfY.wav,sample library (IK SampleTank Alan Parsons Imperial Grand),CODE_AUDIT B1
+brands_extra/ravenscroft_0xCITWRZFk8.wav,virtual instrument (Ravenscroft 275 iOS app),CODE_AUDIT B1
+brands_extra/ravenscroft_AB4XlMedsM0.wav,virtual instrument (Ravenscroft 275 iOS app),CODE_AUDIT B1
+brands_extra/ravenscroft_HKypM-VAVug.wav,virtual instrument (Ravenscroft 275 iOS app),CODE_AUDIT B1
+brands_extra/ravenscroft_jCZuTryAV58.wav,virtual instrument (Ravenscroft 275 iOS app),CODE_AUDIT B1
+brands_extra/ravenscroft_lwAmNGzgqZo.wav,virtual instrument (Ravenscroft 275 VI at NAMM),CODE_AUDIT B1
+brands_extra/ravenscroft_pBoc0fyojRg.wav,virtual instrument (Ravenscroft 275 iOS app),CODE_AUDIT B1
+brands_extra/ravenscroft_rpquLAhuJIg.wav,virtual instrument (Ravenscroft 275 VI at NAMM),CODE_AUDIT B1
+brands_extra/ravenscroft_wtY1go01gfo.wav,virtual instrument (Ravenscroft 275 VI at NAMM),CODE_AUDIT B1
+brands_extra/stuart_mVYCneSwxWg.wav,"electric piano (""Electric Piano Solo"")",CODE_AUDIT B1
+147_petrof_p135_k1_88.wav,"PETROF COLOURS cover video: the audio is the Pianoteq physically-modelled virtual piano, not the upright shown",real_class_exclusions.csv
+148_petrof_p127_next_85.wav,"PETROF COLOURS cover video: the audio is the Pianoteq physically-modelled virtual piano, not the upright shown",real_class_exclusions.csv
+153_petrof_p125_m1_85.wav,"PETROF COLOURS cover video: the audio is the Pianoteq physically-modelled virtual piano, not the upright shown",real_class_exclusions.csv
+219_yamaha_su7_90.wav,"duplicate of 221_yamaha_su7_90_c.wav (different video ids (qRKy7_4ybmA kept, oXLtQDP20s4 dropped)); pair-specific choice [content category: acoustic; keep]",real_class_exclusions.csv
+329_kimball_console_55_c.wav,"duplicate of 328_kimball_console_58_b.wav (different video ids (WfoTY-r3U6s kept, r6HdNL8ylFA dropped)); longer / first copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+347_glinka_t183_83.wav,"duplicate of 346_glinka_m185_84.wav (different video ids (Y3LuSNU00QQ kept, tckVOj7UKr8 dropped)); earliest upload kept (20220303 vs 20230119) [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/aeolian_gfo6z74qbd8.wav,push-up pianola demonstrated on a Yamaha electronic piano,real_class_exclusions.csv
+brands_extra/alfred_Hl1ZjKzqW_o.wav,recorded from a (digital) keyboard into a computer,real_class_exclusions.csv
+brands_extra/alfred_iZGGgJengbY.wav,teacher demo; the uploader states she owns a Roland digital piano,real_class_exclusions.csv
+brands_extra/baus_JzEj9aInHQU.wav,piano with singing,real_class_exclusions.csv
+brands_extra/becker_e7nYslQOxvI.wav,tags list the virtual instruments used (Garritan / VSL Synchron / CFX VST),real_class_exclusions.csv
+brands_extra/becker_gnLu2SxQowg.wav,art song: voice and piano,real_class_exclusions.csv
+brands_extra/becker_l0r_rsH3jwI.wav,review of the Becker BAP-62 digital piano,real_class_exclusions.csv
+brands_extra/belarus_F4YP46_HHvs.wav,"duplicate of brands_extra/belarus_C54sbYl8MVM.wav (different video ids (C54sbYl8MVM kept, F4YP46_HHvs dropped)); earliest upload kept (20120803 vs 20120806) [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/bell_Z3bNAvaQihA.wav,"Rousseau channel: falling-notes MIDI visualisation videos; the MIDI file is sold, no acoustic recording stated",real_class_exclusions.csv
+brands_extra/boisselot_GThqeYxF4lk.wav,"duplicate of brands_extra/boisselot_3hioHaqbNdg.wav (different video ids (3hioHaqbNdg kept, GThqeYxF4lk dropped)); the shorter copy is contained in the kept one [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/borgato_69DyULfC31A.wav,"duplicate of brands_extra/borgato_zj-P9vFVUh0.wav (different video ids (zj-P9vFVUh0 kept, 69DyULfC31A dropped)); earliest upload kept (20191030 vs 20220119) [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/brinsmead_tVflPopMqu0.wav,"duplicate of brands_extra/brinsmead_Z0ybSme_Vrg.wav (different video ids (Z0ybSme_Vrg kept, tVflPopMqu0 dropped)); longer / first copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/carl_zSK3dF3nXIg.wav,flute and piano sonata (score video),real_class_exclusions.csv
+brands_extra/cavendish_zSp2kAsP0D4.wav,"duplicate of brands_extra/cavendish_323D2Sh0NoI.wav (different video ids (323D2Sh0NoI kept, zSp2kAsP0D4 dropped)); earliest upload kept (20140327 vs 20140330) [content category: player_reproducing; keep]",real_class_exclusions.csv
+brands_extra/chase_quQgbDowTPA.wav,"falling-notes tutorial channel ('pianthesia', flowkey sponsor); no acoustic recording stated",real_class_exclusions.csv
+brands_extra/clementi_4wQQGKgqrvg.wav,piano with triangle and tambourine,real_class_exclusions.csv
+brands_extra/clementi_HRDZajVJKDs.wav,"played on a digital stage piano, audio rendered with the Garritan CFX virtual piano from MIDI",real_class_exclusions.csv
+brands_extra/clementi_Tc3xizExH3o.wav,Yamaha Clavinova digital piano,real_class_exclusions.csv
+brands_extra/cunningham_GHOznaG-S00.wav,"duplicate of brands_extra/cunningham_dimDuslkAVQ.wav (different video ids (dimDuslkAVQ kept, GHOznaG-S00 dropped)); pair-specific choice [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/currier_hTFHWsXA6Ic.wav,"duplicate of brands_extra/currier_UNpfRZqFe8w.wav (different video ids (UNpfRZqFe8w kept, hTFHWsXA6Ic dropped)); longer / first copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/decker_mcuiO3c_yjM.wav,piano and cello,real_class_exclusions.csv
+brands_extra/decker_Xt_FCoQPdrE.wav,jam session of a pianist and a saxophonist,real_class_exclusions.csv
+brands_extra/emerson_n3JEaXQ18kA.wav,"rock band with orchestra, live",real_class_exclusions.csv
+brands_extra/estey_CqHnMjTY1eU.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/estey_LU5FlgBTfnE.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/estey_OMBrUu-MSFk.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/estey_WuGE4v50080.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/estey_yu6ez8PzVSQ.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/fazioli_W-AaaICEO_w.wav,"duplicate of brands_extra/fazioli_Ltgy5uN_OqA.wav (different video ids (Ltgy5uN_OqA kept, W-AaaICEO_w dropped)); longer / first copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/french_YUAvoM7o_AE.wav,"duplicate of brands_extra/starck_8AO86ibgj_w.wav (different video ids (8AO86ibgj_w kept, YUAvoM7o_AE dropped)); earliest upload kept (20160621 vs 20160719) [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/gabler_8rbja3kl9hE.wav,"duplicate of brands_extra/gabler_FT37GS7iCNU.wav (different video ids (FT37GS7iCNU kept, 8rbja3kl9hE dropped)); longer / first copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/gabler__Tga7eA4Sw4.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/hailun_fHREFIzMDW8.wav,"duplicate of 174_hailun_hu5p_81.wav (different video ids (J-4Cr3Vc33I kept, fHREFIzMDW8 dropped)); manifest copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/irmler_6kg74tH7s68.wav,"duplicate of brands_extra/irmler_nfo0_WqjASY.wav (different video ids (nfo0_WqjASY kept, 6kg74tH7s68 dropped)); earliest upload kept (20120803 vs 20120806) [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/jacob_c__TfERRkio.wav,"78-rpm dance-band record, not a solo piano",real_class_exclusions.csv
+brands_extra/julius_C6lRvVjpySs.wav,MuseScore interactive piano tutorial (score playback / MIDI rendering) of a sax-duet arrangement,real_class_exclusions.csv
+brands_extra/julius_wecNrRUZ1yE.wav,violin and piano sonata,real_class_exclusions.csv
+brands_extra/kawai_Y55fYNSthcU.wav,"duplicate of brands_extra/kawai_R6hTg56GsCw.wav (different video ids (R6hTg56GsCw kept, Y55fYNSthcU dropped)); earliest upload kept (20231010 vs 20231020) [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/krakauer_mtQJZMubIWM.wav,clarinet (David Krakauer) and piano (Kathleen Tagg) duo,real_class_exclusions.csv
+brands_extra/krakauer_SBJLaBWX4UE.wav,clarinet (David Krakauer) and piano (Kathleen Tagg) duo,real_class_exclusions.csv
+brands_extra/krakauer_tLBMuR2qmik.wav,clarinet (David Krakauer) and piano (Kathleen Tagg) duo,real_class_exclusions.csv
+brands_extra/krakauer_XENDsUqN-hY.wav,clarinet (David Krakauer) and piano (Kathleen Tagg) duo,real_class_exclusions.csv
+brands_extra/kurtzmann_6MSJGBfFnwY.wav,"duplicate of brands_extra/kurtzmann_2f5VtInmTzU.wav (different video ids (2f5VtInmTzU kept, 6MSJGBfFnwY dropped)); earliest upload kept (20120308 vs 20120313) [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/kurtzmann_M43c8D2gF_U.wav,"duplicate of brands_extra/kurtzmann_DDkampMXRCk.wav (different video ids (DDkampMXRCk kept, M43c8D2gF_U dropped)); pair-specific choice [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/lesage_12mRbtSwZGM.wav,art song: mezzo-soprano and piano,real_class_exclusions.csv
+brands_extra/lesage_hT_d94vOIO8.wav,clarinet and piano,real_class_exclusions.csv
+brands_extra/mehlin_psqQ5OOdQLs.wav,"duplicate of brands_extra/mehlin_NtGwe_SBt-o.wav (different video ids (NtGwe_SBt-o kept, psqQ5OOdQLs dropped)); earliest upload kept (20120319 vs 20120320) [content category: player_reproducing; keep]",real_class_exclusions.csv
+brands_extra/melville_6DqUuqiw7zc.wav,the 'Melville Clark Orpheus Grand' is a player reed organ (see sibling video titles),real_class_exclusions.csv
+brands_extra/melville_a_4LVS9Osog.wav,"duplicate of brands_extra/melville_9K9L6rrmyXk.wav (different video ids (9K9L6rrmyXk kept, a_4LVS9Osog dropped)); longer / first copy kept [content category: player_reproducing; keep]",real_class_exclusions.csv
+brands_extra/melville_ET6DHYOJkJs.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/melville_k0z9YKacLZM.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/melville_p-z6DXT_rkY.wav,the 'Melville Clark Orpheus Grand' is a player reed organ (see sibling video titles),real_class_exclusions.csv
+brands_extra/narvesen_MKbY430AHdE.wav,piano and drums duo,real_class_exclusions.csv
+brands_extra/narvesen_TaFxOsTuMIU.wav,piano and drums duo,real_class_exclusions.csv
+brands_extra/parsons_CEX66YTznbU.wav,PianoArc = circular instrument built from digital keyboards,real_class_exclusions.csv
+brands_extra/parsons_cw6nVWbIcuQ.wav,PianoArc = circular instrument built from digital keyboards,real_class_exclusions.csv
+brands_extra/ravenscroft_1OdgFEIaU4o.wav,Ravenscroft 275 virtual instrument playing a MIDI file,real_class_exclusions.csv
+brands_extra/ravenscroft_50R80z4jVjg.wav,VI Labs Ravenscroft 275 virtual instrument (sample library vendor channel),real_class_exclusions.csv
+brands_extra/schiedmayer_VAfg5O2_JN0.wav,"Elektrolesta = Schiedmayer electric celesta, not a piano",real_class_exclusions.csv
+brands_extra/schiller_5zFGpC5a1s8.wav,"duplicate of brands_extra/schiller_PyDAvSDBpR0.wav (different video ids (PyDAvSDBpR0 kept, 5zFGpC5a1s8 dropped)); earliest upload kept (20120424 vs 20130125) [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/schiller_NbuldDlo5FQ.wav,"duplicate of brands_extra/schiller_LrkD7nB3OH8.wav (different video ids (LrkD7nB3OH8 kept, NbuldDlo5FQ dropped)); longer / first copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/schulz_JNZZ7pdeO2E.wav,"duplicate of brands_extra/schulz_DhsWPeTr7NM.wav (different video ids (DhsWPeTr7NM kept, JNZZ7pdeO2E dropped)); pair-specific choice [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/steingraeber_BWw-ErU460Q.wav,"duplicate of 233_steingraeber_138_91_d.wav (different video ids (yUP2_OGlf1w kept, BWw-ErU460Q dropped)); manifest copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/steingraeber_ixQbK4DqnUI.wav,"duplicate of brands_extra/steingraeber_DklTg_ZOyKg.wav (different video ids (DklTg_ZOyKg kept, ixQbK4DqnUI dropped)); longer / first copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/straube_PevoH9njoAQ.wav,"duplicate of brands_extra/straube_3aoX8H1Yjw0.wav (different video ids (3aoX8H1Yjw0 kept, PevoH9njoAQ dropped)); earliest upload kept (20200911 vs 20200912) [content category: player_reproducing; keep]",real_class_exclusions.csv
+brands_extra/strauss_WcX9784aAp4.wav,horn and piano,real_class_exclusions.csv
+brands_extra/stuart_7mDw7GgLBEk.wav,"duplicate of brands_extra/stuart_NXtKd46mbzg.wav (different video ids (NXtKd46mbzg kept, 7mDw7GgLBEk dropped)); earliest upload kept (20230814 vs 20240313) [content category: acoustic; keep]",real_class_exclusions.csv
+brands_extra/wilhelm_6PZ_R4kkUAw.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/wilhelm_fjRy6EMx47E.wav,"organ / harmonium, not a piano",real_class_exclusions.csv
+brands_extra/zimmermann_IV1nIxnMbnA.wav,"duplicate of brands_extra/zimmermann_t-QfYU1vgLk.wav (different video ids (t-QfYU1vgLk kept, IV1nIxnMbnA dropped)); earliest upload kept (20180423 vs 20250308) [content category: acoustic; keep]",real_class_exclusions.csv
+perzina_extra/per_gebr_L0RJEe3J5QM.wav,"duplicate of perzina_extra/per_balmoral_Ggmpu18_SR0.wav (different video ids (Ggmpu18_SR0 kept, L0RJEe3J5QM dropped)); earliest upload kept (20120614 vs 20141203) [content category: acoustic; keep]",real_class_exclusions.csv
+perzina_extra/per_gp133_DSYTzNCbHac.wav,duplicate of brands_extra/becker_DSYTzNCbHac.wav (same YouTube video); pair-specific choice [content category: acoustic; keep],real_class_exclusions.csv
+seiler_extra/sei_johannes_up_WIIoWHD7yqc.wav,"duplicate of seiler_extra/sei_johannes_gr_ulGjXYwHyoQ.wav (different video ids (ulGjXYwHyoQ kept, WIIoWHD7yqc dropped)); earliest upload kept (20130719 vs 20130813) [content category: acoustic; keep]",real_class_exclusions.csv
+seiler_extra/sei_se138_-z1NIz7veX8.wav,"duplicate of 215_steingraeber_138k_91.wav (different video ids (9LtmZgBOfLA kept, -z1NIz7veX8 dropped)); manifest copy kept [content category: acoustic; keep]",real_class_exclusions.csv
+yamaha_extra/yam_b3_erZ-9r4VA7w.wav,"duplicate of yamaha_extra/yam_b3_2lk2uajZ0og.wav (different video ids (2lk2uajZ0og kept, erZ-9r4VA7w dropped)); pair-specific choice [content category: acoustic; keep]",real_class_exclusions.csv
+yamaha_extra/yam_jx113_zm0pzI5W0A4.wav,"duplicate of yamaha_extra/yam_jx113_SCVKEhbw7kM.wav (different video ids (SCVKEhbw7kM kept, zm0pzI5W0A4 dropped)); the shorter copy is contained in the kept one [content category: acoustic; keep]",real_class_exclusions.csv
+yamaha_extra/yam_p114_KabAlEs9qcc.wav,duplicate of seiler_extra/sei_se138_KabAlEs9qcc.wav (same YouTube video); longer / first copy kept [content category: acoustic; keep],real_class_exclusions.csv
+yamaha_extra/yam_su7_WZ9uEE5tvl8.wav,Yamaha CP88 is a digital stage piano; 'SU7' is the name of its sampled upright voice,real_class_exclusions.csv

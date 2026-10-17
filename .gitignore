@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 out/
 *.wav
+
+# released data of the JAES revision
+!listening/**/*.wav
+!revision/analysis/out/
+!revision/egemaps/out/

@@ -1,0 +1,191 @@
+cls,source,file,midi_nom,irreg,irreg_recomputed,irreg_c3
+real,CCMusic Hsinghai upright,audio/ccmusic_pianos/wav/Hsinghai_g_validation_54.wav,55,12.74602,12.74602,15.44506
+real,CCMusic Kawai grand,audio/ccmusic_pianos/wav/Kawai-G_cs-db_train_493.wav,49,0.16241,0.16241,0.44517
+real,CCMusic Kawai upright,audio/ccmusic_pianos/wav/Kawai_c2s-d2b_train_338.wav,73,5.55993,5.55993,2.94577
+real,CCMusic Pearl River upright,audio/ccmusic_pianos/wav/PearlRiver_e2_test_4.wav,76,1.56802,1.56802,1.19107
+real,CCMusic Steinway (Grand Theatre),audio/ccmusic_pianos/wav/Steinway-T_c1_train_408.wav,60,1.93091,1.93091,1.53943
+real,CCMusic Steinway grand,audio/ccmusic_pianos/wav/Steinway_f1_train_140.wav,65,2.36978,2.36977,3.05601
+real,CCMusic Yamaha upright,audio/ccmusic_pianos/wav/Yamaha_cs-db_train_415.wav,49,0.74653,0.74653,0.90146
+real,CCMusic Young Chang upright,audio/ccmusic_pianos/wav/YoungChang_d_train_403.wav,50,2.48488,2.48488,0.38296
+real,CCMusic Hsinghai upright,audio/ccmusic_pianos/wav/Hsinghai_d1_validation_32.wav,62,2.27788,2.27788,4.10737
+real,CCMusic Kawai grand,audio/ccmusic_pianos/wav/Kawai-G_d1s-e1b_train_388.wav,63,0.81593,0.81593,0.53488
+real,CCMusic Kawai upright,audio/ccmusic_pianos/wav/Kawai_c1_train_228.wav,60,0.81797,0.81797,0.52482
+real,CCMusic Pearl River upright,audio/ccmusic_pianos/wav/PearlRiver_g1_train_209.wav,67,1.83937,1.83937,
+real,CCMusic Steinway (Grand Theatre),audio/ccmusic_pianos/wav/Steinway-T_f_train_412.wav,53,1.26824,1.26824,6.87730
+real,CCMusic Steinway grand,audio/ccmusic_pianos/wav/Steinway_g_train_231.wav,55,0.54992,0.54992,0.54029
+real,CCMusic Yamaha upright,audio/ccmusic_pianos/wav/Yamaha_g_train_164.wav,55,0.65500,0.65500,0.87320
+real,CCMusic Young Chang upright,audio/ccmusic_pianos/wav/YoungChang_d2_train_301.wav,74,1.46049,1.46049,1.37486
+real,CCMusic Hsinghai upright,audio/ccmusic_pianos/wav/Hsinghai_fs-gb_train_174.wav,54,5.00216,5.00216,1.86850
+real,CCMusic Kawai grand,audio/ccmusic_pianos/wav/Kawai-G_c_train_407.wav,48,0.16035,0.16035,0.20694
+real,CCMusic Kawai upright,audio/ccmusic_pianos/wav/Kawai_f1s-g1b_validation_3.wav,66,2.35959,2.35959,2.21791
+real,CCMusic Pearl River upright,audio/ccmusic_pianos/wav/PearlRiver_d1_train_332.wav,62,1.61192,1.61192,0.66764
+real,CCMusic Steinway (Grand Theatre),audio/ccmusic_pianos/wav/Steinway-T_e_train_530.wav,52,0.52989,0.52989,8.75757
+real,CCMusic Steinway grand,audio/ccmusic_pianos/wav/Steinway_a1_train_487.wav,69,2.04162,2.04161,6.01959
+real,CCMusic Yamaha upright,audio/ccmusic_pianos/wav/Yamaha_as-bb_train_87.wav,58,0.63910,0.63910,4.97378
+real,CCMusic Young Chang upright,audio/ccmusic_pianos/wav/YoungChang_a1s-b1b_train_375.wav,70,1.12284,1.12284,1.31281
+real,CCMusic Hsinghai upright,audio/ccmusic_pianos/wav/Hsinghai_d1s-e1b_train_372.wav,63,17.72788,17.72788,18.39115
+real,CCMusic Kawai grand,audio/ccmusic_pianos/wav/Kawai-G_e2_train_517.wav,76,1.32248,1.32248,2.28165
+real,CCMusic Kawai upright,audio/ccmusic_pianos/wav/Kawai_e2_train_51.wav,76,4.26153,4.26153,4.15682
+real,CCMusic Pearl River upright,audio/ccmusic_pianos/wav/PearlRiver_c_train_243.wav,48,0.31219,0.31219,0.31942
+real,CCMusic Steinway (Grand Theatre),audio/ccmusic_pianos/wav/Steinway-T_d1s-e1b_train_234.wav,63,4.70831,4.70831,2.85368
+real,CCMusic Steinway grand,audio/ccmusic_pianos/wav/Steinway_a_validation_16.wav,57,0.63653,0.63653,5.82346
+real,CCMusic Yamaha upright,audio/ccmusic_pianos/wav/Yamaha_a1s-b1b_train_399.wav,70,1.19349,1.19349,2.97557
+real,CCMusic Young Chang upright,audio/ccmusic_pianos/wav/YoungChang_e2_train_160.wav,76,9.77195,9.77194,3.60363
+real,CCMusic Hsinghai upright,audio/ccmusic_pianos/wav/Hsinghai_a1s-b1b_train_95.wav,70,6.56436,6.56436,4.56627
+real,CCMusic Kawai grand,audio/ccmusic_pianos/wav/Kawai-G_e_train_263.wav,52,0.40518,0.40518,0.28997
+real,CCMusic Kawai upright,audio/ccmusic_pianos/wav/Kawai_b1_train_237.wav,71,5.23550,5.23550,8.59123
+real,CCMusic Pearl River upright,audio/ccmusic_pianos/wav/PearlRiver_e1_train_144.wav,64,0.71641,0.71641,0.47883
+real,CCMusic Steinway (Grand Theatre),audio/ccmusic_pianos/wav/Steinway-T_g1s-a1b_train_379.wav,68,1.74937,1.74937,9.44182
+real,CCMusic Steinway grand,audio/ccmusic_pianos/wav/Steinway_b1_test_55.wav,71,4.75684,4.75684,6.76216
+real,CCMusic Yamaha upright,audio/ccmusic_pianos/wav/Yamaha_e_train_350.wav,52,0.78972,0.78972,1.11432
+real,CCMusic Young Chang upright,audio/ccmusic_pianos/wav/YoungChang_as-bb_validation_12.wav,58,0.40106,0.40106,0.46339
+real,CCMusic Hsinghai upright,audio/ccmusic_pianos/wav/Hsinghai_c2_train_225.wav,72,5.48381,5.48381,2.97133
+real,CCMusic Kawai grand,audio/ccmusic_pianos/wav/Kawai-G_c1_train_115.wav,60,0.34884,0.34884,0.55963
+real,CCMusic Kawai upright,audio/ccmusic_pianos/wav/Kawai_fs-gb_test_0.wav,54,1.38799,1.38799,2.18289
+real,CCMusic Pearl River upright,audio/ccmusic_pianos/wav/PearlRiver_c1s-d1b_train_217.wav,61,0.54749,0.54749,0.32639
+real,CCMusic Steinway (Grand Theatre),audio/ccmusic_pianos/wav/Steinway-T_c2_train_429.wav,72,2.90039,2.90039,2.53780
+real,CCMusic Steinway grand,audio/ccmusic_pianos/wav/Steinway_b_train_391.wav,59,0.66022,0.66022,0.90071
+real,CCMusic Yamaha upright,audio/ccmusic_pianos/wav/Yamaha_a1_train_23.wav,69,1.17087,1.17087,1.72888
+real,CCMusic Young Chang upright,audio/ccmusic_pianos/wav/YoungChang_f1s-g1b_train_492.wav,66,29.99219,29.99219,1.47344
+real,CCMusic Hsinghai upright,audio/ccmusic_pianos/wav/Hsinghai_d_train_344.wav,50,1.11840,1.11840,13.43728
+real,CCMusic Kawai grand,audio/ccmusic_pianos/wav/Kawai-G_ds-eb_train_425.wav,51,0.59757,0.59757,0.41371
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/G#4.wav,68,0.89031,0.89031,1.78352
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.mf.F4.aiff,65,2.15242,2.15242,1.10970
+samplelib,K18 upright,audio/ref_dull_upright/K18/F#3.ff.wav,54,0.15091,0.15091,0.58146
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/F#3v8.ogg,54,0.26194,0.26194,0.22355
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/B4.wav,71,1.20883,1.20883,2.25577
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.mf.Gb4.aiff,66,3.80117,3.80117,0.52366
+samplelib,K18 upright,audio/ref_dull_upright/K18/D#3.f.wav,51,0.10143,0.10143,0.09276
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/C5v4.ogg,72,0.79181,0.79181,0.92815
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/A#3.wav,58,0.51132,0.51132,5.08206
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.ff.B4.aiff,71,0.90259,0.90259,3.03222
+samplelib,K18 upright,audio/ref_dull_upright/K18/C4.pp.wav,60,0.72969,0.72968,0.59549
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/A4v9.ogg,69,0.84354,0.84354,0.98360
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/D#5.wav,75,1.70861,1.70861,0.87463
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.mf.B4.aiff,71,0.73198,0.73198,0.87621
+samplelib,K18 upright,audio/ref_dull_upright/K18/D#4.p.wav,63,0.82094,0.82094,0.66847
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/F#3v7.ogg,54,1.59541,1.59541,0.20143
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/F4.wav,65,0.74585,0.74585,0.54285
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.pp.E3.aiff,52,0.34842,0.34842,0.31249
+samplelib,K18 upright,audio/ref_dull_upright/K18/C4.f.wav,60,0.48934,0.48934,0.38321
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/D#3v14.ogg,51,0.16348,0.16348,0.16188
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/D3.wav,50,0.45311,0.45311,0.46113
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.pp.D4.aiff,62,2.17944,2.17944,1.99146
+samplelib,K18 upright,audio/ref_dull_upright/K18/D#5.ff.wav,75,0.92685,0.92685,0.71517
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/F#3v5.ogg,54,0.26680,0.26680,0.24896
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/C5.wav,72,0.91350,0.91350,1.37771
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.mf.G4.aiff,67,1.58631,1.58631,0.77258
+samplelib,K18 upright,audio/ref_dull_upright/K18/F#4.p.wav,66,2.17996,2.17996,1.94749
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/C4v13.ogg,60,0.22240,0.22239,0.44218
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/G4.wav,67,1.24890,1.24890,24.83877
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.mf.C5.aiff,72,2.29700,2.29700,1.25289
+samplelib,K18 upright,audio/ref_dull_upright/K18/D#4.ff.wav,63,0.58812,0.58812,0.43314
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/F#4v6.ogg,66,0.15763,0.15763,0.29502
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/C#4.wav,61,0.71322,0.71322,0.74134
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.pp.D3.aiff,50,0.71309,0.71309,0.35744
+samplelib,K18 upright,audio/ref_dull_upright/K18/D#4.pp.wav,63,1.41993,1.41993,0.57705
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/F#4v16.ogg,66,0.18147,0.18147,0.19244
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/E5.wav,76,2.46463,2.46463,3.86975
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.mf.E4.aiff,64,0.98009,0.98009,0.44646
+samplelib,K18 upright,audio/ref_dull_upright/K18/F#4.mf.wav,66,1.96341,1.96341,0.56103
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/C5v3.ogg,72,0.95582,0.95582,0.12664
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/E3.wav,52,0.51082,0.51082,0.26099
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.ff.Gb4.aiff,66,5.38964,5.38964,0.77355
+samplelib,K18 upright,audio/ref_dull_upright/K18/A4.mf.wav,69,0.49487,0.49487,1.83032
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/D#5v10.ogg,75,0.60655,0.60655,1.43172
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/F3.wav,53,0.29327,0.29327,0.28677
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.ff.E4.aiff,64,0.52434,0.52434,0.73663
+samplelib,K18 upright,audio/ref_dull_upright/K18/D#5.p.wav,75,1.11780,1.11780,1.14977
+samplelib,Salamander (Yamaha C5),audio/ref_bright_yamaha_salamander/SalamanderGrandPianoV3_OggVorbis/ogg/A4v16.ogg,69,0.56925,0.56925,0.57492
+samplelib,FreePats old piano,audio/ref_bad_old_piano/PianoFB SFZ+WAV-20200401/samples/F#3.wav,54,0.40104,0.40104,0.53455
+samplelib,Iowa Steinway B,audio/ref_top_grand_iowa_steinway/Piano.ff.E5.aiff,76,1.25047,1.25047,0.83102
+soundfont,CP80_16_44100,audio/SynthPianoSamples/rendered/CP80_16_44100/Fs4_v100.wav,66,0.25891,0.25891,0.37289
+soundfont,CTK_230_SoundFont,audio/SynthPianoSamples/rendered/CTK_230_SoundFont/C4_v64.wav,60,0.28838,0.28838,0.26858
+soundfont,CTK_533_Piano1_00_Casio,audio/SynthPianoSamples/rendered/CTK_533_Piano1_00_Casio/C3_v127.wav,48,0.11367,0.11367,0.16945
+soundfont,Casio_CA_110_Piano_FM,audio/SynthPianoSamples/rendered/Casio_CA_110_Piano_FM/C4_v100.wav,60,0.03245,0.03245,0.03355
+soundfont,Casio_PX_860_Concert_Grand_Piano,audio/SynthPianoSamples/rendered/Casio_PX_860_Concert_Grand_Piano/C5_v64.wav,72,1.02249,1.02249,1.15726
+soundfont,JV1080_Nice_Piano_m,audio/SynthPianoSamples/rendered/JV1080_Nice_Piano_m/A3_v127.wav,57,0.72208,0.72208,2.03441
+soundfont,U20PIANO,audio/SynthPianoSamples/rendered/U20PIANO/Fs4_v64.wav,66,0.50012,0.50012,0.49615
+soundfont,YAMAHA_PSR400_500,audio/SynthPianoSamples/rendered/YAMAHA_PSR400_500/Fs3_v100.wav,54,0.20011,0.20011,0.64756
+soundfont,Yamaha_PSRF50,audio/SynthPianoSamples/rendered/Yamaha_PSRF50/C4_v127.wav,60,0.28322,0.28322,0.88005
+soundfont,Yamaha_S90_ES_Natural_Grand,audio/SynthPianoSamples/rendered/Yamaha_S90_ES_Natural_Grand/A3_v127.wav,57,0.08038,0.08038,0.13186
+soundfont,CP80_16_44100,audio/SynthPianoSamples/rendered/CP80_16_44100/C5_v100.wav,72,0.23466,0.23466,0.22305
+soundfont,CTK_230_SoundFont,audio/SynthPianoSamples/rendered/CTK_230_SoundFont/C5_v127.wav,72,0.39974,0.39974,0.36131
+soundfont,CTK_533_Piano1_00_Casio,audio/SynthPianoSamples/rendered/CTK_533_Piano1_00_Casio/Fs3_v127.wav,54,0.21487,0.21487,0.34299
+soundfont,Casio_CA_110_Piano_FM,audio/SynthPianoSamples/rendered/Casio_CA_110_Piano_FM/A4_v64.wav,69,0.02889,0.02889,0.28126
+soundfont,Casio_PX_860_Concert_Grand_Piano,audio/SynthPianoSamples/rendered/Casio_PX_860_Concert_Grand_Piano/Ds3_v100.wav,51,0.20396,0.20396,0.15617
+soundfont,JV1080_Nice_Piano_m,audio/SynthPianoSamples/rendered/JV1080_Nice_Piano_m/Fs3_v64.wav,54,0.38306,0.38306,26.68069
+soundfont,U20PIANO,audio/SynthPianoSamples/rendered/U20PIANO/Ds5_v100.wav,75,0.57522,0.57522,0.83011
+soundfont,YAMAHA_PSR400_500,audio/SynthPianoSamples/rendered/YAMAHA_PSR400_500/A3_v127.wav,57,0.19909,0.19909,0.25946
+soundfont,Yamaha_PSRF50,audio/SynthPianoSamples/rendered/Yamaha_PSRF50/Ds5_v64.wav,75,0.66649,0.66649,1.19317
+soundfont,Yamaha_S90_ES_Natural_Grand,audio/SynthPianoSamples/rendered/Yamaha_S90_ES_Natural_Grand/C5_v100.wav,72,0.47099,0.47099,0.31572
+soundfont,CP80_16_44100,audio/SynthPianoSamples/rendered/CP80_16_44100/Fs3_v100.wav,54,0.31581,0.31581,0.35637
+soundfont,CTK_230_SoundFont,audio/SynthPianoSamples/rendered/CTK_230_SoundFont/C4_v127.wav,60,0.28843,0.28843,0.33224
+soundfont,CTK_533_Piano1_00_Casio,audio/SynthPianoSamples/rendered/CTK_533_Piano1_00_Casio/A4_v127.wav,69,0.31494,0.31494,0.93089
+soundfont,Casio_CA_110_Piano_FM,audio/SynthPianoSamples/rendered/Casio_CA_110_Piano_FM/C3_v100.wav,48,0.02513,0.02513,0.13472
+soundfont,Casio_PX_860_Concert_Grand_Piano,audio/SynthPianoSamples/rendered/Casio_PX_860_Concert_Grand_Piano/Ds5_v127.wav,75,0.73196,0.73196,2.52462
+soundfont,JV1080_Nice_Piano_m,audio/SynthPianoSamples/rendered/JV1080_Nice_Piano_m/Ds4_v100.wav,63,0.61119,0.61119,1.66498
+soundfont,U20PIANO,audio/SynthPianoSamples/rendered/U20PIANO/A3_v100.wav,57,0.20337,0.20337,1.12382
+soundfont,YAMAHA_PSR400_500,audio/SynthPianoSamples/rendered/YAMAHA_PSR400_500/Fs3_v127.wav,54,0.20011,0.20011,8.99917
+soundfont,Yamaha_PSRF50,audio/SynthPianoSamples/rendered/Yamaha_PSRF50/A3_v127.wav,57,0.36370,0.36370,0.37711
+soundfont,Yamaha_S90_ES_Natural_Grand,audio/SynthPianoSamples/rendered/Yamaha_S90_ES_Natural_Grand/Fs4_v100.wav,66,0.21955,0.21955,0.79499
+soundfont,CP80_16_44100,audio/SynthPianoSamples/rendered/CP80_16_44100/C5_v127.wav,72,0.23466,0.23466,0.38809
+soundfont,CTK_230_SoundFont,audio/SynthPianoSamples/rendered/CTK_230_SoundFont/Ds4_v127.wav,63,0.34402,0.34402,0.33290
+soundfont,CTK_533_Piano1_00_Casio,audio/SynthPianoSamples/rendered/CTK_533_Piano1_00_Casio/Fs4_v127.wav,66,0.39876,0.39876,1.21095
+soundfont,Casio_CA_110_Piano_FM,audio/SynthPianoSamples/rendered/Casio_CA_110_Piano_FM/Fs3_v64.wav,54,0.03128,0.03128,0.36164
+soundfont,Casio_PX_860_Concert_Grand_Piano,audio/SynthPianoSamples/rendered/Casio_PX_860_Concert_Grand_Piano/Ds4_v64.wav,63,0.87896,0.87896,0.69507
+soundfont,JV1080_Nice_Piano_m,audio/SynthPianoSamples/rendered/JV1080_Nice_Piano_m/Ds4_v64.wav,63,0.70160,0.70160,0.92926
+soundfont,U20PIANO,audio/SynthPianoSamples/rendered/U20PIANO/Ds3_v64.wav,51,0.29260,0.29260,0.33401
+soundfont,YAMAHA_PSR400_500,audio/SynthPianoSamples/rendered/YAMAHA_PSR400_500/Ds5_v100.wav,75,0.51147,0.51147,0.61434
+soundfont,Yamaha_PSRF50,audio/SynthPianoSamples/rendered/Yamaha_PSRF50/Ds3_v64.wav,51,0.17757,0.17757,30.82693
+soundfont,Yamaha_S90_ES_Natural_Grand,audio/SynthPianoSamples/rendered/Yamaha_S90_ES_Natural_Grand/Ds5_v127.wav,75,0.47388,0.47388,1.35167
+soundfont,CP80_16_44100,audio/SynthPianoSamples/rendered/CP80_16_44100/A3_v127.wav,57,0.19242,0.19242,0.15942
+soundfont,CTK_230_SoundFont,audio/SynthPianoSamples/rendered/CTK_230_SoundFont/Ds4_v64.wav,63,0.34435,0.34435,0.24485
+soundfont,CTK_533_Piano1_00_Casio,audio/SynthPianoSamples/rendered/CTK_533_Piano1_00_Casio/Ds3_v64.wav,51,0.16134,0.16134,0.05113
+soundfont,Casio_CA_110_Piano_FM,audio/SynthPianoSamples/rendered/Casio_CA_110_Piano_FM/Fs4_v127.wav,66,0.03354,0.03354,0.50231
+soundfont,Casio_PX_860_Concert_Grand_Piano,audio/SynthPianoSamples/rendered/Casio_PX_860_Concert_Grand_Piano/Fs3_v100.wav,54,0.15372,0.15372,0.16276
+soundfont,JV1080_Nice_Piano_m,audio/SynthPianoSamples/rendered/JV1080_Nice_Piano_m/Ds3_v64.wav,51,0.35375,0.35375,0.28937
+soundfont,U20PIANO,audio/SynthPianoSamples/rendered/U20PIANO/C5_v127.wav,72,0.42500,0.42500,0.51659
+soundfont,YAMAHA_PSR400_500,audio/SynthPianoSamples/rendered/YAMAHA_PSR400_500/A4_v64.wav,69,0.34168,0.34168,0.44017
+soundfont,Yamaha_PSRF50,audio/SynthPianoSamples/rendered/Yamaha_PSRF50/C3_v64.wav,48,0.18547,0.18547,14.17617
+soundfont,Yamaha_S90_ES_Natural_Grand,audio/SynthPianoSamples/rendered/Yamaha_S90_ES_Natural_Grand/Ds4_v100.wav,63,0.28830,0.28830,0.32416
+otey,Otey,otey/out_full/B3_v127.wav,59,0.02694,0.02694,0.06357
+otey,Otey,otey/out_full/B3_v25.wav,59,0.03748,0.03747,0.29899
+otey,Otey,otey/out_full/B3_v50.wav,59,0.02897,0.02897,0.03545
+otey,Otey,otey/out_full/B3_v75.wav,59,0.02644,0.02644,0.03178
+otey,Otey,otey/out_full/B4_v127.wav,71,0.06804,0.06804,1.27636
+otey,Otey,otey/out_full/B4_v25.wav,71,0.97895,0.97895,2.47751
+otey,Otey,otey/out_full/B4_v50.wav,71,0.57949,0.57949,1.79067
+otey,Otey,otey/out_full/B4_v75.wav,71,0.41550,0.41550,0.26240
+otey,Otey,otey/out_full/C3_v127.wav,48,0.06068,0.06068,0.05895
+otey,Otey,otey/out_full/C3_v25.wav,48,0.02521,0.02521,0.02567
+otey,Otey,otey/out_full/C3_v50.wav,48,0.03839,0.03839,0.02552
+otey,Otey,otey/out_full/C3_v75.wav,48,0.04479,0.04479,0.08297
+otey,Otey,otey/out_full/C4_v127.wav,60,0.02895,0.02895,0.53455
+otey,Otey,otey/out_full/C4_v25.wav,60,0.02689,0.02689,0.43925
+otey,Otey,otey/out_full/C4_v50.wav,60,0.02498,0.02498,0.06091
+otey,Otey,otey/out_full/C4_v75.wav,60,0.02593,0.02593,0.08562
+otey,Otey,otey/out_full/C5_v127.wav,72,0.30655,0.30655,0.82352
+otey,Otey,otey/out_full/C5_v25.wav,72,1.27640,1.27640,0.93513
+otey,Otey,otey/out_full/C5_v50.wav,72,0.75718,0.75718,0.32616
+otey,Otey,otey/out_full/C5_v75.wav,72,0.50621,0.50621,1.39319
+otey,Otey,otey/out_full/E3_v127.wav,52,0.13486,0.13486,0.59830
+otey,Otey,otey/out_full/E3_v25.wav,52,0.12610,0.12610,0.17773
+otey,Otey,otey/out_full/E3_v50.wav,52,0.12223,0.12223,0.09330
+otey,Otey,otey/out_full/E3_v75.wav,52,0.12687,0.12687,0.08076
+otey,Otey,otey/out_full/E4_v127.wav,64,0.19271,0.19271,0.18332
+otey,Otey,otey/out_full/E4_v25.wav,64,0.32710,0.32710,0.11257
+otey,Otey,otey/out_full/E4_v50.wav,64,0.25286,0.25286,0.24256
+otey,Otey,otey/out_full/E4_v75.wav,64,0.22173,0.22173,0.02346
+otey,Otey,otey/out_full/E5_v127.wav,76,0.06554,0.06554,0.57736
+otey,Otey,otey/out_full/E5_v25.wav,76,0.32129,0.32129,0.98877
+otey,Otey,otey/out_full/E5_v50.wav,76,0.02741,0.02741,0.06309
+otey,Otey,otey/out_full/E5_v75.wav,76,0.03558,0.03558,0.06998
+otey,Otey,otey/out_full/G3_v127.wav,55,0.03499,0.03499,0.03068
+otey,Otey,otey/out_full/G3_v25.wav,55,0.02374,0.02374,0.01546
+otey,Otey,otey/out_full/G3_v50.wav,55,0.02604,0.02604,0.23978
+otey,Otey,otey/out_full/G3_v75.wav,55,0.02967,0.02967,0.03025
+otey,Otey,otey/out_full/G4_v127.wav,67,0.04450,0.04450,0.21796
+otey,Otey,otey/out_full/G4_v25.wav,67,0.06074,0.06074,
+otey,Otey,otey/out_full/G4_v50.wav,67,0.04706,0.04706,1.15708
+otey,Otey,otey/out_full/G4_v75.wav,67,0.04415,0.04415,0.61874

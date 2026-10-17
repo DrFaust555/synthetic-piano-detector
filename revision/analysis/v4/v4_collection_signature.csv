@@ -1,0 +1,109 @@
+target,fs,feat,auc,n1,n0
+Salamander,all47,clean,0.945603,480,668
+Salamander,all47,channel,0.878758,480,668
+Salamander,med16,clean,0.905810,480,668
+Salamander,med16,channel,0.795612,480,668
+Iowa,all47,clean,0.891866,261,668
+Iowa,all47,channel,0.786582,261,668
+Iowa,med16,clean,0.879276,261,668
+Iowa,med16,channel,0.783026,261,668
+K18,all47,clean,0.712242,180,668
+K18,all47,channel,0.694636,180,668
+K18,med16,clean,0.741608,180,668
+K18,med16,channel,0.703144,180,668
+FreePats,all47,clean,0.773549,78,668
+FreePats,all47,channel,0.775219,78,668
+FreePats,med16,clean,0.720828,78,668
+FreePats,med16,channel,0.642849,78,668
+MAPS (both rooms),all47,clean,0.842606,252,668
+MAPS (both rooms),all47,channel,0.823549,252,668
+MAPS (both rooms),med16,clean,0.831504,252,668
+MAPS (both rooms),med16,channel,0.825771,252,668
+MAPS ENSTDkCl,all47,clean,0.778580,120,668
+MAPS ENSTDkCl,all47,channel,0.701335,120,668
+MAPS ENSTDkCl,med16,clean,0.769249,120,668
+MAPS ENSTDkCl,med16,channel,0.710766,120,668
+MAPS ENSTDkAm,all47,clean,0.825213,132,668
+MAPS ENSTDkAm,all47,channel,0.807850,132,668
+MAPS ENSTDkAm,med16,clean,0.802475,132,668
+MAPS ENSTDkAm,med16,channel,0.792574,132,668
+CCMusic Hsinghai (vs the other 7),all47,clean,0.883758,88,580
+CCMusic Hsinghai (vs the other 7),all47,channel,0.806838,88,580
+CCMusic Hsinghai (vs the other 7),med16,clean,0.868711,88,580
+CCMusic Hsinghai (vs the other 7),med16,channel,0.772492,88,580
+CCMusic Kawai (vs the other 7),all47,clean,0.805917,88,580
+CCMusic Kawai (vs the other 7),all47,channel,0.797159,88,580
+CCMusic Kawai (vs the other 7),med16,clean,0.794220,88,580
+CCMusic Kawai (vs the other 7),med16,channel,0.779134,88,580
+CCMusic Kawai-G (vs the other 7),all47,clean,0.972747,88,580
+CCMusic Kawai-G (vs the other 7),all47,channel,0.854585,88,580
+CCMusic Kawai-G (vs the other 7),med16,clean,0.962187,88,580
+CCMusic Kawai-G (vs the other 7),med16,channel,0.866516,88,580
+CCMusic PearlRiver (vs the other 7),all47,clean,0.860188,88,580
+CCMusic PearlRiver (vs the other 7),all47,channel,0.928938,88,580
+CCMusic PearlRiver (vs the other 7),med16,clean,0.833209,88,580
+CCMusic PearlRiver (vs the other 7),med16,channel,0.907386,88,580
+CCMusic Steinway (vs the other 7),all47,clean,0.932224,52,616
+CCMusic Steinway (vs the other 7),all47,channel,0.818837,52,616
+CCMusic Steinway (vs the other 7),med16,clean,0.942058,52,616
+CCMusic Steinway (vs the other 7),med16,channel,0.728959,52,616
+CCMusic Steinway-T (vs the other 7),all47,clean,0.866771,88,580
+CCMusic Steinway-T (vs the other 7),all47,channel,0.770063,88,580
+CCMusic Steinway-T (vs the other 7),med16,clean,0.855290,88,580
+CCMusic Steinway-T (vs the other 7),med16,channel,0.671787,88,580
+CCMusic Yamaha (vs the other 7),all47,clean,0.875686,88,580
+CCMusic Yamaha (vs the other 7),all47,channel,0.771571,88,580
+CCMusic Yamaha (vs the other 7),med16,clean,0.849980,88,580
+CCMusic Yamaha (vs the other 7),med16,channel,0.729722,88,580
+CCMusic YoungChang (vs the other 7),all47,clean,0.768907,88,580
+CCMusic YoungChang (vs the other 7),all47,channel,0.737304,88,580
+CCMusic YoungChang (vs the other 7),med16,clean,0.791477,88,580
+CCMusic YoungChang (vs the other 7),med16,channel,0.697081,88,580
+SoundFont CP80_16_44100,all47,clean,0.978082,53,668
+SoundFont CP80_16_44100,all47,channel,0.950119,53,668
+SoundFont CP80_16_44100,med16,clean,0.935177,53,668
+SoundFont CP80_16_44100,med16,channel,0.830980,53,668
+SoundFont CTK_230_SoundFont,all47,clean,0.998906,78,668
+SoundFont CTK_230_SoundFont,all47,channel,0.964245,78,668
+SoundFont CTK_230_SoundFont,med16,clean,0.992400,78,668
+SoundFont CTK_230_SoundFont,med16,channel,0.911408,78,668
+SoundFont CTK_533_Piano1_00_Casio,all47,clean,0.960809,39,668
+SoundFont CTK_533_Piano1_00_Casio,all47,channel,0.870835,39,668
+SoundFont CTK_533_Piano1_00_Casio,med16,clean,0.884539,39,668
+SoundFont CTK_533_Piano1_00_Casio,med16,channel,0.866575,39,668
+SoundFont Casio_CA_110_Piano_FM,all47,clean,0.994576,77,668
+SoundFont Casio_CA_110_Piano_FM,all47,channel,0.990512,77,668
+SoundFont Casio_CA_110_Piano_FM,med16,clean,0.991718,77,668
+SoundFont Casio_CA_110_Piano_FM,med16,channel,0.970915,77,668
+SoundFont Casio_PX_860_Concert_Grand_Piano,all47,clean,0.895094,78,668
+SoundFont Casio_PX_860_Concert_Grand_Piano,all47,channel,0.845194,78,668
+SoundFont Casio_PX_860_Concert_Grand_Piano,med16,clean,0.835137,78,668
+SoundFont Casio_PX_860_Concert_Grand_Piano,med16,channel,0.740826,78,668
+SoundFont JV1080_Nice_Piano_m,all47,clean,0.967814,78,668
+SoundFont JV1080_Nice_Piano_m,all47,channel,0.911677,78,668
+SoundFont JV1080_Nice_Piano_m,med16,clean,0.952921,78,668
+SoundFont JV1080_Nice_Piano_m,med16,channel,0.875461,78,668
+SoundFont U20PIANO,all47,clean,0.939814,44,668
+SoundFont U20PIANO,all47,channel,0.890616,44,668
+SoundFont U20PIANO,med16,clean,0.910010,44,668
+SoundFont U20PIANO,med16,channel,0.834785,44,668
+SoundFont YAMAHA_PSR400_500,all47,clean,0.976786,75,668
+SoundFont YAMAHA_PSR400_500,all47,channel,0.935649,75,668
+SoundFont YAMAHA_PSR400_500,med16,clean,0.927725,75,668
+SoundFont YAMAHA_PSR400_500,med16,channel,0.867385,75,668
+SoundFont Yamaha_PSRF50,all47,clean,0.984109,78,668
+SoundFont Yamaha_PSRF50,all47,channel,0.957239,78,668
+SoundFont Yamaha_PSRF50,med16,clean,0.964475,78,668
+SoundFont Yamaha_PSRF50,med16,channel,0.892753,78,668
+SoundFont Yamaha_S90_ES_Natural_Grand,all47,clean,0.926685,78,668
+SoundFont Yamaha_S90_ES_Natural_Grand,all47,channel,0.876938,78,668
+SoundFont Yamaha_S90_ES_Natural_Grand,med16,clean,0.866958,78,668
+SoundFont Yamaha_S90_ES_Natural_Grand,med16,channel,0.827537,78,668
+Otey,all47,clean,0.975711,120,668
+Otey,all47,channel,0.898091,120,668
+Otey,med16,clean,0.940307,120,668
+Otey,med16,channel,0.778006,120,668
+"MAPS ENSTDkAm vs ENSTDkCl (same piano, two rooms)",all47,clean,0.678472,132,120
+"MAPS ENSTDkAm vs ENSTDkCl (same piano, two rooms)",all47,channel,0.592992,132,120
+"MAPS ENSTDkAm vs ENSTDkCl (same piano, two rooms)",med16,clean,0.691667,132,120
+"MAPS ENSTDkAm vs ENSTDkCl (same piano, two rooms)",med16,channel,0.592424,132,120

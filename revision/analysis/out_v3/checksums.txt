@@ -1,0 +1,7 @@
+d8f746f6d1f6477ab76c2e70eb311ea9  folds.csv
+f565d974a8e58a0b8edb8564de4c68bb  table7_v3.csv
+b6f3efab4eb5cfb0d28bba7d4dd1d6d9  controls_scores.csv
+5be3ad3c7656053173b4bbec07f7c4de  c2_soundfont_categories.csv
+1e94086f70e7f1daff0ec60576c6f866  c4_phaseogram_c3.csv
+b853d73bd331cdf28f4a3c16175c7a2e  c5_loop_index.csv
+6b24a78b3d67ddb65b59b72e9999c273  excluded_real_v3.csv
