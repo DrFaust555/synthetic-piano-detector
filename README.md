@@ -1,68 +1,71 @@
 # Synthetic-Piano Detector
 
-Code and released data for the paper:
+Code and data for the paper
 
-> **A Semi-Deterministic Detector of Synthetic Pianos**
-> Viktor Rovinskyi and Olga Yevchuk
-> Submitted to the *Journal of the Audio Engineering Society* (JAES).
+> V. Rovinskyi and O. Yevchuk, "A Semi-Deterministic Detector of Synthetic Pianos,"
+> submitted to the *Journal of the Audio Engineering Society*.
 
-The paper asks when a recording of a piano can be told apart from a synthetic
-one, and answers it with a two-branch detector: 47 channel-robust summary
-descriptors of timbre/sustain/tuning, and a phaseogram CNN that reads the
-within-cycle waveform shape. Detection succeeds wherever the synthesis is
-generative (algorithmic), and hits a structural limit on sample-based playback.
+The detector tells recordings of acoustic pianos from synthetic ones. It has two branches: 27 summary features for
+an isolated note or 47 for a performance (timbre, decay, tuning and bass behavior), and a convolutional network that reads the pitch-synchronous
+phaseogram of each note. The two branches are fused into one probability, P(synthetic). The paper evaluates it on
+isolated notes and on performances, with cross-validation grouped by instrument.
 
-## Layout — paper section → code
+## Layout
 
-| Paper section | Code |
+The repository is organized by what is computed.
+
+| Folder | Content |
 |---|---|
-| §3.1 47 summary descriptors | `quality/extract_features.py`, `calib/features.py`, `quality/spectral.py`, `quality/waveform.py`, `quality/attack.py`, `quality/modulation.py` |
-| §3.1 Group C tuning descriptors | `detune/` (segmentation `segment.py`, unison analysis `unison.py`, global tuning `tuning.py`, entry point `analyze.py`) |
-| §3.1 pitch detrending curves | `quality/cache/register_trends*.json` |
-| §3.2 phaseogram branch + fusion | `quality/phasefeat.py`, `quality/realness_net.py`, `quality/train_realness.py`, `quality/critic.py` |
-| §3.3 anti-leakage evaluation (grouped CV, OOF) | `quality/critic_eval.py`, `quality/grouping.py` |
-| §3.4 channel invariance | `quality/channel_robustness.py`, `quality/channel_aug.py`, `quality/effects.py` |
-| §3.5 synthetic categories / corpus prep | `quality/render_soundfonts.py`, `quality/build_negatives.py`, cleaning: `quality/clean_synth_yt.py` |
-| §3.5 Otey physical model (released) | `piano.py`, `note_engine.py`, `hammer.py`, `string_model.py`, `soundboard*.py`, `params.py`, `calib/` |
-| §4 results reproduction | `quality/critic_eval.py` over `data/features/*.csv` |
-| §4.3 eGeMAPS external baseline | `quality/opensmile_baseline.py` |
-| §4.4 listening test | `listening_kit/` (form, answer key, anonymised responses), `quality/build_listening_kit.py`, `quality/score_listening.py` |
-| §5 quality axes (timbre / tuning / liveness) | `quality/axes.py`, `quality/timbre_quality.py`, `quality/aversiveness.py`, `quality/extract_liveness.py`, `detune/` |
+| `detector/` | One audio file to features: note segmentation (`segment.py`), the 47 summary features (`pipeline.py`, `calib/`, `detune/`, `spectral.py`, `waveform.py`), the phaseogram (`phaseogram.py`) and the phaseogram CNN (`phaseogram_cnn.py`) |
+| `protocol/` | Evaluation protocol: corpus assembly and cleaning (`corpus_base.py`, `corpus.py`), instrument groups and folds, XGBoost, AUC, grouped bootstrap (`common.py`), the isolated-note universe of the CNN (`cnn.py`) |
+| `corpus/` | How the data were collected, cleaned and rendered (needs the audio and the original sources) |
+| `training/` | Scripts that produce the shipped feature tables and out-of-fold predictions (need the audio) |
+| `experiments/` | One folder per question of the paper. Every script reads `data/` and writes `results/<folder>/` |
+| `quality_axes/` | The quality tool of Sec. 3.8 |
+| `figures/` | Figs. 2 and 3 |
+| `data/` | Feature tables, metadata tables and out-of-fold predictions |
+| `supplementary/S1/` | Supplementary material S1: sources, processing, Otey parameters, digital-piano sound engines, YouTube identifiers |
 
-## Released data (base tier)
+`PAPER_MAP.md` lists every number of the paper with the script and the result file that produce it.
 
-`data/features/*.csv` — the extracted per-file feature vectors used by the
-paper's models. These are numeric descriptors that cannot reconstruct audio;
-every modelling result in the paper reproduces from these numbers alone.
+## Data
 
-Trained artifacts in `quality/cache/`: `realness_xgb.json` (summary-feature
-detector), `realness_net.pt` (phaseogram CNN), `register_trends*.json`
-(pitch-detrend curves), calibration JSONs.
+The audio is not redistributed. `data/` holds what the analyses need:
 
-## Audio (not redistributed)
+* `data/corpus/`, `data/features/`, `data/performances/`: per-file feature tables (numeric descriptors that cannot
+  reconstruct the audio) and the manifests of the performance sources;
+* `data/protocol/`: the real-class manifest, the screen of the real class, and the instrument groups and folds;
+* `data/predictions/`: out-of-fold scores of the three detectors (feature detector, phaseogram CNN, fusion);
+* `data/listening/`: answer key and anonymized answers of the listening test.
 
-The audio corpus is not redistributed. The citable core is reproducible from
-public sources: the CCMusic piano sound-quality dataset, SoundFont renders
-(`quality/render_soundfonts.py`), the Otey physical model (this repository),
-and four freely downloadable sample libraries (Salamander Grand, University
-of Iowa piano, K18 upright, FreePats old piano — see the paper's references
-for URLs and licenses).
+The detection and listening analyses in `experiments/` run from these tables alone.
+Scripts in `training/`, `corpus/`, `table6_quality.py` and some figures need
+the audio: set the environment variable `SPD_AUDIO` to the folder that holds it. File names in the tables are
+relative to that folder (for example `audio/ccmusic_pianos/...`, `audio/pianoteq/...`).
 
-## Setup
+## Running
+
+Python 3.10. Install the packages of `requirements.txt`, then run any script from the repository root, e.g.
 
 ```
-pip install numpy scipy soundfile librosa scikit-learn xgboost torch
-pip install opensmile   # only for the eGeMAPS baseline
+python experiments/01_detection/table5_notes.py
 ```
 
-Smoke test (renders a note with the physical model and extracts features):
+The outputs are written to `results/`. The feature detector (XGBoost, `n_jobs=1`, fixed seeds) is deterministic;
+the shipped CNN and fusion scores are those of the paper.
 
-```
-python -c "from piano import Piano; a = Piano(48000).render_note(60, 75, 1.0, release=0.8); print(a.shape)"
-```
+The isolated-note method is fixed: one window from the strike, the nominal pitch refined on the spectrum,
+and the 27-feature model input. Performances use onset segmentation, up to 15 phaseograms and 47 features.
+Performance model files are named `cnn_perf_f*.npz` and `fusion_perf_f*.npz`.
+The IQR ablation, room test, eGeMAPS baseline and recording-format controls implement the comparisons reported in the paper.
+The two Table 6 quality calculations are documented in `PAPER_MAP.md`.
+
+To check the analyses, run `python verification/run_scripts.py` (add `--audio-root PATH --audio`
+when all audio is available). Full network retraining and source acquisition are separate from these checks.
+`SPD_RESULTS` can point to an independent output folder, for example for the small training smoke test
+`python verification/smoke_training.py`.
 
 ## License
 
-MIT (see `LICENSE`). The trained artifacts and feature CSVs are released under
-the same terms. Third-party sample libraries and datasets referenced by the
-paper keep their own licenses.
+MIT (see `LICENSE`) for the code, the feature tables and the predictions. Third-party datasets and sample
+libraries keep their own licenses (see S1 and the references of the paper).

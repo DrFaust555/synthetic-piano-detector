@@ -1,0 +1,488 @@
+file,raw_src,url,description_uk,rating,category,type,mic_moving,note,source
+01_bad_piano.wav,01,https://youtube.com/shorts/jgVFwUo-89M,bad piano,44,,піаніно,no,розстроєне реальне піаніно; биття унісонів ~24% нот (33ц/2.1Гц); загальний стрій ок,acoustic
+02_ukraina_tuned.wav,02,https://youtu.be/CQTytoZ7rJM,піаніно Україна настроєне,54,,піаніно,no,оцінка за аналогією (04_ukraina_tuned=54) + стрій 18.7,acoustic
+03a_ukraina_67.wav,03,https://youtu.be/OU4ZV8oLlkE,Україна (склеєно зі шматків),67,,піаніно,no,"сегменти U: 0-9,20-34,45-57,60-65,67-71с; з 1:11 відрізано; спільна оцінка 67",acoustic
+03b_zimmerman_67.wav,03,https://youtu.be/OU4ZV8oLlkE,Ціммерман (склеєно зі шматків),67,,піаніно,no,"сегменти Z: 9-20,34-45,57-60,65-67с; з 1:11 відрізано; спільна оцінка 67",acoustic
+04_ukraina_tuned_54.wav,04,https://youtu.be/f5hsVDhtfHM,піаніно Україна настроєне,54,,піаніно,no,,acoustic
+05_akkord_48.wav,05,https://youtube.com/shorts/ulqTuLkroVY,піаніно Аккорд,48,,піаніно,no,від 0:11 (вирізано голос на початку); оновлено з оцінки 50,acoustic
+06_syuita_47.wav,06,https://youtube.com/shorts/eFIi5g0uCuY,Сюита,47,,піаніно,no,,acoustic
+07_belarus.wav,07,https://youtu.be/buJFuCrwUDY,піаніно Білорусь,48,,піаніно,no,за аналогією (Беларусь 43-48) + стрій 7.7 (добре настроєне → верх діапазону),acoustic
+08a_emil_laemmerhirt_1880_detuned_OLD.wav,08,https://www.youtube.com/watch?v=OHKYUbVoLXc,Emil Laemmerhirt (1880) — розстроєне,46,OLD,піаніно,no,"розрізано з 08; розстроєне; оригінальна спільна оцінка 68; моя за новими критеріями (стрій 38.7 головний) → 46",acoustic
+08b_emil_laemmerhirt_1880_tuned_OLD.wav,08,https://www.youtube.com/watch?v=OHKYUbVoLXc,Emil Laemmerhirt (1880) — настроєне,63,OLD,піаніно,no,"розрізано з 08; настроєне; спільна оцінка 68; ПЕРЕОЦІНЕНО після очистки мови: стрій 24.5(зіпсований мовою)→7.6(добре настроєне) → 56→63",acoustic
+09_fuchs_mohr_1960-80_58.wav,09,https://www.youtube.com/watch?v=jt3BUljK3wU,Fuchs & Möhr - 1960..80 (середнє),58,,піаніно,no,,acoustic
+10_ronisch_76.wav,10,https://www.youtube.com/watch?v=wO6zN1ABWXQ,Rönisch - вище середнього,76,,піаніно,no,1985..90 (сучасне),acoustic
+11_petrof_118_80.wav,11,https://www.youtube.com/watch?v=9fHcWpRtGMs,Petrof 118,80,,піаніно,no,118 см,acoustic
+12a_lira_before.wav,12,https://www.youtube.com/watch?v=9oi86deItT0,піаніно Лира — до,40,,піаніно,no,"розрізано з 12; до; оригінальна спільна оцінка 48; моя за стрій 40.1 → 40",acoustic
+12b_lira_after.wav,12,https://www.youtube.com/watch?v=9oi86deItT0,піаніно Лира — після,52,,піаніно,no,"розрізано з 12; після; оригінальна спільна оцінка 48; моя за стрій 7.1 → 52 (Terek/Kuban after 45/52)",acoustic
+13_rosler_rigoletto_66.wav,13,https://www.youtube.com/watch?v=Q62fkmD7FOg,Rosler Rigoletto,66,,піаніно,no,,acoustic
+14_hupfeld_carmen_64.wav,14,https://www.youtube.com/watch?v=pz2M7wuZQh0,Hupfeld модель Carmen,64,,піаніно,no,1985..90 (сучасне),acoustic
+15_seiler_116_mondial_84.wav,15,https://www.youtube.com/watch?v=m6NON0dINfk,Seiler 116 Mondial (є стуки і голоси),84,,піаніно,no,116 см; є стуки і голоси,acoustic
+16_h_hansen_1880_69_OLD.wav,16,https://www.youtube.com/watch?v=m_3xLG8WqB4,H.Hansen (1880),69,OLD,піаніно,no,,acoustic
+17_wm_knabe_upright_100yr_80_OLD.wav,17,https://www.youtube.com/watch?v=NCbCSqkMvs0,"Wm. Knabe & Co. upright, 100 років",80,OLD,піаніно,no,~1926,acoustic
+18_yamaha_82.wav,18,https://www.youtube.com/watch?v=011eunxEY1A,Ямаха,82,,піаніно,no,модель невідома,acoustic
+19_lagonda_67_OLD.wav,19,https://youtube.com/shorts/o2zvBYKYgOo,Lagonda piano (old),67,OLD,піаніно,no,,acoustic
+20_behr_bros_player_73_OLD.wav,20,https://www.youtube.com/watch?v=AzVQO_-R0Is,Behr Bros. Player Piano (old),73,OLD,піаніно,no,player piano,acoustic
+21_carl_hintze_1907_72_OLD.wav,21,https://www.youtube.com/shorts/6pPR2Sg6CMA,"Carl H. Hintze, 1907",72,OLD,піаніно,no,залишено з 1:53 до кінця,acoustic
+22_krasny_oktyabr_59.wav,22,https://www.youtube.com/shorts/HSxPzlROCBQ,"Красний Октябрь, 1961",59,,піаніно,no,1961; залишено з 2:35 до кінця,acoustic
+23_kawai_k15_76.wav,23,https://www.youtube.com/shorts/PNnViwpfFLQ,Kawai K-15,76,,піаніно,no,залишено з 0:12 до кінця,acoustic
+24_kawai_gx2_90.wav,24,https://www.youtube.com/shorts/aKH4pCdzuWE,Kawai GX-2,90,,рояль,no,,acoustic
+25_kawai_k500_86.wav,25,https://www.youtube.com/shorts/5162KHpBSmQ,Kawai K-500,86,,піаніно,no,,acoustic
+26_kawai_gs40_grand.wav,26,https://www.youtube.com/shorts/Vt2akJaKulI,Kawai GS-40 Grand,85,,рояль,no,за аналогією (Kawai GL-30=86) + стрій 6.0,acoustic
+27_kawai_k400_82.wav,27,https://www.youtube.com/shorts/aN_37m9f0lg,Kawai K-400,82,,піаніно,no,фрагмент 0:14-0:45,acoustic
+28_kawai_k500_b.wav,28,https://www.youtube.com/shorts/1D4nOT3-aAo,Kawai K-500 (другий запис),86,,піаніно,no,"окремий файл, НЕ об'єднувати з №25; час до 0:18; за аналогією 25/34b kawai_k500=86; стрій 6.6",acoustic
+29_kawai_rx2_89.wav,29,https://www.youtube.com/shorts/5wBiZUL5ccQ,Kawai RX-2,89,,рояль,no,фрагмент 0:40-0:57,acoustic
+30_yamaha_gb1_disklavier_83.wav,30,https://www.youtube.com/watch?v=P5Ot3lDHBfg,Yamaha GB1 Disklavier,83,,рояль,no,фрагмент 1:44-2:14; GB1 = baby grand,acoustic
+31_yamaha_gb1k_grand.wav,31,https://www.youtube.com/shorts/vzDKI_02XUk,Yamaha GB1K Compact Grand,83,,рояль,no,за аналогією (GB1 Disklavier=83) + стрій 5.4,acoustic
+32a_yamaha_b2_74.wav,32,https://www.youtube.com/shorts/gJE7cd_eGac,Yamaha B2,74,,піаніно,no,фрагмент 0:00-0:07; коротко ~6с,acoustic
+32b_steinway_b211_96.wav,32,https://www.youtube.com/shorts/gJE7cd_eGac,Steinway B-211,96,,рояль,no,фрагмент 0:08-0:18,acoustic
+32c_steinway_spirio_97.wav,32,https://www.youtube.com/shorts/gJE7cd_eGac,Steinway Spirio,97,,рояль,no,фрагмент 0:21-кінець,acoustic
+33_yamaha_u1_82.wav,33,https://www.youtube.com/shorts/R2J4lr1jrHo,Yamaha U-1,82,,піаніно,no,,acoustic
+34a_yamaha_u3_2003_84.wav,34,https://www.youtube.com/shorts/c0eUdh2GPig,Yamaha U3 (2003 refurbished),84,,піаніно,no,2003 відновлене; фрагмент 0:00-0:27,acoustic
+34b_kawai_k500_86.wav,34,https://www.youtube.com/shorts/c0eUdh2GPig,Kawai K-500 (третій запис),86,,піаніно,no,"фрагмент від 0:30; ще один K-500 (пор. №25, №28)",acoustic
+35_yamaha_b3_78.wav,35,https://www.youtube.com/watch?v=K2DeCG82E4U,Yamaha B3,78,,піаніно,no,,acoustic
+36a_yamaha_u1_84.wav,36,https://www.youtube.com/shorts/eqMXZhLM9Fc,Yamaha U1,84,,піаніно,no,фрагмент 0:00-0:09,acoustic
+36b_yamaha_u3_88.wav,36,https://www.youtube.com/shorts/eqMXZhLM9Fc,Yamaha U3,88,,піаніно,no,фрагмент від 0:10,acoustic
+37_steinway_spirio_96.wav,37,https://www.youtube.com/watch?v=-Zslx-vMDLU,Steinway Spirio,96,,рояль,no,фрагмент від 0:05 (пор. №32c),acoustic
+38_steinway_spirio_96.wav,38,https://www.youtube.com/watch?v=jh9ImONuE8c,Steinway Spirio,96,,рояль,yes,"мікрофон рухається; оцінка як у Spirio (96-97)",acoustic
+39_steinway_model_m_93.wav,39,https://www.youtube.com/shorts/LgbBfAeKD5o,"Steinway Model M, 5'7""",93,,рояль,yes,мікрофон рухається,acoustic
+40_steinway_pianola_1913_80_OLD.wav,40,https://www.youtube.com/shorts/TId6gh-pIUw,"Steinway Pianola Piano, 1913",80,OLD,піаніно,no,player piano; фрагмент 0:23-0:41,acoustic
+41_bosendorfer_200_2005_95.wav,41,https://www.youtube.com/shorts/sjglCqhxgeU,"Bösendorfer Model 200 Amboyna, 2005",95,,рояль,yes,2005; мікрофон рухається,acoustic
+42_bosendorfer_280vc_97.wav,42,https://www.youtube.com/shorts/UrT9d-Lx3Kg,Bösendorfer 280VC Concert Grand,97,,рояль,no,,acoustic
+43_bosendorfer_225_96.wav,43,https://www.youtube.com/shorts/wqjHaY3LprA,"Bösendorfer Model 225 (custom, 7'4"")",96,,рояль,no,фрагмент від 0:21,acoustic
+44_bosendorfer_130_upright_89.wav,44,https://www.youtube.com/shorts/nsO-SVnq_Qs,Bösendorfer 130 Premium Upright,89,,піаніно,no,фрагмент 0:00-0:07; коротко ~7с,acoustic
+45_bosendorfer_280vc_97_b.wav,45,https://www.youtube.com/shorts/6V9zreejkFU,Bösendorfer 280VC (інший запис),97,,рояль,no,другий запис того самого 280VC (пор. №42),acoustic
+46a_steinway_model_o_94.wav,46,https://www.youtube.com/shorts/-1MTYsE6T6M,Steinway Model O (restored),94,,рояль,no,restored; фрагмент 0:00-0:07; коротко ~7с,acoustic
+46b_bosendorfer_170_92.wav,46,https://www.youtube.com/shorts/-1MTYsE6T6M,Bösendorfer 170 (pre-owned),92,,рояль,no,pre-owned; фрагмент від 0:09,acoustic
+47_bosendorfer_214vc_96.wav,47,https://www.youtube.com/shorts/h8MpOh6qIgk,Bösendorfer 214VC Grand,96,,рояль,no,,acoustic
+48_bosendorfer_185vc_94.wav,48,https://www.youtube.com/shorts/xvKxLucfTfc,Bösendorfer 185VC Baroque Grand,94,,рояль,no,,acoustic
+49_bosendorfer_214vc_sustain_96.wav,49,https://www.youtube.com/shorts/avJYpTHeSmE,Bösendorfer 214VC Vienna Concert (sustain),96,,рояль,no,sustain demo; фрагмент 0:00-0:10; інший запис 214VC (пор. №47),acoustic
+50_steinway_spirio_96.wav,50,https://www.youtube.com/watch?v=tMxmNm2xnTk,Steinway Spirio,96,,рояль,no,ще один Spirio (пор. №32c/37/38),acoustic
+51_bosendorfer_280vc_97_c.wav,51,https://www.youtube.com/watch?v=9kPCnFx5mV0,Bösendorfer 280VC Grand,97,,рояль,no,"повна п'єса ~7хв; третій запис 280VC (пор. №42/45)",acoustic
+52_yamaha_cfx_97.wav,52,https://www.youtube.com/watch?v=9uUCuuMqpMw,Yamaha CFX Concert Grand,97,,рояль,no,джерело m4a/AAC (opus дав 403),acoustic
+53_bosendorfer_130_89.wav,53,https://www.youtube.com/watch?v=a2EaxGjHHdc,Bösendorfer 130,89,,піаніно,no,фрагмент від 0:14; інший запис 130 (пор. №44),acoustic
+54_bosendorfer_214vc_96_c.wav,54,https://www.youtube.com/watch?v=_E1lERY7Ui8,Bösendorfer 214VC Vienna Concert,96,,рояль,no,"повна п'єса ~5хв; ще один запис 214VC (пор. №47/49)",acoustic
+55a_steinway_d274_liszt_98.wav,55,https://www.youtube.com/watch?v=T2GYYV8JSqM,Steinway D-274 (Liszt Sonata),98,,рояль,no,"порівняння 3 роялів (та сама кімната/мікрофон/п'єси); Liszt Sonata; 1:02-2:02",acoustic
+55b_yamaha_cfx_liszt_97.wav,55,https://www.youtube.com/watch?v=T2GYYV8JSqM,Yamaha CFX (Liszt Sonata),97,,рояль,no,"порівняння 3 роялів; Liszt Sonata; 2:02-3:14",acoustic
+55c_bosendorfer_imp290_liszt_99.wav,55,https://www.youtube.com/watch?v=T2GYYV8JSqM,Bösendorfer Imperial 290 (Liszt Sonata),99,,рояль,no,"порівняння 3 роялів; Liszt Sonata; 3:14-4:14",acoustic
+55d_bosendorfer_imp290_ravel_99.wav,55,https://www.youtube.com/watch?v=T2GYYV8JSqM,Bösendorfer Imperial 290 (Ravel Gaspard),99,,рояль,no,"порівняння 3 роялів; Ravel Gaspard; 4:14-5:11; тихо (+12дБ)",acoustic
+55e_steinway_d274_ravel_98.wav,55,https://www.youtube.com/watch?v=T2GYYV8JSqM,Steinway D-274 (Ravel Gaspard),98,,рояль,no,"порівняння 3 роялів; Ravel Gaspard; 5:11-6:04; тихо (+15дБ)",acoustic
+55f_yamaha_cfx_ravel_97.wav,55,https://www.youtube.com/watch?v=T2GYYV8JSqM,Yamaha CFX (Ravel Gaspard),97,,рояль,no,"порівняння 3 роялів; Ravel Gaspard; 6:04-7:12; тихо (+15дБ)",acoustic
+55g_yamaha_cfx_chopin_97.wav,55,https://www.youtube.com/watch?v=T2GYYV8JSqM,Yamaha CFX (Chopin Ballade 4),97,,рояль,no,"порівняння 3 роялів; Chopin Ballade 4; 7:12-8:48; тихо (+16дБ)",acoustic
+55h_bosendorfer_imp290_chopin_99.wav,55,https://www.youtube.com/watch?v=T2GYYV8JSqM,Bösendorfer Imperial 290 (Chopin Ballade 4),99,,рояль,no,"порівняння 3 роялів; Chopin Ballade 4; 8:48-10:21; тихо (+15дБ)",acoustic
+55i_steinway_d274_chopin_98.wav,55,https://www.youtube.com/watch?v=T2GYYV8JSqM,Steinway D-274 (Chopin Ballade 4),98,,рояль,no,"порівняння 3 роялів; Chopin Ballade 4; 10:21-кінець; тихо (+16дБ)",acoustic
+56a_yamaha_u3_86.wav,56,https://www.youtube.com/shorts/fihRDTx17I0,Yamaha U3 (vs Feurich),86,,піаніно,no,"склеєно сегменти Y: 0-3,7-10с; коротко ~5.5с",acoustic
+56b_feurich_125_83.wav,56,https://www.youtube.com/shorts/fihRDTx17I0,Feurich 125 (vs Yamaha),83,,піаніно,no,"склеєно сегменти F: 4-7,10-13с; 125см; коротко ~5.8с",acoustic
+57a_yamaha_u1_83.wav,57,https://www.youtube.com/shorts/ctnO5SNf8Lw,Yamaha U1 (vs Feurich),83,,піаніно,no,"склеєно сегменти Y: 0-4,10-14с; коротко ~7.8с",acoustic
+57b_feurich_122_81.wav,57,https://www.youtube.com/shorts/ctnO5SNf8Lw,Feurich 122 (vs Yamaha),81,,піаніно,no,"склеєно сегменти F: 5-10,14-18с; 122см; коротко ~8.8с",acoustic
+58_feurich_133_85.wav,58,https://www.youtube.com/shorts/vVADApenXWo,Feurich 133,85,,піаніно,no,133см; фрагмент від 0:02,acoustic
+59_feurich_218_92.wav,59,https://www.youtube.com/shorts/btikkyKnihk,Feurich 218 Concert I,92,,рояль,no,,acoustic
+60_feurich_162_86.wav,60,https://www.youtube.com/shorts/k38_ozQ-3Lo,Feurich 162 Baby Grand,86,,рояль,no,демо басу (bass-heavy),acoustic
+61_feurich_218_92_b.wav,61,https://www.youtube.com/shorts/naG_bcj0HhM,Feurich 218 Concert I (інший запис),92,,рояль,no,другий запис 218 (пор. №59),acoustic
+62_feurich_162_dynamic_86.wav,62,https://www.youtube.com/shorts/5Tnu8w12t_0,Feurich 162 Dynamic I,86,,рояль,no,,acoustic
+63_feurich_173_1983_88.wav,63,https://www.youtube.com/watch?v=KIjimxgeZKU,"Feurich Model 173, 1983",88,,рояль,no,"1983; склеєно t1 1:03-2:34 + t2 3:05-4:37",acoustic
+64a_feurich_122_81.wav,64,https://www.youtube.com/watch?v=pwzuHfZv-10,Feurich 122 (vs 125),81,,піаніно,no,"122см; склеєно сегменти F122: 0:00,2:05,5:31",acoustic
+64b_feurich_125_83.wav,64,https://www.youtube.com/watch?v=pwzuHfZv-10,Feurich 125 (vs 122),83,,піаніно,no,"125см; склеєно сегменти F125: 1:03,3:49,7:15",acoustic
+65_estonia_168_88.wav,65,https://www.youtube.com/watch?v=M8vNLAoG3Zk,Estonia 168 Baby Grand,88,,рояль,no,"склеєно 1:28-1:54 + 11:04-11:30 + 16:40-17:02",acoustic
+66_estonia_l190_90.wav,66,https://www.youtube.com/shorts/XB-xGCgxsj4,Estonia L190 Grand,90,,рояль,no,,acoustic
+67_estonia_l168_88.wav,67,https://www.youtube.com/shorts/7Ma2OrdtUSA,Estonia L168 Grand,88,,рояль,no,інший запис 168 (пор. №65),acoustic
+68_estonia_l225_93.wav,68,https://www.youtube.com/shorts/UKmuKppKe7w,Estonia L225 Semi-Concert Grand,93,,рояль,no,фрагмент 0:00-0:06; коротко ~6с,acoustic
+69_estonia_l168_88_c.wav,69,https://www.youtube.com/watch?v=67xLSlDYTeU,Estonia L168 Grand,88,,рояль,no,третій запис 168 (пор. №65/67),acoustic
+70_fazioli_f228_f278_96.wav,70,https://www.youtube.com/watch?v=oz3rMHR2MIQ,Fazioli F228/F278,96,,рояль,no,"фрагмент 1:11-6:47; модель F228 або F278 (невідомо)",acoustic
+71_august_forster_215_94.wav,71,https://www.youtube.com/shorts/sphIsE_XIcQ,August Förster Model 215,94,,рояль,no,оцінка приблизна (~94),acoustic
+72_august_forster_125g_87.wav,72,https://www.youtube.com/shorts/XlAFceYO9Gw,August Förster 125-G,87,,піаніно,no,125см,acoustic
+73_august_forster_116e_84.wav,73,https://www.youtube.com/shorts/eYVAc3mExTM,August Förster 116E,84,,піаніно,no,116см,acoustic
+74_august_forster_170_88.wav,74,https://www.youtube.com/shorts/1cMiGmte_Y4,August Förster 170,88,,рояль,no,,acoustic
+75_august_forster_125g_87_b.wav,75,https://www.youtube.com/shorts/VpVOVO99dpU,August Förster 125-G (інший запис),87,,піаніно,no,125см; другий запис 125-G (пор. №72),acoustic
+76_grotrian_190_91.wav,76,https://www.youtube.com/shorts/CNaF9c1AQ6Q,Grotrian 190,91,,рояль,no,фрагмент 0:00-0:12; коротко ~12с,acoustic
+77a_grotrian_200_1900_88_OLD.wav,77,https://www.youtube.com/shorts/2AeBScqbys4,"Grotrian-Steinweg 200, 1900",88,OLD,рояль,no,"1900; склеєно 0:23-0:33 + 0:46-0:54; vs 223",acoustic
+77b_grotrian_223_1987_92.wav,77,https://www.youtube.com/shorts/2AeBScqbys4,"Grotrian-Steinweg 223, 1987",92,,рояль,no,"1987; склеєно 0:34-0:44 + 0:56-1:09; vs 200",acoustic
+78_sauter_masterclass_130_89.wav,78,https://www.youtube.com/watch?v=XqTCGE0wl3E,Sauter Master Class 130,89,,піаніно,no,130см,acoustic
+79_sauter_masterclass_130_89_b.wav,79,https://www.youtube.com/shorts/cX1_hxdu43c,Sauter Master Class 130 (інший запис),89,,піаніно,no,130см; другий запис (пор. №78),acoustic
+80_sauter_vivace_94.wav,80,https://www.youtube.com/shorts/1LrVnO6Ze8A,Sauter Vivace Grand,94,,рояль,no,,acoustic
+81_sauter_omega_95.wav,81,https://www.youtube.com/shorts/3lN7nzaJ6Ao,Sauter Omega Grand,95,,рояль,no,,acoustic
+82_sauter_pure_basic_85.wav,82,https://www.youtube.com/shorts/4lOA2NqEr2M,"Sauter Pure Basic Butterfly Upright",85,,піаніно,no,,acoustic
+83_sauter_116_83.wav,83,https://www.youtube.com/shorts/Rf5CwSek93c,Sauter 116,83,,піаніно,no,116см,acoustic
+84_steingraeber_e272_97.wav,84,https://www.youtube.com/watch?v=-EH06hM8H5U,Steingraeber & Söhne E-272 Concert Grand,97,,рояль,no,фрагмент 4:03-5:00,acoustic
+85a_steingraeber_272_98.wav,85,https://www.youtube.com/watch?v=O0CE6CFW8WY,Steingraeber 272,98,,рояль,no,"розмірне порівняння (та сама позиція мікрофона, стерео); 2:26-3:43",acoustic
+85b_steingraeber_212_95.wav,85,https://www.youtube.com/watch?v=O0CE6CFW8WY,Steingraeber 212,95,,рояль,no,"розмірне порівняння; 4:21-6:37",acoustic
+85c_steingraeber_170_91.wav,85,https://www.youtube.com/watch?v=O0CE6CFW8WY,Steingraeber 170,91,,рояль,no,"розмірне порівняння; 7:20-9:16; УВАГА: рояль стоїть біля стіни — акустика спотворена, не лише інструмент",acoustic
+86_eterna_er10_73.wav,86,https://www.youtube.com/watch?v=zKzoEaiB3FU,"Eterna ER-10 (Yamaha, 108-110см)",73,,піаніно,yes,мікрофон рухається,acoustic
+87_steingraeber_a170_90.wav,87,https://www.youtube.com/watch?v=OPwht4Pvq6c,Steingraeber A-170 Grand,90,,рояль,no,"фрагмент 0:00-4:00; правильна акустика (НЕ біля стіни); пор. №85c (той самий 170 біля стіни)",acoustic
+88_steingraeber_e272_97_b.wav,88,https://www.youtube.com/watch?v=e04sbY1zeqs,Steingraeber E-272 Concert Grand,97,,рояль,no,та сама оцінка як №84 (E-272); інший запис,acoustic
+89_steingraeber_d232_96.wav,89,https://www.youtube.com/watch?v=64M3evq4b38,Steingraeber & Söhne D-232,96,,рояль,yes,мікрофон рухається,acoustic
+90_steingraeber_122t_87.wav,90,https://www.youtube.com/watch?v=MrojwF2dm2I,Steingraeber & Söhne 122-T,87,,піаніно,no,122см,acoustic
+91_steingraeber_130t_90.wav,91,https://www.youtube.com/watch?v=GwlQg1Cxwwc,Steingraeber & Söhne 130-T,90,,піаніно,no,130см,acoustic
+92_bluthner_upright_88.wav,92,https://www.youtube.com/watch?v=lIXLxsj4R9g,Blüthner Upright (Burr Walnut),88,,піаніно,no,restored,acoustic
+93a_steinhoven_sg148_75.wav,93,https://www.youtube.com/shorts/TRQd8LoC_14,Steinhöven SG148,75,,рояль,no,"порівняння 4 роялів (та сама кімната/мікрофон); SG=small grand; 0:14-0:25",acoustic
+93b_bluthner_style4_89.wav,93,https://www.youtube.com/shorts/TRQd8LoC_14,Blüthner Style 4,89,,рояль,no,"порівняння 4 роялів; Model 4 = ~185см grand; 0:25-0:36",acoustic
+93c_steinway_model_o_94.wav,93,https://www.youtube.com/shorts/TRQd8LoC_14,Steinway Model O (restored),94,,рояль,no,"порівняння 4 роялів; restored; 0:36-0:45; пор. №46a",acoustic
+93d_bosendorfer_170_92.wav,93,https://www.youtube.com/shorts/TRQd8LoC_14,Bösendorfer 170,92,,рояль,no,"порівняння 4 роялів; 0:45-кінець; пор. №46b",acoustic
+94_samick_su108_69.wav,94,https://www.youtube.com/watch?v=IFEEXLoAC28,Samick SU-108P (Blue Polyester),69,,піаніно,no,108см; фрагмент 0:56-3:14,acoustic
+95_boston_up118c_80.wav,95,https://www.youtube.com/shorts/MEdhjjLL2oQ,Boston UP-118C,80,,піаніно,no,118см; фрагмент від 0:12,acoustic
+96_ronisch_115_78.wav,96,https://www.youtube.com/shorts/K2t2crPHfMA,Rönisch 115 Traditional Upright,78,,піаніно,no,115см; фрагмент від 0:13,acoustic
+97_cable_nelson_62.wav,97,https://www.youtube.com/watch?v=NTvThToIPVI,Cable-Nelson (#261799),62,,піаніно,no,,acoustic
+98_may_m121_76.wav,98,https://www.youtube.com/watch?v=DeRL3lAp-b4,May M-121,76,,піаніно,no,121см,acoustic
+99_nordiska_futura2_42.wav,99,https://www.youtube.com/watch?v=Fks5V5bO6to,Nordiska Piano Futura 2,42,,піаніно,no,,acoustic
+100_rostov_don_40.wav,100,https://www.youtube.com/watch?v=hcwolYQKyjg,піаніно Ростов-Дон,40,,піаніно,no,,acoustic
+101a_terek_before_35.wav,101,https://www.youtube.com/watch?v=rNOfcEqK_1A,піаніно Терек — до настройки,35,,піаніно,no,розрізано з 101; до настройки; 0:00-0:28,acoustic
+101b_terek_after_45.wav,101,https://www.youtube.com/watch?v=rNOfcEqK_1A,піаніно Терек — після настройки,45,,піаніно,no,розрізано з 101; після; від 0:31,acoustic
+102a_kuban_before_37.wav,102,https://www.youtube.com/shorts/gsJUbhqG__E,піаніно Кубань — до настройки,37,,піаніно,no,розрізано з 102; до настройки; 0:00-0:14,acoustic
+102b_kuban_after_52.wav,102,https://www.youtube.com/shorts/gsJUbhqG__E,піаніно Кубань — після настройки,52,,піаніно,no,розрізано з 102; після; від 0:17,acoustic
+103_kuban_42.wav,103,https://www.youtube.com/shorts/n2PZ0hgctMc,піаніно Кубань (гама),42,,піаніно,no,"гама; погано настроєно; чути молоточки (механічний шум)",acoustic
+104_akkord_45.wav,104,https://www.youtube.com/shorts/lHIJErahg-Q,піаніно Аккорд,45,,піаніно,no,фрагмент 0:55-1:15; інший Акорд (пор. №05),acoustic
+105_kimball_spinet_1946_57_OLD.wav,105,https://www.youtube.com/watch?v=kCCQJZ_OtCw,"Kimball Spinet, 1946",57,OLD,піаніно,no,spinet (малий вертикальний); 1946; фрагмент 3:43-4:17,acoustic
+106_story_clark_console_60.wav,106,https://www.youtube.com/watch?v=YY0xz9-fMAY,Story & Clark Console,60,,піаніно,no,console (вертикальне); фрагмент 5:01-5:20,acoustic
+107_lester_betsy_ross_spinet_52.wav,107,https://www.youtube.com/watch?v=n89-h0qYWhY,Lester Betsy Ross Spinet,52,,піаніно,no,spinet; фрагмент 2:45-3:42,acoustic
+108_bechstein_detuned_25.wav,108,https://www.youtube.com/shorts/ejFivW5Fmr0,C. Bechstein (розстроєний),25,,рояль,no,"РОЗСТРОЄНИЙ рояль — рідкісний поганий рояль; ламає конфаунд рояль=добре; новий мінімум",acoustic
+109_ukraina_detuned_36.wav,109,https://www.youtube.com/shorts/0DPn-T8O0u8,піаніно Україна (розстроєне),36,,піаніно,no,розстроєне,acoustic
+110a_yamaha_c3_detuned_33.wav,110,https://www.youtube.com/shorts/k85nNRqeguY,Yamaha C3 — розстроєний,33,,рояль,no,"розрізано з 110; розстроєний; 0:00-0:05; коротко ~5с; поганий рояль",acoustic
+110b_yamaha_c3_tuned_90.wav,110,https://www.youtube.com/shorts/k85nNRqeguY,Yamaha C3 — настроєний,90,,рояль,no,"розрізано з 110; настроєний; від 0:07; той самий інструмент що 110a",acoustic
+111_unknown_old1_detuned_30_OLD.wav,111,https://www.youtube.com/shorts/tLFVCldxiSY,невідоме старе піано №1 (розстроєне),30,OLD,піаніно,no,марка невідома; розстроєне; фрагмент 0:00-0:30,acoustic
+112_unknown_grand_detuned_38.wav,112,https://www.youtube.com/shorts/b0Hf1sZOa1k,невідомий рояль (чуть розстроєний),38,,рояль,no,марка невідома; чуть розстроєний; від 0:04,acoustic
+113_jstaub_detuned_36_OLD.wav,113,https://www.youtube.com/shorts/t31odS5OiaE,J.Staub (старе розстроєне),36,OLD,піаніно,no,розстроєне,acoustic
+114_steinbach_detuned_39.wav,114,https://www.youtube.com/shorts/j_DRA4CDS5k,Steinbach (трохи розстроєне),39,,піаніно,no,трохи розстроєне,acoustic
+115_unknown_detuned_27.wav,115,https://www.youtube.com/shorts/mtKdlRfeLcg,невідоме розстроєне піаніно,27,,піаніно,no,марка невідома; розстроєне; від 0:13,acoustic
+116_lirika_62.wav,116,https://www.youtube.com/shorts/OvjLNIqm01E,піаніно Лирика,62,,піаніно,no,,acoustic
+117_steingraeber_d232_96_b.wav,117,https://www.youtube.com/watch?v=XrbPTnBDAQY,Steingraeber D-232 (інший запис),96,,рояль,no,фрагмент 1:34-3:19; другий запис D-232 (пор. №89),acoustic
+118_grotrian_g225_95.wav,118,https://www.youtube.com/watch?v=9tl5sXTKl-U,Grotrian-Steinweg G-225,95,,рояль,no,,acoustic
+119_wurlitzer_42.wav,119,https://www.youtube.com/shorts/F5bIFYD0k5k,Wurlitzer (#411318),42,,піаніно,no,,acoustic
+120_wurlitzer_grand_68.wav,120,https://www.youtube.com/shorts/DiDfb1RnEPs,Wurlitzer Bluetooth selfplayer 5'8'' grand,68,,рояль,no,player piano,acoustic
+121_unknown_upright_60.wav,121,https://www.youtube.com/shorts/nl9fOXUpqdk,невідоме піаніно,60,,піаніно,no,марка невідома; фрагмент 0:00-0:47,acoustic
+122_kids_electronic_digital_30.wav,122,https://www.youtube.com/shorts/RmzH0s4Rnz8,дитяче електро піаніно,30,,,no,"з 0:07; СИНТЕТИКА (електронне) — негативний клас",digital
+123a_barthol_berlin_1915_42_OLD.wav,123,https://www.youtube.com/watch?v=ApGXujZVWf4,"Barthol & Berlin, 1915",42,OLD,піаніно,no,"порівняння 5 інструментів; 0:00-1:00",acoustic
+123b_beuthner_grand_1953_55.wav,123,https://www.youtube.com/watch?v=ApGXujZVWf4,"Beüthner grand, 1953",55,,рояль,no,"порівняння 5; 1:05-2:12; ймовірно Blüthner",acoustic
+123c_player_piano_1958_65.wav,123,https://www.youtube.com/watch?v=ApGXujZVWf4,"Player Piano grand, 1958",65,,рояль,no,"порівняння 5; 2:12-3:13; player piano",acoustic
+123d_yamaha_c7x_94.wav,123,https://www.youtube.com/watch?v=ApGXujZVWf4,Yamaha C7X grand,94,,рояль,no,"порівняння 5; 3:13-4:10",acoustic
+123e_yamaha_cfx_97.wav,123,https://www.youtube.com/watch?v=ApGXujZVWf4,Yamaha CFX grand,97,,рояль,no,"порівняння 5; 4:10-4:58",acoustic
+124a_small_soviet_42.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,Small Soviet piano,42,,піаніно,no,"порівняння 11; 0:07-0:16",acoustic
+124b_barthol_berlin_55_OLD.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,Barthol & Berlin,55,OLD,піаніно,no,"порівняння 11; 0:18-0:30; бренд як №123a (1915)",acoustic
+124c_hoffmann_t161_84.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,W.Hoffmann T161,84,,рояль,no,"порівняння 11; 0:39-0:58; T161=161см grand (юзер написав piano — уточнити)",acoustic
+124d_bechstein_grand_90.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,C.Bechstein grand (настроєний),90,,рояль,no,"порівняння 11; 1:01-1:14; настроєний — контраст до №108 (розстр. 25)",acoustic
+124e_fazioli_f193_94.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,Fazioli F193,94,,рояль,no,"порівняння 11; 1:19-1:46",acoustic
+124f_fazioli_cloud_96.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,Fazioli Cloud (art-case),96,,рояль,no,"порівняння 11; 1:48-2:24",acoustic
+124g_fazioli_origami_95.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,Fazioli Origami (art-case),95,,рояль,no,"порівняння 11; 2:29-2:51",acoustic
+124h_fazioli_flying_95.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,Fazioli Flying (art-case),95,,рояль,no,"порівняння 11; 2:53-3:21",acoustic
+124i_fazioli_butterfly_96.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,Fazioli Butterfly (art-case),96,,рояль,no,"порівняння 11; 3:24-4:10",acoustic
+124j_fazioli_kengo_kuma_96.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,Fazioli Kengo Kuma (art-case),96,,рояль,no,"порівняння 11; 4:14-4:57",acoustic
+124k_fazioli_f228_gold_96.wav,124,https://www.youtube.com/watch?v=wdRekUGLQvM,Fazioli F228 Gold,96,,рояль,no,"порівняння 11; 5:04-6:05; пор. №70 F228",acoustic
+125a_young_chang_e113_72.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Young Chang E113,72,,піаніно,no,"порівняння 13; <0:15",acoustic
+125b_otto_altenburg_grand_65.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Otto Altenburg Grand,65,,рояль,no,"порівняння 13; 0:18-0:31",acoustic
+125c_kawai_k8_77.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Kawai K8,77,,піаніно,no,"порівняння 13; 0:33-0:54",acoustic
+125d_yamaha_clp795gp_digital_89.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Yamaha CLP795GP (digital grand),89,,,no,"порівняння 13; 0:55-1:14; ЦИФРОВИЙ Clavinova — негативний клас; звучить добре",digital
+125e_pleyel_upright_82.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Pleyel (upright),82,,піаніно,no,"порівняння 13; 1:17-1:35",acoustic
+125f_estonia_grand_90.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Estonia Grand,90,,рояль,no,"порівняння 13; 1:38-1:59; модель не вказана",acoustic
+125g_pleyel_baby_grand_87.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Pleyel baby grand,87,,рояль,no,"порівняння 13; 2:02-2:21",acoustic
+125h_pleyel_baby_grand2_90.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Pleyel baby grand #2,90,,рояль,no,"порівняння 13; 2:24-2:46",acoustic
+125i_pleyel_half_grand_90.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Pleyel 1/2 grand,90,,рояль,no,"порівняння 13; 2:49-3:08",acoustic
+125j_steinway_b_96.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Steinway B,96,,рояль,no,"порівняння 13; 3:10-3:19; коротко ~8с",acoustic
+125k_steinway_b_2019_96.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Steinway B (2019),96,,рояль,no,"порівняння 13; 3:23-3:39",acoustic
+125l_yamaha_cfx_97.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Yamaha CFX,97,,рояль,no,"порівняння 13; 3:45-4:40",acoustic
+125m_fazioli_flying_95.wav,125,https://www.youtube.com/watch?v=k7XMMZiVaV0,Fazioli Flying (art-case),95,,рояль,no,"порівняння 13; 4:43-5:00; пор. №124h",acoustic
+126_npk10_digital_35.wav,126,https://www.youtube.com/watch?v=KDg-KuKmfXw,NPK-10 Digital Piano,35,,,no,ЦИФРОВИЙ — негативний клас; фрагмент 0:29-2:02,digital
+127_nux_npk20_digital_37.wav,127,https://www.youtube.com/watch?v=aosKPV7bcrQ,NUX NPK-20,37,,,no,ЦИФРОВИЙ — негативний клас; час до 0:22,digital
+128_duro_digital_37.wav,128,https://www.youtube.com/shorts/ux8kBmd-OW8,Duro digital piano,37,,,no,"ЦИФРОВИЙ — негативний клас; склеєно 0:15-0:21 + 0:23-0:33",digital
+129_stanford_fizpiano_37.wav,129,http://large.stanford.edu/courses/2007/ph210/otey2/,СтенфордФізпіано (waveguide model: A1-A7 + A3 динаміки),37,,,no,"фіз.модель (Otey 2007, Stanford); 11 нот склеєно у 1 файл; ЧИСТЕ (без каналу) — youtube-ify перед критиком; per-note сирці в _raw/st_*",model
+130_m_physical_sim_model_30.wav,130,https://www.youtube.com/watch?v=PDdObSpRf_o,M-Physical Simulation Piano,30,,,no,фіз-симуляція — негативний клас (як FAUST),model
+131_yamaha_cs80_synth_33.wav,131,https://www.youtube.com/watch?v=TjH1bvksF9A,"Yamaha CS-80 (analog synth, E.Piano patch)",33,,,no,аналоговий синт — негативний клас (electric piano),digital
+132_yamaha_cp88_cp73_digital_32.wav,132,https://www.youtube.com/shorts/PRTulwepu4E,Yamaha CP88/CP73 (stage piano),32,,,no,цифрове stage piano — негативний клас,digital
+133_yamaha_dx7_synth_34.wav,133,https://www.youtube.com/shorts/MeQV1RSbd6Q,"Yamaha DX7 (FM synth, piano 1)",34,,,no,FM-синт — негативний клас,digital
+134_yamaha_montage_m8x_fmx_29.wav,134,https://www.youtube.com/watch?v=_Xsw7Gm3dXg,Yamaha Montage M8X FM-X (DX7 E.Piano),29,,,no,FM-X синт — негативний клас,digital
+135_yamaha_dx7_ep2_33.wav,135,https://www.youtube.com/shorts/gSTPCjBO9hw,Yamaha DX7 E.Piano 2 (FM synth),33,,,no,FM-синт — негативний клас,digital
+136_yamaha_dx7_ep3_36.wav,136,https://www.youtube.com/shorts/3i4_OGkW8Ws,Yamaha DX7 E.Piano 3 (FM synth),36,,,no,FM-синт — негативний клас,digital
+137_korg_d1_digital_38.wav,137,https://www.youtube.com/watch?v=_2deTG9cAa0,Korg D1 Digital Piano,38,,,no,цифрове — негативний клас; час до 0:29,digital
+138_casio_px160_digital_39.wav,138,https://www.youtube.com/watch?v=Uc3-nNP-avo,Casio PX-160,39,,,no,цифрове — негативний клас; час до 0:38,digital
+139_roland_vpiano_model_70.wav,139,https://www.youtube.com/watch?v=6kLVKO0gmlA,Roland V-Piano (physical modeling),70,,,no,"фіз-модель (комерційна, як FAUST) — найякісніший model-негатив",model
+140_physical_modeling_model_32.wav,140,https://www.youtube.com/watch?v=fHLo55w_ymg,Physical modeling piano,32,,,no,фіз-модель — негативний клас (як FAUST),model
+141_crumar_seventeen_model_34.wav,141,https://www.youtube.com/watch?v=fJL0GEtRiYQ,Crumar Seventeen (PM tine EP),34,,,no,"фіз-модель tine-електропіано — негативний клас",model
+142_pianoid_model_37.wav,142,https://www.youtube.com/watch?v=GuIhPI6wUhA,піаноід (фіз-модель),37,,,no,"з mkv-екрана (DRM-відео); тихий запис +29дБ; фіз-модель",model
+143_mintuong_digital_36.wav,143,https://www.youtube.com/shorts/QIgtjG_W3V8,MinTuong Digital Piano,36,,,no,цифрове — негативний клас,digital
+144_roblox_synth_34.wav,144,https://www.youtube.com/shorts/06Bz1zhN_zg,Roblox Piano (synth),34,,,no,гейм-синт — негативний клас,digital
+145a_korg_m1_piano1_39.wav,145,https://www.youtube.com/watch?v=lb4t3WDEgt0,Korg M1 — piano1,39,,,no,sample-синт; фрагмент 0:46-1:16,digital
+145b_korg_m1_piano2_36.wav,145,https://www.youtube.com/watch?v=lb4t3WDEgt0,Korg M1 — piano2,36,,,no,sample-синт; фрагмент 3:38-3:53,digital
+145c_korg_m1_epiano3_34.wav,145,https://www.youtube.com/watch?v=lb4t3WDEgt0,Korg M1 — e.piano3,34,,,no,sample-синт; фрагмент 6:49-7:16,digital
+146_petrof_p237_monsoon_94.wav,146,https://www.youtube.com/shorts/ZxNr1Die7PI,Petrof P 237 Monsoon (grand),94,,рояль,no,концертний рояль,acoustic
+147_petrof_p135_k1_88.wav,147,https://www.youtube.com/watch?v=p8IGTg50uZQ,Petrof P 135 K1,88,,піаніно,no,135см,acoustic
+148_petrof_p127_next_85.wav,148,https://www.youtube.com/watch?v=ScMGJBIsQ4A,Petrof Colours P 127 Next,85,,піаніно,no,127см,acoustic
+149_petrof_136_89.wav,149,https://www.youtube.com/watch?v=dy5RvugRIyc,Petrof 136,89,,піаніно,no,"136см; час до 0:38; ТОЙ САМИЙ зал/канал, що рояль Petrof №146",acoustic
+150_petrof_p131_88.wav,150,https://www.youtube.com/watch?v=5yrojoU7rNI,Petrof P131 Upright,88,,піаніно,no,131см; фрагмент 1:28-4:27,acoustic
+151_petrof_ant275_96.wav,151,https://www.youtube.com/watch?v=grYCzy5M8k4,ANT. Petrof 275 (grand),96,,рояль,no,концертний рояль 275см,acoustic
+152_petrof_ant225_95.wav,152,https://www.youtube.com/watch?v=glcElPCdMaY,ANT. Petrof 225 (grand),95,,рояль,no,концертний рояль; фрагмент 3:56-5:50,acoustic
+153_petrof_p125_m1_85.wav,153,https://www.youtube.com/watch?v=eN_zdeFdCnA,Petrof P 125 M1,85,,піаніно,no,125см,acoustic
+154_petrof_p125_m1_85_b.wav,154,https://www.youtube.com/watch?v=iCUZVQwBQKM,Petrof P 125 M1 (інший запис),85,,піаніно,no,125см; другий запис P125 M1 (пор. №153),acoustic
+155_petrof_p127_next_85_b.wav,155,https://www.youtube.com/watch?v=KaCv-XlEkF0,Petrof P 127 Next (інший запис),85,,піаніно,no,127см; другий запис P127 Next (пор. №148),acoustic
+156_petrof_275_96_b.wav,156,https://www.youtube.com/watch?v=qCepRUWVbOU,Petrof 275 (інший запис),96,,рояль,no,концертний рояль; інший запис 275 (пор. №151),acoustic
+157_petrof_p194_storm_91.wav,157,https://www.youtube.com/watch?v=7CUVhA5bSM4,Petrof Storm P194 Grand,91,,рояль,no,194см,acoustic
+158_petrof_p125_g1_80.wav,158,https://www.youtube.com/watch?v=3vjyrs3AJPg,Petrof P125 G1,80,,піаніно,no,125см,acoustic
+159_petrof_p284_mistral_96.wav,159,https://www.youtube.com/watch?v=Avgkq7umT4I,Petrof P 284 Mistral (grand),96,,рояль,no,флагман 284см; час до 0:45,acoustic
+160_petrof_106_73.wav,160,https://www.youtube.com/watch?v=Zf669igGuAI,Petrof 106 Upright,73,,піаніно,no,"106см; склеєно 2:34-2:56 + 3:36-4:26",acoustic
+161_petrof_iv_88.wav,161,https://www.youtube.com/watch?v=knvpvIlmdQU,"Petrof IV Grand, 5'8""",88,,рояль,no,~173см,acoustic
+162_seiler_ed186_89.wav,162,https://www.youtube.com/watch?v=mcS9Ez8YQq0,Seiler ED186 Grand,89,,рояль,no,186см,acoustic
+163_bosendorfer_185_1904_90_OLD.wav,163,https://www.youtube.com/watch?v=CCUlVzfI8HM,"Bösendorfer 185, 1904 restored",90,OLD,рояль,no,1904 відновлений,acoustic
+164_cunningham_161_84.wav,164,https://www.youtube.com/watch?v=KdLI93RA9Co,Cunningham 161 Grand,84,,рояль,no,161см baby grand,acoustic
+165_steinway_b_1896_victorian_93_OLD.wav,165,https://www.youtube.com/watch?v=OAU3zojFksY,"Steinway B 1896 Victorian",93,OLD,рояль,no,1896 vintage,acoustic
+166_bluthner_model2_95.wav,166,https://www.youtube.com/watch?v=evlkzszQMwE,Blüthner Model 2 Grand,95,,рояль,no,~190см,acoustic
+167_johannes_seiler_168_86.wav,167,https://www.youtube.com/watch?v=VmWHy_DoQ-M,Johannes Seiler 168 Louvre,86,,рояль,no,168см grand,acoustic
+168_bluthner_model_d_upright_85.wav,168,https://www.youtube.com/watch?v=vglH6W-tHWU,Blüthner Model D Upright,85,,піаніно,no,,acoustic
+169_shigeru_kawai_sk6_95.wav,169,https://www.youtube.com/watch?v=Q_Cn39bz9Z8,Shigeru Kawai SK-6,95,,рояль,yes,преміум рояль; з 0:10; мікрофон трохи рухається,acoustic
+170_hailun_120k_77.wav,170,https://www.youtube.com/shorts/RSflVlImLFs,Hailun 120K Upright,77,,піаніно,yes,120см; мікрофон трохи рухається,acoustic
+171_hailun_150s_79.wav,171,https://www.youtube.com/shorts/5D14ZmBrrok,Hailun 150s Grand,79,,рояль,no,150см baby grand,acoustic
+172_hailun_hg218_88.wav,172,https://www.youtube.com/shorts/vFomzujXiYQ,"Hailun HG218 Grand, 7'2""",88,,рояль,no,218см; час до 0:39,acoustic
+173_hailun_121_78.wav,173,https://www.youtube.com/watch?v=rUTyE6kXnaQ,Hailun 121 Upright (48''),78,,піаніно,no,121см,acoustic
+174_hailun_hu5p_81.wav,174,https://www.youtube.com/watch?v=J-4Cr3Vc33I,Hailun HU 5P Upright,81,,піаніно,no,H-5P,acoustic
+175_kayserburg_ka180_86.wav,175,https://www.youtube.com/watch?v=kiDSPjARZJ0,Kayserburg KA-180 Grand,86,,рояль,yes,180см; час до 2:14; мікрофон рухається,acoustic
+176_kayserburg_121_80.wav,176,https://www.youtube.com/watch?v=aKB1jqj5DzM,Kayserburg 121 Upright Artist Ed.,80,,піаніно,no,121см; фрагмент 1:21-2:27,acoustic
+177_kayserburg_kn2_82.wav,177,https://www.youtube.com/watch?v=Y5HyujSErnM,Kayserburg KN2,82,,піаніно,no,піаніно (підтверджено),acoustic
+178_kayserburg_khb1_80.wav,178,https://www.youtube.com/watch?v=tqoTeB4E4bM,Kayserburg KHB1,80,,піаніно,no,піаніно (підтверджено),acoustic
+179_kayserburg_khx1_80.wav,179,https://www.youtube.com/watch?v=0e_O2RFS7IE,Kayserburg KHX1,80,,піаніно,no,"KH-серія (юзер написав KA1X; назва=KHX1); оцінку прийнято 80 як №178 — підтвердити",acoustic
+180_kayserburg_kx2t_83.wav,180,https://www.youtube.com/watch?v=CfWkne5B-jQ,Kayserburg KX2T Handcrafted (Bubinga),83,,піаніно,no,upright,acoustic
+181_kayserburg_ka1ux_83.wav,181,https://www.youtube.com/watch?v=zMiUzPehL_U,Kayserburg KA1UX Artist Series,83,,піаніно,no,upright,acoustic
+182_samick_su118_73.wav,182,https://www.youtube.com/watch?v=NniG58IfoHQ,Samick SU-118 Black Upright,73,,піаніно,no,118см,acoustic
+183_samick_118_mahogany_1995_71.wav,183,https://www.youtube.com/watch?v=Rw_l3MXWYzQ,"Samick 118 Mahogany, 1995",71,,піаніно,no,1995; 118см,acoustic
+184_samick_su108p_69_b.wav,184,https://www.youtube.com/watch?v=n6qB_RoAF7c,Samick SU-108P (інший запис),69,,піаніно,no,108см; другий запис SU-108P (пор. №94),acoustic
+185_samick_sg172_82.wav,185,https://www.youtube.com/watch?v=1d4RdvRtF1E,Samick SG172 Grand,82,,рояль,yes,172см; час до 0:54; мікрофон рухається,acoustic
+186_samick_su108p_68_c.wav,186,https://www.youtube.com/watch?v=ZXxP0EcPHxs,Samick SU-108P Compact (3-й запис),68,,піаніно,no,108см; фрагмент 1:45-2:12; пор. №94/184,acoustic
+187_samick_js131_78.wav,187,https://www.youtube.com/watch?v=4ohvaZKe_CM,Samick JS 131 Upright,78,,піаніно,yes,131см; мікрофон рухається,acoustic
+188_samick_su131t_1989_76.wav,188,https://www.youtube.com/watch?v=kbWW2SRauF8,"Samick SU131T, 1989 Ebony",76,,піаніно,no,1989; 131см,acoustic
+189_samick_sg155_77.wav,189,https://www.youtube.com/watch?v=otAuhSpWOVY,"Samick SG155 Baby Grand, 5'1""",77,,рояль,no,155см baby grand,acoustic
+190_samick_su108p_69_d.wav,190,https://www.youtube.com/watch?v=yoFcHg2txvU,Samick SU-108P (4-й запис),69,,піаніно,no,"108см; фрагмент 1:36-2:50; трохи розстроєне; звучить як шкільне; пор. №94/184/186",acoustic
+191_young_chang_109_70.wav,191,https://www.youtube.com/watch?v=PqB1Lsd57hk,Young Chang 109 Upright,70,,піаніно,no,"109см; фрагмент 2:15-3:00; стерео-перекос (лівий голосніший)",acoustic
+192_young_chang_y121_76.wav,192,https://www.youtube.com/watch?v=t9Auuyf-lxM,Young Chang Y-121,76,,піаніно,no,121см,acoustic
+193_young_chang_u121_75.wav,193,https://www.youtube.com/watch?v=Pt-_BFbjwdA,Young Chang U-121 Studio,75,,піаніно,no,121см,acoustic
+194_young_chang_gp150_76.wav,194,https://www.youtube.com/shorts/BluHkq_2H7Q,Young Chang GP-150 Baby Grand,76,,рояль,no,150см baby grand,acoustic
+195_young_chang_u3_79.wav,195,https://www.youtube.com/watch?v=Y3PxzEhvCi8,Young Chang U3,79,,піаніно,no,,acoustic
+196_yamaha_m1_74.wav,196,https://www.youtube.com/watch?v=geq3sNvbtYk,Yamaha M1,74,,піаніно,no,console upright,acoustic
+197_daewoo_du21a_73.wav,197,https://www.youtube.com/watch?v=EtXrjQaaIWM,Daewoo DU-21A,73,,піаніно,no,фрагмент 0:15-0:43,acoustic
+198_schimmel_122_86.wav,198,https://www.youtube.com/watch?v=BixkJnW6eCE,Schimmel 122 Upright,86,,піаніно,no,"122см; з mkv-екрана (DRM-відео); перші 2:25; перезаписано голосніше",acoustic
+199_schimmel_c189_91.wav,199,https://www.youtube.com/watch?v=HjasF2HOLsU,Schimmel C189 Grand,91,,рояль,no,189см,acoustic
+200_schimmel_120t_84.wav,200,https://www.youtube.com/shorts/ptXyAyVJk8k,Schimmel 120T Upright (47''),84,,піаніно,no,120см,acoustic
+201_schimmel_116_83.wav,201,https://www.youtube.com/watch?v=rpf1SP8sTVA,Schimmel 116,83,,піаніно,no,116см,acoustic
+202_schimmel_k213_glas_94.wav,202,https://www.youtube.com/shorts/1SFm1UavuLQ,Schimmel K213 Glas (plexiglass),94,,рояль,no,"213см; плексигласовий корпус; звучить трохи синтетично але класно; з 0:21",acoustic
+203_schimmel_c130_88.wav,203,https://www.youtube.com/shorts/0EVh9lgrNaA,Schimmel C130,88,,піаніно,no,130см,acoustic
+204_schimmel_c189_91_b.wav,204,https://www.youtube.com/shorts/AufqEymS8xA,Schimmel C189 (інший запис),91,,рояль,no,189см; другий запис C189 (пор. №199),acoustic
+205_schimmel_fridolin_f123_82.wav,205,https://www.youtube.com/shorts/duzSWtzEagA,Schimmel Fridolin F123,82,,піаніно,no,123см; бюджетна лінія; час до 0:30,acoustic
+206_yamaha_yus5_89.wav,206,https://www.youtube.com/watch?v=CrsBD_dwS28,Yamaha YUS5 Upright,89,,піаніно,no,131см преміум,acoustic
+207_yamaha_yus5_89_b.wav,207,https://www.youtube.com/shorts/wjqfFZ61nM8,Yamaha YUS5 (інший запис),89,,піаніно,no,131см; другий запис YUS5 (пор. №206),acoustic
+208_yamaha_yus3_88.wav,208,https://www.youtube.com/shorts/N0EiOSnzzek,Yamaha YUS3,88,,піаніно,no,131см,acoustic
+209_yamaha_yus1_86.wav,209,https://www.youtube.com/shorts/u6ciA0U-z20,Yamaha YUS1,86,,піаніно,no,121см,acoustic
+210_yamaha_ju109_72.wav,210,https://www.youtube.com/watch?v=Oz6pJ4Kglaw,Yamaha JU-109,72,,піаніно,no,109см; фрагмент 6:54-7:45,acoustic
+211_yamaha_ju109_72_b.wav,211,https://www.youtube.com/watch?v=VhpKyVswau0,Yamaha JU-109 (інший запис),72,,піаніно,no,109см; другий запис JU-109 (пор. №210),acoustic
+212_yamaha_ju109_72_c.wav,212,https://www.youtube.com/watch?v=BZRqDMXTUG8,Yamaha JU-109 (3-й запис),72,,піаніно,no,109см; якісний запис; пор. №210/211,acoustic
+213_yamaha_jx113_74.wav,213,https://www.youtube.com/watch?v=5an5hgQ-g8A,Yamaha JX113TPE,74,,піаніно,no,113см; фрагмент 1:25-4:00,acoustic
+214_yamaha_m2_73.wav,214,https://www.youtube.com/watch?v=sSmVqGLiqOA,Yamaha M2,73,,піаніно,no,console; час до 3:07,acoustic
+215_steingraeber_138k_91.wav,215,https://www.youtube.com/watch?v=9LtmZgBOfLA,Steingraeber 138 K Upright,91,,піаніно,no,"138см; ПЕРШЕ піаніно >90 — ламає верхній конфаунд; час до 2:17",acoustic
+216_steingraeber_138sfm_91.wav,216,https://www.youtube.com/watch?v=J_shzjoJ95w,Steingraeber 138-SFM Upright,91,,піаніно,no,138см; топ-піаніно >90,acoustic
+218_nordiska_futura_sosna_42.wav,218,https://www.youtube.com/watch?v=tc_6pZNNpSY,Nordiska Futura (sosna),42,,піаніно,no,інший Nordiska Futura (пор. №99),acoustic
+219_yamaha_su7_90.wav,219,https://www.youtube.com/shorts/oXLtQDP20s4,Yamaha SU7 Upright (pre-owned),90,,піаніно,no,флагман-вертикаль; топ-піаніно,acoustic
+220_yamaha_su7_sh2_88.wav,220,https://www.youtube.com/watch?v=UrtMScErtqg,Yamaha SU-7 SH2 Silent,88,,піаніно,no,Silent система; інший SU7 (пор. №219),acoustic
+221_yamaha_su7_90_c.wav,221,https://www.youtube.com/watch?v=qRKy7_4ybmA,Yamaha SU7 (3-й запис),90,,піаніно,no,з 0:10; третій запис SU7 (пор. №219/220),acoustic
+222_yamaha_p114_2007_75.wav,222,https://www.youtube.com/watch?v=OLZZrcDkLJI,"Yamaha P114 Silent, c.2007",75,,піаніно,no,114см; 2007; з 0:07,acoustic
+223_kemble_cambridge10_1997_74.wav,223,https://www.youtube.com/watch?v=fj-XRqXUXEw,"Kemble Cambridge 10, c.1997",74,,піаніно,no,1997; з 0:05,acoustic
+224_yamaha_p22_2000_76.wav,224,https://www.youtube.com/watch?v=y0iEEnYEFLE,"Yamaha P22, c.2000",76,,піаніно,no,studio upright; 2000; з 0:05,acoustic
+225_kemble_cambridge15_76.wav,225,https://www.youtube.com/watch?v=Wu8nf7RnjuU,Kemble Cambridge 15 Upright,76,,піаніно,no,фрагмент 1:38-1:58,acoustic
+226_kemble_k121_80.wav,226,https://www.youtube.com/watch?v=rXbSyY1zWkc,Kemble K121 Upright,80,,піаніно,no,121см; фрагмент 2:10-3:25,acoustic
+227a_august_forster_125g_87_c.wav,227,https://www.youtube.com/shorts/hsy1D9ZJBqQ,August Förster 125-G (3-й запис),87,,піаніно,no,125см; 0:00-0:30; пор. №72/75,acoustic
+227b_bechstein_r124_88.wav,227,https://www.youtube.com/shorts/hsy1D9ZJBqQ,C. Bechstein R124 Elegance,88,,піаніно,no,124см; від 0:33,acoustic
+228_steingraeber_138_concert_91.wav,228,https://www.youtube.com/watch?v=ndiYWKw5pv8,Steingraeber 138 Concert Upright,91,,піаніно,no,138см; ще один 138 (пор. №215/216),acoustic
+229_schimmel_konzert_k132_90.wav,229,https://www.youtube.com/shorts/p8eJoZH406U,Schimmel Konzert K132,90,,піаніно,no,132см; топ-піаніно,acoustic
+230_schimmel_konzert_k132_90_b.wav,230,https://www.youtube.com/watch?v=0uxPmnQ6r-c,Schimmel Konzert K132 (інший запис),90,,піаніно,no,132см; інший запис K132 (пор. №229),acoustic
+231_schimmel_konzert_k132_90_c.wav,231,https://www.youtube.com/watch?v=oxraPXv26Xc,Schimmel Konzert K132 (3-й запис),90,,піаніно,no,"132см; з mkv-екрана (DRM); третій запис K132 (пор. №229/230)",acoustic
+232_schimmel_k132t_90.wav,232,https://www.youtube.com/watch?v=lIl82ZhwnWs,Schimmel K132T,90,,піаніно,no,132см,acoustic
+233_steingraeber_138_91_d.wav,233,https://www.youtube.com/watch?v=yUP2_OGlf1w,Steingraeber 138 (4-й запис),91,,піаніно,no,138см; 4-й запис 138 — єдина модель з 91 (пор. №215/216/228),acoustic
+234_steingraeber_138_ksfm_91.wav,234,https://www.youtube.com/watch?v=2bCUSy2Fo3c,Steingraeber 138 K-SFM,91,,піаніно,no,138см; 5-й запис 138,acoustic
+235_steingraeber_138k_91_b.wav,235,https://www.youtube.com/watch?v=0PXZBHI1HZU,Steingraeber 138K (інший запис),91,,піаніно,no,138см; 6-й запис 138,acoustic
+236_bosendorfer_130cl_89.wav,236,https://www.youtube.com/watch?v=JdtKLQMRTvI,Bösendorfer 130 CL,89,,піаніно,no,130см; пор. №44/53,acoustic
+237_steinhoven_sg148_75_b.wav,237,https://www.youtube.com/watch?v=6NIR4cGhqnQ,Steinhöven SG148 Baby Grand (інший запис),75,,рояль,no,148см; інший запис SG148 (пор. №93a),acoustic
+238_steinhoven_sg148_75_c.wav,238,https://www.youtube.com/watch?v=O50Psn7UFEQ,Steinhöven SG148 Baby Grand (3-й запис),75,,рояль,no,148см; 3-й запис SG148,acoustic
+239_steinhoven_sg148_75_d.wav,239,https://www.youtube.com/watch?v=sOVzjw9dsSg,Steinhöven SG148 Baby Grand (4-й запис),75,,рояль,no,148см; 4-й запис SG148,acoustic
+240_steinhoven_gp170_crystal_80.wav,240,https://www.youtube.com/watch?v=ZBvLtz56weA,Steinhöven GP-170 Crystal Clear Grand,80,,рояль,no,170см; акриловий корпус,acoustic
+241_steinhoven_gp148_75.wav,241,https://www.youtube.com/watch?v=TAQSgnhJYTM,Steinhöven GP148 White Baby Grand,75,,рояль,no,148см; пор. SG148,acoustic
+242_ascot_gp148_73.wav,242,https://www.youtube.com/watch?v=_b7MCmkS61I,Ascot GP-148 Oxford Baby Grand,73,,рояль,no,148см бюджет,acoustic
+243_steinhoven_gp183_83.wav,243,https://www.youtube.com/watch?v=KKA7iKb-pK8,Steinhöven GP183 White Grand,83,,рояль,no,183см,acoustic
+244_steinhoven_su112_70.wav,244,https://www.youtube.com/watch?v=Z-2wAe1Dyq4,Steinhöven SU112 Upright,70,,піаніно,no,112см,acoustic
+245_steinhoven_sg160_79.wav,245,https://www.youtube.com/watch?v=2KjS-wVE3UU,Steinhöven SG-160 Baby Grand,79,,рояль,no,160см,acoustic
+246_steinhoven_sg160_79_b.wav,246,https://www.youtube.com/watch?v=vwWt6MOnbfw,Steinhöven SG-160 Black (інший запис),79,,рояль,no,160см; інший запис SG-160 (пор. №245),acoustic
+247_ascot_118_72.wav,247,https://www.youtube.com/watch?v=rzMax4Fyvk4,Ascot 118 Black Upright,72,,піаніно,no,118см бюджет; фрагмент 1:18-2:29,acoustic
+248_ascot_gp148_73_b.wav,248,https://www.youtube.com/watch?v=XiI4IYE2NcU,Ascot GP-148 Oxford (інший запис),73,,рояль,no,148см; інший запис GP-148 (пор. №242),acoustic
+249_ascot_118_oxford_72.wav,249,https://www.youtube.com/watch?v=KjtzAfjxiGA,Ascot 118 Oxford Upright,72,,піаніно,no,118см; пор. №247,acoustic
+250_ascot_112_70.wav,250,https://www.youtube.com/watch?v=JcLDfgWHfRY,Ascot 112 Upright,70,,піаніно,no,112см бюджет,acoustic
+251_ascot_up121_74.wav,251,https://www.youtube.com/watch?v=F070sSpxapY,Ascot UP121 Oxford Black,74,,піаніно,no,121см,acoustic
+252_essex_egp155_82.wav,252,https://www.youtube.com/watch?v=Uqt63EOn9qY,Essex EGP-155 Grand,82,,рояль,no,155см,acoustic
+253_essex_egp155_82_b.wav,253,https://www.youtube.com/watch?v=gEk4DargWFc,Essex EGP-155 Grand (інший запис),82,,рояль,no,155см; інший запис (пор. №252),acoustic
+254_essex_egp173_85.wav,254,https://www.youtube.com/shorts/RVubzNLLNRA,"Essex EGP-173, 5'8"" Ebony",85,,рояль,no,173см,acoustic
+255_petrof_bora_87.wav,255,https://www.youtube.com/watch?v=qX8kkrxAlLE,"Petrof Bora Grand, 5'2""",87,,рояль,no,157см; фрагмент 1:14-5:20,acoustic
+256_petrof_bora_87_b.wav,256,https://www.youtube.com/watch?v=F2MYZbYzRRQ,Petrof Bora Grand (інший запис),87,,рояль,no,157см; інший запис Bora (пор. №255),acoustic
+257_kawai_rx1_87.wav,257,https://www.youtube.com/watch?v=5eXynXopusM,Kawai RX-1 Grand,87,,рояль,no,5'5'' grand,acoustic
+258_kawai_rx1_87_b.wav,258,https://www.youtube.com/watch?v=vR4syyKn_1c,Kawai RX-1 Grand (інший запис),87,,рояль,no,інший запис RX-1 (пор. №257),acoustic
+259_kawai_rx1_87_c.wav,259,https://www.youtube.com/watch?v=tCoczeca8QE,Kawai RX-1 Grand (3-й запис),87,,рояль,no,3-й запис RX-1,acoustic
+260_kawai_gx1_87.wav,260,https://www.youtube.com/watch?v=KjJC38hsZLY,Kawai GX-1 Grand,87,,рояль,no,5'5'' grand,acoustic
+261_kawai_gx1_87_b.wav,261,https://www.youtube.com/watch?v=80QymOiYJTc,Kawai GX-1 Grand (інший запис),87,,рояль,no,з 0:06; інший запис GX-1 (пор. №260),acoustic
+262_pearl_river_gp150_76.wav,262,https://www.youtube.com/watch?v=XVOTYLIBZvo,Pearl River GP150 Grand,76,,рояль,no,150см,acoustic
+263_pearl_river_gp150_76_b.wav,263,https://www.youtube.com/watch?v=AOcgqMeZVGg,Pearl River GP150 Grand (інший запис),76,,рояль,no,150см; інший запис GP150 (пор. №262),acoustic
+264_pearl_river_eu118s_75.wav,264,https://www.youtube.com/watch?v=Kbny0bHoR-Q,Pearl River EU118S European (47''),75,,піаніно,no,118см,acoustic
+265_pearl_river_gp150_76_c.wav,265,https://www.youtube.com/watch?v=URkmtZhSQbo,Pearl River GP150 Player (QRS),76,,рояль,no,150см; player; 3-й запис GP150,acoustic
+266_pearl_river_gp150_76_d.wav,266,https://www.youtube.com/watch?v=tMN92F_2eGk,Pearl River GP150 (iQ Player),76,,рояль,no,150см; 4-й запис GP150,acoustic
+267_ritmuller_gh160_84.wav,267,https://www.youtube.com/watch?v=RGmjx25Mj3g,Ritmüller GH 160 R Grand,84,,рояль,no,160см; фрагмент 0:05-1:18,acoustic
+268_ritmuller_rs160_83.wav,268,https://www.youtube.com/watch?v=XwOr_11NAcY,Ritmüller RS160 Grand,83,,рояль,no,160см; коротко ~10с,acoustic
+269_ritmuller_rs160_83_b.wav,269,https://www.youtube.com/watch?v=CBAuruLDhTM,Ritmüller RS160 Grand (інший запис),83,,рояль,no,160см; інший запис RS160 (пор. №268),acoustic
+270_ritmuller_rs160_83_c.wav,270,https://www.youtube.com/watch?v=s3DbrVa1FNM,Ritmüller RS160 Grand (3-й запис),83,,рояль,no,160см; 3-й запис RS160,acoustic
+271_samick_sig50_77.wav,271,https://www.youtube.com/watch?v=CNlCHeS6PmM,Samick SIG-50 Baby Grand,77,,рояль,no,baby grand,acoustic
+272_samick_sig50_77_b.wav,272,https://www.youtube.com/watch?v=H8uNCuYwDpg,Samick SIG-50 Baby Grand (інший запис),77,,рояль,no,з 0:06; інший запис SIG-50 (пор. №271),acoustic
+273_samick_sig50_77_c.wav,273,https://www.youtube.com/watch?v=H5Zc3047ZDU,Samick SIG-50 Baby Grand (третій запис),77,,рояль,no,третій запис SIG-50 (пор. №271/272),acoustic
+274_yamaha_c1x_86.wav,274,https://www.youtube.com/watch?v=S0rcp-JCuhg,Yamaha C1X,86,,рояль,no,grand,acoustic
+275_yamaha_c1x_86_b.wav,275,https://www.youtube.com/watch?v=Q5uQsThjb6A,Yamaha C1X (інший запис),86,,рояль,no,відрізок 2:41-4:00; інший запис C1X (пор. №274),acoustic
+276_yamaha_c1x_86_c.wav,276,https://www.youtube.com/watch?v=l8k0m1v2yto,Yamaha C1X (третій запис),86,,рояль,no,третій запис C1X (пор. №274/275),acoustic
+277_kawai_gl30_86.wav,277,https://www.youtube.com/watch?v=Ovp1thzqwjY,Kawai GL-30 Grand Piano (c2022),86,,рояль,no,grand,acoustic
+278_kawai_gl30_atx2_86_b.wav,278,https://www.youtube.com/watch?v=X8WbZ4uif_U,Kawai GL-30 ATX2 (Messe 2018 demo),86,,рояль,no,з 0:10; ATX2 silent-гібрид; та сама база GL-30 (пор. №277),acoustic
+279_kawai_gl30_86_c.wav,279,https://www.youtube.com/watch?v=S_HOtBI5zIQ,Kawai GL-30 (інший запис),86,,рояль,no,відрізок 0:07-1:00; інший запис GL-30 (пор. №277/278),acoustic
+280_hoffmann_t186_88.wav,280,https://www.youtube.com/watch?v=YXu45YZELy4,W. Hoffmann T186 (Tradition),88,,рояль,no,186см grand,acoustic
+281_hoffmann_t186_88_b.wav,281,https://www.youtube.com/watch?v=zxVurTrcT8M,W. Hoffmann T186 (інший запис),88,,рояль,no,інший запис T186 (пор. №280),acoustic
+282_hoffmann_t186_88_c.wav,282,https://www.youtube.com/watch?v=yz2s81GXXdk,W. Hoffmann T186 (третій запис),88,,рояль,no,третій запис T186 (пор. №280/281),acoustic
+283_boston_gp163_88.wav,283,https://www.youtube.com/shorts/R7ZaUhMLv90,Boston GP-163 Grand Piano,88,,рояль,no,5ft4 grand (бренд Steinway); Shorts,acoustic
+284_bechstein_a175_88.wav,284,https://www.youtube.com/watch?v=YXMwl3rGMYY,C. Bechstein Academy A 175 Baby Grand,88,,рояль,no,175см; відрізок 4:20-4:59,acoustic
+285_legnica_upright_56.wav,285,https://www.youtube.com/watch?v=vS-C4cdmxak,Legnica upright piano,56,,піаніно,no,польське піаніно,acoustic
+286_estonia_l225_93.wav,286,https://www.youtube.com/watch?v=hKaXayoLGgs,Estonia L225 Grand Piano,93,,рояль,no,225см grand,acoustic
+287_legnica_upright_56_b.wav,287,https://www.youtube.com/shorts/n8fcEu64ATA,Legnica upright piano (інший запис),56,,піаніно,no,відрізок 0:05-0:40; Shorts; інший запис Legnica (пор. №285),acoustic
+288_legnica_upright_53_c.wav,288,https://www.youtube.com/shorts/04X5Eto33Fc,Legnica upright piano (інший запис),53,,піаніно,no,Shorts; інший запис Legnica (пор. №285/287),acoustic
+289_legnica_118_62.wav,289,https://www.youtube.com/watch?v=05pRLciYpCU,Legnica 118 Grey Modern Upright Piano,62,,піаніно,no,118см,acoustic
+290_legnica_m120_61.wav,290,https://www.youtube.com/watch?v=AsucV8U5K9k,"Legnica M-120, 1956",61,,піаніно,no,1956 (не OLD),acoustic
+291_calisia_upright_63.wav,291,https://www.youtube.com/shorts/dobfWIOgXTM,Calisia upright piano,63,,піаніно,no,польське піаніно; Shorts,acoustic
+292_calisia_upright_55_b.wav,292,https://www.youtube.com/shorts/KQ5UBmVzTDw,Calisia upright piano (інший запис),55,,піаніно,no,Shorts; інший запис Calisia (пор. №291),acoustic
+293_calisia_m120_detuned_38_a.wav,293,https://www.youtube.com/watch?v=dLTiIMKB39c,Calisia M-120 (1975) розстроєний,38,,піаніно,no,1975; ДО настройки 0:00-1:36; пара до/після з №293b,acoustic
+293_calisia_m120_tuned_55_b.wav,293,https://www.youtube.com/watch?v=dLTiIMKB39c,Calisia M-120 (1975) настроєний,55,,піаніно,no,1975; ПІСЛЯ настройки 2:00-4:24; пара до/після з №293a,acoustic
+294_calisia_piano_57.wav,294,https://www.youtube.com/watch?v=Z_rXTEHm4Fc,Calisia piano,57,,піаніно,no,відрізок 1:45-2:17,acoustic
+295_calisia_m36_58.wav,295,https://www.youtube.com/watch?v=WCm_jCDPb0E,"Calisia M-36, 1963",58,,піаніно,no,1963 (не OLD),acoustic
+296_calisia_detuned_38_a.wav,296,https://www.youtube.com/watch?v=57-xaNUiI2s,Calisia (1985) розстроєний,38,,піаніно,no,1985; ДО настройки 0:00-1:00; пара до/після з №296b,acoustic
+296_calisia_tuned_51_b.wav,296,https://www.youtube.com/watch?v=57-xaNUiI2s,Calisia (1985) настроєний,51,,піаніно,no,1985; ПІСЛЯ настройки 2:00-5:00; пара до/після з №296a,acoustic
+297_schimmel_k213_94.wav,297,https://www.youtube.com/watch?v=IHZUlbXpwK8,Schimmel K213 Grand Piano,94,,рояль,no,213см; звичайний корпус (пор. скляний №202),acoustic
+298_schimmel_k213_94_b.wav,298,https://www.youtube.com/watch?v=Fjb81cOKVuA,Schimmel K213 Grand Piano (інший запис),94,,рояль,no,213см; ТІЛЬКИ нормалізація амплітуди (тиша НЕ обрізана); пор. №297,acoustic
+299_schimmel_k213_94_c.wav,299,https://www.youtube.com/watch?v=kQhZ6pollQY,Schimmel K213 Grand Piano (третій запис),94,,рояль,no,213см; третій запис K213 (пор. №297/298),acoustic
+300_schimmel_k213_glas_94_b.wav,300,https://www.youtube.com/watch?v=xux__NU6dI0,Schimmel K213 Glas (plexiglass) (інший запис),94,,рояль,no,213см; плексигласовий корпус; інший запис скляного (пор. №202),acoustic
+301_schimmel_k213_glas_94_c.wav,301,https://www.youtube.com/watch?v=se9JmOWGfck,Schimmel K213 Glas (plexiglass) (третій запис),94,,рояль,no,213см; плексигласовий корпус; третій запис скляного (пор. №202/300),acoustic
+302_bosendorfer_imperial290_99.wav,302,https://www.youtube.com/watch?v=KA3JlEvmKlM,Bösendorfer Imperial 290 Concert Grand,99,,рояль,no,290см; флагманський концертний рояль,acoustic
+303_bosendorfer_imperial290_99_b.wav,303,https://www.youtube.com/watch?v=ORho0WyjtGk,Bösendorfer Imperial 290 Concert Grand (інший запис),99,,рояль,no,290см; відрізок 1:08-2:29; інший запис Imperial 290 (пор. №302),acoustic
+304_calisia_109_61.wav,304,https://www.youtube.com/watch?v=N1MRAnPrwPA,Calisia 109 (piano droit),61,,піаніно,no,109см,acoustic
+305_calisia_1960_56.wav,305,https://www.youtube.com/watch?v=b1t_vNOtQG4,Calisia piano (1960),56,,піаніно,yes,1960 (не OLD),acoustic
+306_bergmann_tg150_77.wav,306,https://www.youtube.com/watch?v=A6G3NpHHO4Q,Bergmann TG150 Grand,77,,рояль,no,150см; бюджетний бренд Young Chang,acoustic
+307_bergmann_tg150_77_b.wav,307,https://www.youtube.com/watch?v=3AezBAmDgh8,Bergmann TG-150 Baby Grand (2004),77,,рояль,no,2004; відрізок 0:08-1:38; інший запис TG150 (пор. №306),acoustic
+308_bergmann_e121_76.wav,308,https://www.youtube.com/watch?v=vlHpQVDPq1Q,Bergmann E121 Vertical Piano,76,,піаніно,no,121см; відрізок 0:07-0:40,acoustic
+309_wilhelm_schimmel_w114_80.wav,309,https://www.youtube.com/watch?v=Zuo6LXDZI7Y,Wilhelm Schimmel W114 Upright,80,,піаніно,no,114см,acoustic
+310_mason_hamlin_a_89.wav,310,https://www.youtube.com/watch?v=ls7W5-jnfC8,Mason & Hamlin Model A Baby Grand,89,,рояль,no,5ft8 baby grand; американський бренд,acoustic
+311_samick_sg150c_75.wav,311,https://www.youtube.com/watch?v=wthN3SHVjNI,"Samick SG-150C, 1997",75,,рояль,no,1997; 150см; з 2:26,acoustic
+312_samick_sg150c_75_b.wav,312,https://www.youtube.com/watch?v=tO73T37GcKs,"Samick SG-150C, 1997 (інший запис)",75,,рояль,no,1997; 150см; відрізок 0:45-1:20; інший запис SG-150C (пор. №311),acoustic
+313_samick_sg150c_75_c.wav,313,https://www.youtube.com/watch?v=EO5SYKKCpuM,"Samick SG-150C, 1997 (третій запис)",75,,рояль,no,1997; 150см; до 3:40; третій запис SG-150C (пор. №311/312),acoustic
+314_bechstein_a175_88_b.wav,314,https://www.youtube.com/watch?v=-Oy2CDswnz8,C. Bechstein Academy A 175 (інший запис),88,,рояль,no,175см; DRM - запис екрана; інший запис A175 (пор. №284),acoustic
+315_seiler_ed132_88.wav,315,https://www.youtube.com/shorts/yHWhzHwuEZE,Eduard Seiler ED-132 Upright,88,,піаніно,no,132см; DRM - запис екрана,acoustic
+316_unknown_detuned_34.wav,316,https://www.youtube.com/watch?v=7Uc2ufK-CQ0,Невідоме піаніно (сильно розстроєне),34,,піаніно,no,сильний detune; цінне для сигналу строю,acoustic
+317_upright_1920s_detuned_32_OLD.wav,317,https://www.youtube.com/watch?v=jD3krozP-2g,Піаніно 1920-х (сильно розстроєне),32,OLD,піаніно,no,1920-ті (OLD); сильний detune; цінне для сигналу строю,acoustic
+318_kawai_princess_48.wav,318,https://www.youtube.com/watch?v=C91pcz_QFC0,Kawai Princess Piano,48,,піаніно,no,компактне піаніно; DRM - запис екрана; фрагмент 0:15-0:28,acoustic
+319a_upright_detuned_35_OLD.wav,319,https://www.youtube.com/watch?v=9BiEslDFfcs,Невідоме піаніно OLD (сильно розстроєне),35,OLD,піаніно,no,старе; 0:00-0:18; сильний detune; 1 з 4 в відео,acoustic
+319b_upright_47_OLD.wav,319,https://www.youtube.com/watch?v=9BiEslDFfcs,"Невідоме піаніно OLD (настроєне, слабкий звук)",47,OLD,піаніно,no,старе; 0:24-0:34; настроєне але не звучить; 2 з 4,acoustic
+319c_grand_55_OLD.wav,319,https://www.youtube.com/watch?v=9BiEslDFfcs,Невідомий рояль OLD (трохи розстроєний),55,OLD,рояль,no,старе; 0:40-1:06; трохи розстроєний; 3 з 4,acoustic
+319d_pleyel_65_OLD.wav,319,https://www.youtube.com/watch?v=9BiEslDFfcs,"Pleyel grand OLD (настроєний, старий)",65,OLD,рояль,no,старе; Pleyel (ідентифіковано); 1:17-2:17; настроєний але старий/слабкий; 4 з 4,acoustic
+m1_patches/m1_K01-01_M1HousePiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 M1HousePiano (K01 01),38,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M03-02_SimplPiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 SimplPiano (M03 02),36,,,no,цифровий патч KORG M1 (1988); негатив; оцінка оцінена за аналогією,digital
+m1_patches/m1_M07-00_Piano2Low.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano2 Low (M07 00),36,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M08-38_Stickpiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Stickpiano (M08 38),27,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M14-11_DreamPiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 DreamPiano (M14 11),31,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_K01-71_ResPiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Res.Piano (K01 71),35,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M03-32_PianoWith.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 PianoWith? (M03 32),30,,,no,цифровий патч KORG M1 (1988); негатив; оцінка оцінена за аналогією,digital
+m1_patches/m1_M07-01_Piano2High.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano2High (M07 01),38,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M09-03_Toy-Piano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Toy-Piano (M09 03),20,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M14-12_Piatoron.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piatoron (M14 12),25,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M01-01_Piano16ft.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano 16ft (M01 01),38,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M03-73_ToyPiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 ToyPiano (M03 73),22,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M07-02_Piano1Low.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano1 Low (M07 02),36,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M10-21_PianoSoft.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano Soft (M10 21),42,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M15-17_VoxPiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Vox Piano (M15 17),28,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M01-21_MagicPiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 MagicPiano (M01 21),32,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M04-33_PianoTalk.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 PianoTalk (M04 33),28,,,no,цифровий патч KORG M1 (1988); негатив; оцінка оцінена за аналогією,digital
+m1_patches/m1_M07-03_Pianos1.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Pianos 1 (M07 03),41,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M10-22_Piano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano (M10 22),38,,,no,цифровий патч KORG M1 (1988); негатив; оцінка оцінена за аналогією,digital
+m1_patches/m1_M17-40_70sPiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 70's Piano (M17 40),30,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M01-41_Piano8ft.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano 8ft (M01 41),37,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M04-39_PhasePiano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 PhasePiano (M04 39),30,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M07-04_Piano1High.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano1High (M07 04),38,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M10-23_PianoBrite.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 PianoBrite (M10 23),36,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M18-16_AutumnPf.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 AutumnPf (M18 16),33,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M02-01_Piano2_16ft.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano2 16ft (M02 01),37,,,no,цифровий патч KORG M1 (1988); негатив; оцінка оцінена за аналогією,digital
+m1_patches/m1_M05-01_SoftGrand.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Soft Grand (M05 01),42,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M07-05_Pianos2.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Pianos 2 (M07 05),40,,,no,цифровий патч KORG M1 (1988); негатив,digital
+m1_patches/m1_M10-29_Obligatory.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Obligatory (M10 29),35,,,no,цифровий патч KORG M1 (1988); негатив; оцінка оцінена за аналогією,digital
+m1_patches/m1_M18-49_Piano.wav,m1,https://www.youtube.com/watch?v=E5_QAlCf-GQ,KORG M1 Piano (M18 49),36,,,no,цифровий патч KORG M1 (1988); негатив; оцінка оцінена за аналогією,digital
+320_wurlitzer_babygrand_58.wav,320,https://www.youtube.com/shorts/n043ymcaK80,Wurlitzer baby grand piano,58,,рояль,no,Shorts,acoustic
+321_wurlitzer_spinet_1952_55.wav,321,https://www.youtube.com/watch?v=1QEeLtV-ArA,Wurlitzer Spinet (1952),55,,піаніно,no,1952 (не OLD); спінет; відрізок 3:01-3:59,acoustic
+322_wurlitzer_spinet_57_b.wav,322,https://www.youtube.com/watch?v=6qeM6oDDYjc,Wurlitzer Spinet Piano (інший запис),57,,піаніно,no,спінет; відрізок 2:24-3:28; інший запис (пор. №321),acoustic
+323_wurlitzer_spinet_54_c.wav,323,https://www.youtube.com/shorts/bKuArVqXITk,Wurlitzer Spinet (третій запис),54,,піаніно,no,спінет; Shorts; з 0:04; третій запис (пор. №321/322),acoustic
+324_wurlitzer_spinet_53_d.wav,324,https://www.youtube.com/shorts/DyaM_yHfdxU,Wurlitzer Spinet (четвертий запис),53,,піаніно,no,спінет; Shorts; четвертий запис (пор. №321-323),acoustic
+325_wurlitzer_spinet_55_e.wav,325,https://www.youtube.com/watch?v=nxtvGWh3Jw0,Wurlitzer Spinet (п'ятий запис),55,,піаніно,no,спінет; відрізок 1:14-1:44; п'ятий запис (пор. №321-324),acoustic
+326_wurlitzer_spinet_52_f.wav,326,https://www.youtube.com/watch?v=6BOTZyAXIoo,Wurlitzer Spinet (шостий запис),52,,піаніно,no,спінет; шостий запис (пор. №321-325),acoustic
+327_kimball_console_56.wav,327,https://www.youtube.com/watch?v=fFUrb8xBh9Q,Kimball Console,56,,піаніно,no,консольне піаніно,acoustic
+328_kimball_console_58_b.wav,328,https://www.youtube.com/watch?v=WfoTY-r3U6s,Kimball Walnut Satin Artist Console,58,,піаніно,no,консольне піаніно; інший запис (пор. №327); переоцінено 57->58,acoustic
+329_kimball_console_55_c.wav,329,https://www.youtube.com/watch?v=r6HdNL8ylFA,Kimball Console (третій запис),55,,піаніно,no,консольне піаніно; DRM - запис екрана; третій запис (пор. №327/328),acoustic
+330_yamaha_m510_72.wav,330,https://www.youtube.com/watch?v=bhsItLQFG7U,Yamaha M510 Walnut Satin Console,72,,піаніно,no,консольне піаніно,acoustic
+331_ronisch_deluxe_54.wav,331,https://www.youtube.com/watch?v=EPud59Z4_1k,"Rönisch de luxe (НДР/GDR)",54,,піаніно,no,східнонімецьке піаніно; з 30:20,acoustic
+332_nocturno_rostovdon_43.wav,332,https://www.youtube.com/watch?v=-f3OJkvMog8,Nocturno / Rostov-Don,43,,піаніно,no,радянське піаніно (Ростов-Дон); з 36:34,acoustic
+333_rostovdon_s5_47.wav,333,https://www.youtube.com/watch?v=zD4e6sjFD-U,Ростов-Дон С-5 (арт. 102),47,,піаніно,no,радянське піаніно; відрізок 46:03-48:26,acoustic
+334_kripschinski_47_OLD.wav,334,https://www.youtube.com/watch?v=s4JWIm9tvak,F. Kripschinski upright (OLD),47,OLD,піаніно,no,старе піаніно; відрізок 41:07-43:15,acoustic
+335_belarus_b2_44_OLD.wav,335,https://www.youtube.com/watch?v=XZgKiJRnTV8,"Беларусь Б-2 (арт. 109, OLD)",44,OLD,піаніно,no,радянське піаніно; відрізок 38:02-38:52,acoustic
+336_krasny_oktyabr_47_OLD.wav,336,https://www.youtube.com/watch?v=GEFHdIqIuug,Красный Октябрь (OLD),47,OLD,піаніно,no,ленінградське радянське піаніно; відрізок 9:11-10:30,acoustic
+337_neumann_breslau_41_OLD.wav,337,https://www.youtube.com/watch?v=VjnDciEi8To,Georg Neumann Breslau upright (OLD),41,OLD,піаніно,no,старе німецьке піаніно (Breslau); відрізок 15:05-15:54,acoustic
+338_finger_47.wav,338,https://www.youtube.com/watch?v=6zPUb1rZsuI,Finger upright,47,,піаніно,no,з 26:31,acoustic
+339_thurmer_56_OLD.wav,339,https://www.youtube.com/watch?v=a9NAI3Hr4So,Thürmer Piano (OLD),56,OLD,піаніно,no,старе німецьке піаніно; до 1:17,acoustic
+340_ibach_grand_60_OLD.wav,340,https://www.youtube.com/watch?v=FyxRpkpcmNs,"Rud. Ibach Sohn grand (Barmen, OLD)",60,OLD,рояль,no,старий німецький рояль,acoustic
+341_thurmer_grand_70.wav,341,https://www.youtube.com/watch?v=dFg-bFllNdE,Thürmer grand,70,,рояль,no,німецький рояль,acoustic
+342a_desna_1965_45.wav,342,https://www.youtube.com/watch?v=pf5xtwmctQA,"Десна, 1965",45,,піаніно,no,радянське піаніно; 1965; 0:00-0:40; 1 з 6,acoustic
+342b_ukraina_chernigov_1957_48.wav,342,https://www.youtube.com/watch?v=pf5xtwmctQA,"Украина (Чернигов), 1957",48,,піаніно,no,радянське піаніно; 1957; 0:49-1:20; 2 з 6,acoustic
+342c_zarya_1967_43.wav,342,https://www.youtube.com/watch?v=pf5xtwmctQA,"Заря, 1967",43,,піаніно,no,радянське піаніно; 1967; 1:32-2:14; 3 з 6,acoustic
+342d_yunost_1979_41.wav,342,https://www.youtube.com/watch?v=pf5xtwmctQA,"Юность, 1979",41,,піаніно,no,радянське піаніно; 1979; 2:25-3:05; 4 з 6,acoustic
+342e_rostovdon_1985_40.wav,342,https://www.youtube.com/watch?v=pf5xtwmctQA,"Ростов-Дон, 1985",40,,піаніно,no,радянське піаніно; 1985; 3:16-4:56; 5 з 6,acoustic
+342f_akkord_1981_46.wav,342,https://www.youtube.com/watch?v=pf5xtwmctQA,"Аккорд, 1981",46,,піаніно,no,радянське піаніно; 1981; 5:12-6:05; 6 з 6,acoustic
+343_chaika_54.wav,343,https://www.youtube.com/watch?v=G4j96dulQzk,Пианино Чайка,54,,піаніно,no,радянське піаніно; відрізок 0:15-1:40,acoustic
+344_primorye_1955_55.wav,344,https://www.youtube.com/watch?v=vbkDy3X_tzE,"Приморье, 1955",55,,піаніно,no,радянське піаніно; 1955 (не OLD); відрізок 0:15-1:50,acoustic
+345_krasny_oktyabr_1952_58.wav,345,https://www.youtube.com/watch?v=YTDyoTu62gM,"Красный Октябрь, 1952",58,,піаніно,no,радянське піаніно; 1952 (не OLD; >1950); відрізок 0:07-2:10; пор. №336,acoustic
+346_glinka_m185_84.wav,346,https://www.youtube.com/watch?v=Y3LuSNU00QQ,Михаил Глинка М-185,84,,рояль,no,радянський рояль,acoustic
+347_glinka_t183_83.wav,347,https://www.youtube.com/watch?v=tckVOj7UKr8,Михаил Глинка T-183,83,,рояль,no,радянський рояль,acoustic
+348_glinka_m3_78.wav,348,https://www.youtube.com/watch?v=zYZ5sDdjQR8,Михаил Глинка М-3,78,,піаніно,no,радянське піаніно,acoustic
+349_glinka_m160_t161_80.wav,349,https://www.youtube.com/watch?v=vn8ePsRR01E,Михаил Глинка M-160 / T-161,80,,рояль,no,радянський рояль,acoustic
+350_glinka_m208_87.wav,350,https://www.youtube.com/watch?v=VKKu1QpDe-g,Михаил Глинка М-208,87,,рояль,no,радянський рояль,acoustic
+351_glinka_kompozitor_77.wav,351,https://www.youtube.com/watch?v=T56WDjBZeKE,Михаил Глинка Композитор,77,,піаніно,no,радянське піаніно,acoustic
+352_glinka_t221_88.wav,352,https://www.youtube.com/watch?v=SaUzBWHMPwg,Михаил Глинка Т-221,88,,рояль,no,радянський рояль,acoustic
+353_belarus_43.wav,353,https://www.youtube.com/shorts/-6jQBYQ21cY,Беларусь,43,,піаніно,no,радянське піаніно; Shorts; пор. №335 Б-2,acoustic
+354_belarus_48_b.wav,354,https://www.youtube.com/watch?v=5mmnnhqAEQ4,Беларусь upright (інший запис),48,,піаніно,no,радянське піаніно; відрізок 0:05-1:00; пор. №353,acoustic
+355_zimmermann_58.wav,355,https://www.youtube.com/watch?v=_--e268Ox3w,Zimmermann upright,58,,піаніно,no,відрізок 0:10-2:00,acoustic
+356_geyer_berlin_56.wav,356,https://www.youtube.com/watch?v=xRmaqKRp_dE,Geyer mod. Berlin (DDR),56,,піаніно,no,східнонімецьке піаніно (НДР),acoustic
+357_zimmermann_58_b.wav,357,https://www.youtube.com/watch?v=LZ7yKMAYjEs,Zimmermann upright (інший запис),58,,піаніно,no,інший Ціммерман (пор. №355),acoustic
+358_zimmermann_58_c.wav,358,https://www.youtube.com/watch?v=MS66cBpe8-I,Zimmermann upright (третій запис),58,,піаніно,no,з 0:02; оцінка прийнята 58 як у №355/357; третій Ціммерман,acoustic
+359_geyer_1960s_55_b.wav,359,https://www.youtube.com/watch?v=m4n9Gzg00io,"Geyer (1960-ті, DDR)",55,,піаніно,no,східнонімецьке піаніно (НДР); 1960-ті (не OLD); з 0:02; пор. №356,acoustic
+360_krasny_oktyabr_50.wav,360,https://www.youtube.com/watch?v=4FnJuK87Io4,Красный Октябрь,50,,піаніно,no,радянське піаніно; DRM - запис екрана; до 1:00; пор. №336/345,acoustic
+361_geyer_1955_53_c.wav,361,https://www.youtube.com/watch?v=6YZnEG5wPA0,"Geyer (~1955, DDR)",53,,піаніно,no,східнонімецьке піаніно (НДР); ~1955 (не OLD); DRM - запис екрана; пор. №356/359,acoustic
+362_ukraina_1977_54.wav,362,https://www.youtube.com/watch?v=B2nbfJEYCWg,"Украина, 1977",54,,піаніно,no,радянське піаніно; 1977 (не OLD); DRM - запис екрана; пор. №342b,acoustic
+363_fibich_61.wav,363,https://www.youtube.com/watch?v=g3aM-m5DDns,Fibich,61,,піаніно,no,чеське піаніно,acoustic
+364_ukraina_56.wav,364,https://www.youtube.com/watch?v=TQIF4JZjs_g,Україна,56,,піаніно,no,радянське піаніно; перші 3:00; пор. №342b/362,acoustic
+365_palatino_70.wav,365,https://www.youtube.com/watch?v=bYsS11yKcbw,"Palatino 48.5"" Upright",70,,піаніно,no,~123см,acoustic
+366_sauter_112_80.wav,366,https://www.youtube.com/watch?v=Sz8PHEtm4yI,Sauter 112 Eiche schwarz,80,,піаніно,no,112см; німецьке піаніно,acoustic
+367_samick_su108p_68_c.wav,367,https://www.youtube.com/watch?v=KSjX1uUl-_U,Samick SU-108P (третій запис),68,,піаніно,no,108см; третій запис SU-108P (пор. №94/184),acoustic
+368_reid_sohn_66.wav,368,https://www.youtube.com/watch?v=_viXFVDenjg,Reid-Sohn,66,,піаніно,no,бренд Samick,acoustic
+369_samick_ub108_68.wav,369,https://www.youtube.com/watch?v=D8NVYg0NAKA,Samick UB-108 Mahogany Upright,68,,піаніно,no,108см,acoustic
+370_kayserburg_gh160a_83.wav,370,https://www.youtube.com/watch?v=ajhDlLle5b4,Kayserburg GH160A,83,,рояль,no,160см; преміум-бренд Pearl River,acoustic
+371_samick_su105_65.wav,371,https://www.youtube.com/watch?v=0DSXQBIGfk4,Samick SU-105,65,,піаніно,no,105см; до 3:00,acoustic
+372_samick_su105_65_b.wav,372,https://www.youtube.com/watch?v=oSVXYGRBs7Q,Samick SU-105 (інший запис),65,,піаніно,no,105см; вживаний; відрізок 2:00-3:40; пор. №371,acoustic
+373_samick_su105_65_c.wav,373,https://www.youtube.com/watch?v=lMMbAhphwas,Samick SU-105 (третій запис),65,,піаніно,no,105см; третій запис SU-105 (пор. №371/372),acoustic
+374_grossmann_53_OLD.wav,374,https://www.youtube.com/watch?v=osvUCD6Dsig,Ad. Grossmann (OLD),53,OLD,піаніно,no,старе піаніно; відрізок 24:21-26:03,acoustic
+375_reid_sohn_66_b.wav,375,https://www.youtube.com/watch?v=-s8H0qTpvgs,Reid-Sohn Walnut Satin (інший запис),66,,піаніно,no,вживаний; відрізок 1:44-2:04; пор. №368,acoustic
+376_reid_sohn_66_c.wav,376,https://www.youtube.com/watch?v=SpIDHOWYzK0,Reid-Sohn modern (третій запис),66,,піаніно,no,сучасний; третій запис Reid-Sohn (пор. №368/375),acoustic
+377_reid_sohn_rs042_66_d.wav,377,https://www.youtube.com/watch?v=WJj8KxlEaU4,Reid-Sohn RS-042 Upright,66,,піаніно,no,склеєно 0:00-0:27 + 1:40-1:45; четвертий запис Reid-Sohn (пор. №368/375/376),acoustic
+378_ornate_upright_43_OLD.wav,378,https://www.youtube.com/shorts/MdoWkeFUcoE,Ornate upright (OLD),43,OLD,піаніно,no,старе оздоблене піаніно; Shorts; до 0:18,acoustic
+379_reid_sohn_su110_67_e.wav,379,https://www.youtube.com/watch?v=UIm_Ss8Abe0,Reid-Sohn SU110 Satin Cherry,67,,піаніно,no,110см; вживаний; п'ятий запис Reid-Sohn (пор. №368/375-377),acoustic
+380_reid_sohn_cs108_66_f.wav,380,https://www.youtube.com/watch?v=Bm1hIVByUyM,Reid-Sohn CS-108 Small Upright,66,,піаніно,no,108см; шостий запис Reid-Sohn (пор. №368/375-379),acoustic
+381_reid_sohn_69_g.wav,381,https://www.youtube.com/watch?v=psRkSmjnwk8,Reid-Sohn upright (сьомий запис),69,,піаніно,no,до 1:35; сьомий запис Reid-Sohn (пор. №368/375-380),acoustic
+382_reid_sohn_su108p_67_h.wav,382,https://www.youtube.com/watch?v=vLbdh68hDaI,Reid-Sohn SU108P,67,,піаніно,no,108см; відрізок 1:33-2:40; восьмий запис Reid-Sohn,acoustic
+383_reid_sohn_67_i.wav,383,https://www.youtube.com/watch?v=TkD9HJaTyB4,Reid-Sohn Upright (дев'ятий запис),67,,піаніно,no,відрізок 0:35-1:27; дев'ятий запис Reid-Sohn,acoustic
+384_reid_sohn_69_j.wav,384,https://www.youtube.com/watch?v=5ZzoprvCIMs,Reid-Sohn Re-cased Walnut Upright,69,,піаніно,no,десятий запис Reid-Sohn,acoustic
+385_reid_sohn_babygrand_76.wav,385,https://www.youtube.com/watch?v=IP1lvS-V4jw,Reid-Sohn Cream White Baby Grand,76,,рояль,no,DRM - запис екрана; до 0:30,acoustic
+386_reid_sohn_su131_75.wav,386,https://www.youtube.com/watch?v=wPgcWCJeb1o,Reid-Sohn SU-131 Upright Black,75,,піаніно,no,131см; відрізок 1:10-2:20,acoustic
+387_reid_sohn_sg150c_75.wav,387,https://www.youtube.com/watch?v=t3VYFfOnOZo,Reid-Sohn SG150C Baby Grand,75,,рояль,no,150см; відрізок 1:00-2:26,acoustic
+388_reid_sohn_112_68.wav,388,https://www.youtube.com/watch?v=6LEvGGcmsIg,Reid-Sohn 112 Upright,68,,піаніно,no,112см; до 2:00,acoustic
+389_storytone_1939_49.wav,389,https://www.youtube.com/watch?v=OINs12sXRK0,Story & Clark / RCA Storytone (1939) - перше електропіаніно,49,OLD,,no,ЕЛЕКТРОАКУСТИЧНЕ: реальні струни+молоточки + електростатичний звукознімач; БЕЗ деки/резонатора; цінне як сигнал струн БЕЗ резонатора для гібридної моделі (вхід перед learned soundboard),electroacoustic
+390_reid_sohn_su110_67_b.wav,390,https://www.youtube.com/watch?v=bh7p5UdIflo,Reid-Sohn SU-110 (інший запис),67,,піаніно,no,відрізок 3:37-4:06; пор. №379,acoustic
+391_yamaha_cfx_97.wav,391,https://www.youtube.com/watch?v=S7LDXaQbroE,Yamaha CFX Concert Grand (2022),97,,рояль,no,до 1:00; оцінка як інші CFX (№52/55/123/125),acoustic

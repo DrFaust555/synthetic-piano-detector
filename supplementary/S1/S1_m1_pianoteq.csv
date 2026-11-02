@@ -1,0 +1,44 @@
+source,file,video_id,program_or_segment,row_in_paper,start_in_video_s,end_in_video_s,duration_s
+Korg M1,m1_patches/m1_K01-01_M1HousePiano.wav,E5_QAlCf-GQ,K01-01 M1HousePiano,piano presets (22),0.0,23.5,18.73
+Korg M1,m1_patches/m1_M03-02_SimplPiano.wav,E5_QAlCf-GQ,M03-02 SimplPiano,piano presets (22),23.5,41.5,16.3
+Korg M1,m1_patches/m1_M07-00_Piano2Low.wav,E5_QAlCf-GQ,M07-00 Piano2 Low,piano presets (22),41.5,86.0,39.17
+Korg M1,m1_patches/m1_M08-38_Stickpiano.wav,E5_QAlCf-GQ,M08-38 Stickpiano,non-piano patches (8),86.0,103.5,15.44
+Korg M1,m1_patches/m1_M14-11_DreamPiano.wav,E5_QAlCf-GQ,M14-11 DreamPiano,piano presets (22),103.5,121.0,15.8
+Korg M1,m1_patches/m1_K01-71_ResPiano.wav,E5_QAlCf-GQ,K01-71 Res.Piano,non-piano patches (8),121.0,148.0,25.01
+Korg M1,m1_patches/m1_M03-32_PianoWith.wav,E5_QAlCf-GQ,M03-32 PianoWith?,piano presets (22),148.0,173.5,23.8
+Korg M1,m1_patches/m1_M07-01_Piano2High.wav,E5_QAlCf-GQ,M07-01 Piano2High,piano presets (22),173.5,197.0,21.8
+Korg M1,m1_patches/m1_M09-03_Toy-Piano.wav,E5_QAlCf-GQ,M09-03 Toy-Piano,non-piano patches (8),197.0,215.5,15.14
+Korg M1,m1_patches/m1_M14-12_Piatoron.wav,E5_QAlCf-GQ,M14-12 Piatoron,piano presets (22),215.5,237.5,20.02
+Korg M1,m1_patches/m1_M01-01_Piano16ft.wav,E5_QAlCf-GQ,M01-01 Piano 16',piano presets (22),237.5,263.0,23.51
+Korg M1,m1_patches/m1_M03-73_ToyPiano.wav,E5_QAlCf-GQ,M03-73 ToyPiano,non-piano patches (8),263.0,289.5,24.8
+Korg M1,m1_patches/m1_M07-02_Piano1Low.wav,E5_QAlCf-GQ,M07-02 Piano1 Low,piano presets (22),289.5,328.5,37.1
+Korg M1,m1_patches/m1_M10-21_PianoSoft.wav,E5_QAlCf-GQ,M10-21 Piano Soft,piano presets (22),328.5,358.5,26.52
+Korg M1,m1_patches/m1_M15-17_VoxPiano.wav,E5_QAlCf-GQ,M15-17 Vox Piano,non-piano patches (8),358.5,390.5,27.5
+Korg M1,m1_patches/m1_M01-21_MagicPiano.wav,E5_QAlCf-GQ,M01-21 MagicPiano,non-piano patches (8),390.5,439.0,46.8
+Korg M1,m1_patches/m1_M04-33_PianoTalk.wav,E5_QAlCf-GQ,M04-33 PianoTalk,non-piano patches (8),439.0,459.5,17.24
+Korg M1,m1_patches/m1_M07-03_Pianos1.wav,E5_QAlCf-GQ,M07-03 Pianos 1,piano presets (22),459.5,487.0,24.65
+Korg M1,m1_patches/m1_M10-22_Piano.wav,E5_QAlCf-GQ,M10-22 Piano,piano presets (22),487.0,565.5,76.8
+Korg M1,m1_patches/m1_M17-40_70sPiano.wav,E5_QAlCf-GQ,M17-40 70's Piano,piano presets (22),565.5,598.0,28.57
+Korg M1,m1_patches/m1_M01-41_Piano8ft.wav,E5_QAlCf-GQ,M01-41 Piano 8',piano presets (22),598.0,657.0,56.8
+Korg M1,m1_patches/m1_M04-39_PhasePiano.wav,E5_QAlCf-GQ,M04-39 PhasePiano,non-piano patches (8),657.0,690.0,31.16
+Korg M1,m1_patches/m1_M07-04_Piano1High.wav,E5_QAlCf-GQ,M07-04 Piano1High,piano presets (22),690.0,729.0,34.66
+Korg M1,m1_patches/m1_M10-23_PianoBrite.wav,E5_QAlCf-GQ,M10-23 PianoBrite,piano presets (22),729.0,778.5,45.57
+Korg M1,m1_patches/m1_M18-16_AutumnPf.wav,E5_QAlCf-GQ,M18-16 AutumnPf,piano presets (22),778.5,811.0,27.01
+Korg M1,m1_patches/m1_M02-01_Piano2_16ft.wav,E5_QAlCf-GQ,M02-01 Piano2 16',piano presets (22),811.0,856.5,41.82
+Korg M1,m1_patches/m1_M05-01_SoftGrand.wav,E5_QAlCf-GQ,M05-01 Soft Grand,piano presets (22),856.5,881.5,23.24
+Korg M1,m1_patches/m1_M07-05_Pianos2.wav,E5_QAlCf-GQ,M07-05 Pianos 2,piano presets (22),881.5,932.5,47.55
+Korg M1,m1_patches/m1_M10-29_Obligatory.wav,E5_QAlCf-GQ,M10-29 Obligatory,piano presets (22),932.5,979.0,44.38
+Korg M1,m1_patches/m1_M18-49_Piano.wav,E5_QAlCf-GQ,M18-49 Piano,piano presets (22),979.0,1015.9,31.58
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_01.wav,sVbC5Kfr1_s,segment 1,Pianoteq (13),0.356,23.197,22.84
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_02.wav,sVbC5Kfr1_s,segment 2,Pianoteq (13),23.397,37.043,13.65
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_03.wav,sVbC5Kfr1_s,segment 3,Pianoteq (13),37.243,66.009,28.77
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_04.wav,sVbC5Kfr1_s,segment 4,Pianoteq (13),66.209,98.441,32.23
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_05.wav,sVbC5Kfr1_s,segment 5,Pianoteq (13),98.642,151.806,53.16
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_06.wav,sVbC5Kfr1_s,segment 6,Pianoteq (13),152.006,177.169,25.16
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_07.wav,sVbC5Kfr1_s,segment 7,Pianoteq (13),177.369,190.817,13.45
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_08.wav,sVbC5Kfr1_s,segment 8,Pianoteq (13),191.017,213.0,21.98
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_09.wav,sVbC5Kfr1_s,segment 9,Pianoteq (13),213.2,230.032,16.83
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_10.wav,sVbC5Kfr1_s,segment 10,Pianoteq (13),230.232,259.464,29.23
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_11.wav,sVbC5Kfr1_s,segment 11,Pianoteq (13),259.664,280.133,20.47
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_12.wav,sVbC5Kfr1_s,segment 12,Pianoteq (13),280.333,297.496,17.16
+Pianoteq 9 (Modartt),pianoteq/pianoteq_modartt9_13.wav,sVbC5Kfr1_s,segment 13,Pianoteq (13),297.696,322.718,25.02

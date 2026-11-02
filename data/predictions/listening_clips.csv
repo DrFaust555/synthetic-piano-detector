@@ -1,0 +1,31 @@
+clip,file,source,note,algorithmic,p_fusion,training
+clip_01,Stattia/listening_kit/web/clip_01.wav,Salamander (sampled),D#3,0,0.0628072246909141,fusion trained on the whole isolated-note corpus
+clip_02,Stattia/listening_kit/web/clip_02.wav,Iowa Steinway,D3,0,0.3525254726409912,fusion trained on the whole isolated-note corpus
+clip_03,Stattia/listening_kit/web/clip_03.wav,K18 upright,D#3,0,0.0313926711678504,fusion trained on the whole isolated-note corpus
+clip_04,Stattia/listening_kit/web/clip_04.wav,Salamander (sampled),C4,0,0.6087397336959839,fusion trained on the whole isolated-note corpus
+clip_05,Stattia/listening_kit/web/clip_05.wav,Salamander (sampled),D#4,0,0.121266022324562,fusion trained on the whole isolated-note corpus
+clip_06,Stattia/listening_kit/web/clip_06.wav,Iowa Steinway,B4,0,0.3144911825656891,fusion trained on the whole isolated-note corpus
+clip_07,Stattia/listening_kit/web/clip_07.wav,Otey physical model,B4,1,0.9808511734008789,fusion trained on the isolated-note corpus without the Otey notes at the pitches of these clips
+clip_08,Stattia/listening_kit/web/clip_08.wav,Salamander (sampled),A3,0,0.037748672068119,fusion trained on the whole isolated-note corpus
+clip_09,Stattia/listening_kit/web/clip_09.wav,Iowa Steinway,F4,0,0.1697344779968261,fusion trained on the whole isolated-note corpus
+clip_10,Stattia/listening_kit/web/clip_10.wav,soundfont,C4,1,0.6727601885795593,fusion trained on the isolated-note corpus without the Casio CA-110 SoundFont notes at the pitches of these clips
+clip_11,Stattia/listening_kit/web/clip_11.wav,Salamander (sampled),F#4,0,0.1171611100435257,fusion trained on the whole isolated-note corpus
+clip_12,Stattia/listening_kit/web/clip_12.wav,Iowa Steinway,B3,0,0.0067336834035813,fusion trained on the whole isolated-note corpus
+clip_13,Stattia/listening_kit/web/clip_13.wav,Otey physical model,C5,1,0.979490339756012,fusion trained on the isolated-note corpus without the Otey notes at the pitches of these clips
+clip_14,Stattia/listening_kit/web/clip_14.wav,Iowa Steinway,G3,0,0.0834367424249649,fusion trained on the whole isolated-note corpus
+clip_15,Stattia/listening_kit/web/clip_15.wav,K18 upright,C5,0,0.2328672856092453,fusion trained on the whole isolated-note corpus
+clip_16,Stattia/listening_kit/web/clip_16.wav,K18 upright,C3,0,0.0022894276771694,fusion trained on the whole isolated-note corpus
+clip_17,Stattia/listening_kit/web/clip_17.wav,K18 upright,F#3,0,0.8671754002571106,fusion trained on the whole isolated-note corpus
+clip_18,Stattia/listening_kit/web/clip_18.wav,K18 upright,D#4,0,0.0412331074476242,fusion trained on the whole isolated-note corpus
+clip_19,Stattia/listening_kit/web/clip_19.wav,Otey physical model,E4,1,0.9680450558662415,fusion trained on the isolated-note corpus without the Otey notes at the pitches of these clips
+clip_20,Stattia/listening_kit/web/clip_20.wav,Salamander (sampled),D#5,0,0.0200041234493255,fusion trained on the whole isolated-note corpus
+clip_21,Stattia/listening_kit/web/clip_21.wav,soundfont,C3,1,0.9997060894966125,fusion trained on the isolated-note corpus without the Casio CA-110 SoundFont notes at the pitches of these clips
+clip_22,Stattia/listening_kit/web/clip_22.wav,K18 upright,A3,0,0.9940698146820068,fusion trained on the whole isolated-note corpus
+clip_23,Stattia/listening_kit/web/clip_23.wav,K18 upright,D#5,0,0.357952743768692,fusion trained on the whole isolated-note corpus
+clip_24,Stattia/listening_kit/web/clip_24.wav,soundfont,A4,1,0.9995463490486145,fusion trained on the isolated-note corpus without the Casio CA-110 SoundFont notes at the pitches of these clips
+clip_25,Stattia/listening_kit/web/clip_25.wav,Otey physical model,G4,1,0.9235718250274658,fusion trained on the isolated-note corpus without the Otey notes at the pitches of these clips
+clip_26,Stattia/listening_kit/web/clip_26.wav,soundfont,A3,1,0.999908447265625,fusion trained on the isolated-note corpus without the Casio CA-110 SoundFont notes at the pitches of these clips
+clip_27,Stattia/listening_kit/web/clip_27.wav,Iowa Steinway,D5,0,0.0006748294690623,fusion trained on the whole isolated-note corpus
+clip_28,Stattia/listening_kit/web/clip_28.wav,Otey physical model,E3,1,0.9646539092063904,fusion trained on the isolated-note corpus without the Otey notes at the pitches of these clips
+clip_29,Stattia/listening_kit/web/clip_29.wav,Iowa Steinway,F3,0,0.1922927051782608,fusion trained on the whole isolated-note corpus
+clip_30,Stattia/listening_kit/web/clip_30.wav,soundfont,C5,1,0.9995772242546082,fusion trained on the isolated-note corpus without the Casio CA-110 SoundFont notes at the pitches of these clips
